@@ -1,5 +1,6 @@
 // etf2l item whitelist
-// Updated: Tue, 09 Aug 2011 10:07:47 +0200
+// Updated: Tue, 09 Aug 2011 15:20:33 +0200
+// Moved to github (this is a debug-msg)
 //
 // Allowed weapons for Main classes:
 //  - The Kritzkrieg
