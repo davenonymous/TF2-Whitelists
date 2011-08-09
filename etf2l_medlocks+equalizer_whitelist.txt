@@ -1,5 +1,5 @@
 // etf2l_medlocks+equalizer item whitelist
-// Updated: Tue, 09 Aug 2011 15:22:08 +0200
+// Updated: Wed, 10 Aug 2011 00:48:10 +0200
 //
 // Allowed weapons for Main classes:
 //  - The Kritzkrieg
@@ -324,7 +324,7 @@
     "Mask of the Shaman"                               "1"
     "Pilotka"                                          "1"
     "Stahlhelm"                                        "1"
-    "Tamrielic Relic"                                  "1"
+    "Dragonborn Helmet"                                "1"
     "The Anger"                                        "1"
     "World Traveler"                                   "1"
 
@@ -391,7 +391,7 @@
     "TournamentMedal - UGCHLDiv3 Winners"              "1"
     "TournamentMedal - UGCHLDiv3 2nd"                  "1"
     "TournamentMedal - UGCHLDiv3 3rd"                  "1"
-    "Pip-Boy 1950"                                     "1"
+    "Pip-Boy"                                          "1"
     "Wingstick"                                        "1"
 
     // Action Items:
