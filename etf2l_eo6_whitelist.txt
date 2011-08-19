@@ -1,5 +1,5 @@
 // etf2l_eo6 item whitelist
-// Updated: Wed, 10 Aug 2011 00:48:10 +0200
+// Updated: Fri, 19 Aug 2011 03:31:20 +0200
 //
 // Allowed weapons for Main classes:
 //  - The Kritzkrieg
@@ -148,6 +148,10 @@
     "The Big Earner"                                   "0"
     "The Maul"                                         "0"
     "Nessie's Nine Iron"                               "0"
+    "The Diamondback"                                  "0"
+    "The Machina"                                      "0"
+    "The Widowmaker"                                   "0"
+    "The Short Circuit"                                "0"
 
     // Blocked Hats:
 // None
@@ -328,6 +332,11 @@
     "Stahlhelm"                                        "1"
     "Dragonborn Helmet"                                "1"
     "The Anger"                                        "1"
+    "Belltower Spec Ops"                               "1"
+    "The Sarif Cap"                                    "1"
+    "Clockwerk's Helm"                                 "1"
+    "Sniper's Snipin' Glass"                           "1"
+    "Storm Spirit's Jolly Hat"                         "1"
     "World Traveler"                                   "1"
 
     // Misc Items:
@@ -395,6 +404,8 @@
     "TournamentMedal - UGCHLDiv3 3rd"                  "1"
     "Pip-Boy"                                          "1"
     "Wingstick"                                        "1"
+    "The Deus Specs"                                   "1"
+    "The Purity Fist"                                  "1"
 
     // Action Items:
     "Gift - 1 Player"                                  "1"
