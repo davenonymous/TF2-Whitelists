@@ -1,5 +1,5 @@
 // esl item whitelist
-// Updated: Fri, 19 Aug 2011 03:31:20 +0200
+// Updated: Wed, 24 Aug 2011 02:45:29 +0200
 //
 // Allowed weapons for Main classes:
 //  - The Kritzkrieg
@@ -334,6 +334,7 @@
     "Clockwerk's Helm"                                 "1"
     "Sniper's Snipin' Glass"                           "1"
     "Storm Spirit's Jolly Hat"                         "1"
+    "TF Birthday Hat 2011"                             "1"
     "World Traveler"                                   "1"
 
     // Misc Items:
@@ -422,6 +423,7 @@
     "Laugh Taunt"                                      "1"
     "Meet the Medic Heroic Taunt"                      "1"
     "Promotional Noise Maker - Fireworks"              "1"
+    "Noise Maker - TF Birthday"                        "1"
 
     // Weapon Skins:
     "TTG Max Pistol"                                   "1"
