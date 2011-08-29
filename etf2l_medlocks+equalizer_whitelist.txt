@@ -1,5 +1,5 @@
 // etf2l_medlocks+equalizer item whitelist
-// Updated: Wed, 24 Aug 2011 02:45:29 +0200
+// Updated: Mon, 29 Aug 2011 13:38:10 +0200
 //
 // Allowed weapons for Main classes:
 //  - The Kritzkrieg
@@ -146,6 +146,7 @@
     "The Big Earner"                                   "0"
     "The Maul"                                         "0"
     "Nessie's Nine Iron"                               "0"
+    "The Original"                                     "0"
     "The Diamondback"                                  "0"
     "The Machina"                                      "0"
     "The Widowmaker"                                   "0"
@@ -436,6 +437,5 @@
     "TTG Watch"                                        "1"
     "Iron Curtain"                                     "1"
     "Saxxy"                                            "1"
-    "The Original"                                     "1"
 }
 
