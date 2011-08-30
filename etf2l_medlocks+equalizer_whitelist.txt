@@ -1,5 +1,5 @@
 // etf2l_medlocks+equalizer item whitelist
-// Updated: Mon, 29 Aug 2011 13:38:10 +0200
+// Updated: Tue, 30 Aug 2011 21:03:54 +0200
 //
 // Allowed weapons for Main classes:
 //  - The Kritzkrieg
@@ -337,6 +337,7 @@
     "Sniper's Snipin' Glass"                           "1"
     "Storm Spirit's Jolly Hat"                         "1"
     "TF Birthday Hat 2011"                             "1"
+    "The El Jefe"                                      "1"
     "World Traveler"                                   "1"
 
     // Misc Items:
