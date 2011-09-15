@@ -1,5 +1,5 @@
 // etf2l item whitelist
-// Updated: Fri, 09 Sep 2011 22:04:56 +0200
+// Updated: Thu, 15 Sep 2011 22:46:53 +0200
 //
 // Allowed weapons for Main classes:
 //  - The Kritzkrieg
@@ -337,6 +337,7 @@
     "Sniper's Snipin' Glass"                           "1"
     "Storm Spirit's Jolly Hat"                         "1"
     "TF Birthday Hat 2011"                             "1"
+    "Killer Exclusive"                                 "1"
     "The El Jefe"                                      "1"
     "World Traveler"                                   "1"
 
