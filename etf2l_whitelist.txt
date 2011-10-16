@@ -1,5 +1,5 @@
 // etf2l item whitelist
-// Updated: Fri, 14 Oct 2011 00:44:00 +0200
+// Updated: Sun, 16 Oct 2011 21:51:46 +0200
 //
 // Allowed weapons for Main classes:
 //  - The Kritzkrieg
@@ -155,19 +155,13 @@
     "The Short Circuit"                                "0"
     "The Bootlegger"                                   "0"
     "The Scottish Handshake"                           "0"
-    "Beta Pocket Rocket Launcher"                      "0"
-    "Beta Pocket Shotgun"                              "0"
-    "Beta Split Equalizer 1"                           "0"
-    "Beta Split Equalizer 2"                           "0"
-    "Beta Sniper Club 1"                               "0"
-    "Beta Sniper Rifle 1"                              "0"
-    "Beta Pocket Rocket Launcher 2"                    "0"
-    "Beta Pocket Rocket Launcher 3"                    "0"
 
     // Blocked Hats:
 // None
 
     // Allowed Hats:
+    "Demoman's Fro"                                    "1"
+    "Mining Light"                                     "1"
     "Football Helmet"                                  "1"
     "Prussian Pickelhaube"                             "1"
     "Pyro's Beanie"                                    "1"
@@ -280,10 +274,20 @@
     "Treasure Hat 1"                                   "1"
     "Treasure Hat 2"                                   "1"
     "Treasure Hat 3"                                   "1"
+    "Le Party Phantom"                                 "1"
+    "Industrial Festivizer"                            "1"
+    "Exquisite Rack"                                   "1"
+    "Defiant Spartan"                                  "1"
+    "A Rather Festive Tree"                            "1"
+    "Prince Tavish's Crown"                            "1"
+    "Crocleather Slouch"                               "1"
+    "MNC Hat"                                          "1"
+    "MNC Mascot Hat"                                   "1"
     "Heavy Topknot"                                    "1"
     "Demo Kabuto"                                      "1"
     "Hero's Hachimaki"                                 "1"
     "Medic Geisha Hair"                                "1"
+    "Hottie's Hoodie"                                  "1"
     "The Team Captain"                                 "1"
     "Western Wear"                                     "1"
     "Medic's Mountain Cap"                             "1"
@@ -335,7 +339,27 @@
     "TF Birthday Hat 2011"                             "1"
     "Killer Exclusive"                                 "1"
     "The El Jefe"                                      "1"
+    "Manniversary Paper Hat"                           "1"
+    "Your Worst Nightmare"                             "1"
+    "The One-Man Army"                                 "1"
+    "The Counterfeit Billycock"                        "1"
+    "The Outdoorsman"                                  "1"
+    "The Tavish DeGroot Experience"                    "1"
+    "The Pencil Pusher"                                "1"
     "The Buccaneer's Bicorne"                          "1"
+    "The Salty Dog"                                    "1"
+    "The Little Buddy"                                 "1"
+    "The Gym Rat"                                      "1"
+    "The Hot Dogger"                                   "1"
+    "The Birdcage"                                     "1"
+    "The Surgeon's Stahlhelm"                          "1"
+    "The Backwards Ballcap"                            "1"
+    "L'Inspecteur"                                     "1"
+    "The Swagman's Swatter"                            "1"
+    "The Flamboyant Flamenco"                          "1"
+    "The Virtual Reality Headset"                      "1"
+    "The Hat With No Name"                             "1"
+    "The Hermes"                                       "1"
     "World Traveler"                                   "1"
 
     // Misc Items:
