@@ -1,5 +1,5 @@
 // esl item whitelist
-// Updated: Sun, 16 Oct 2011 21:51:46 +0200
+// Updated: Thu, 20 Oct 2011 09:49:20 +0200
 //
 // Allowed weapons for Main classes:
 //  - The Kritzkrieg
@@ -145,7 +145,6 @@
     "The Enforcer"                                     "0"
     "The Big Earner"                                   "0"
     "The Maul"                                         "0"
-    "The Conscientious Objector"                       "0"
     "Nessie's Nine Iron"                               "0"
     "The Original"                                     "0"
     "The Diamondback"                                  "0"
@@ -153,7 +152,6 @@
     "The Widowmaker"                                   "0"
     "The Short Circuit"                                "0"
     "The Bootlegger"                                   "0"
-    "The Scottish Handshake"                           "0"
 
     // Blocked Hats:
 // None
@@ -480,5 +478,7 @@
     "TTG Watch"                                        "1"
     "Iron Curtain"                                     "1"
     "Saxxy"                                            "1"
+    "The Conscientious Objector"                       "1"
+    "The Scottish Handshake"                           "1"
 }
 
