@@ -1,5 +1,5 @@
 // esl item whitelist
-// Updated: Fri, 21 Oct 2011 02:13:44 +0200
+// Updated: Fri, 28 Oct 2011 03:29:16 +0200
 //
 // Allowed weapons for Main classes:
 //  - The Kritzkrieg
@@ -150,10 +150,38 @@
     "The Machina"                                      "0"
     "The Widowmaker"                                   "0"
     "The Short Circuit"                                "0"
+    "Unarmed Combat"                                   "0"
+    "The Wanga Prick"                                  "0"
     "The Bootlegger"                                   "0"
 
     // Blocked Hats:
-// None
+    "Hair of the Dog"                                  "0"
+    "Scottish Snarl"                                   "0"
+    "Pickled Paws"                                     "0"
+    "Wrap Battler"                                     "0"
+    "B-ankh!"                                          "0"
+    "Futankhamun"                                      "0"
+    "Blazing Bull"                                     "0"
+    "Fallen Angel"                                     "0"
+    "Tail From the Crypt"                              "0"
+    "Einstein"                                         "0"
+    "Dr. Gogglestache"                                 "0"
+    "Emerald Jarate"                                   "0"
+    "Idiot Box"                                        "0"
+    "Steel Pipes"                                      "0"
+    "Shoestring Budget"                                "0"
+    "Under Cover"                                      "0"
+    "Griffin's Gog"                                    "0"
+    "Intangible Ascot"                                 "0"
+    "Can Opener"                                       "0"
+    "Soviet Stitch-Up"                                 "0"
+    "Steel-Toed Stompers"                              "0"
+    "Holy Hunter"                                      "0"
+    "Silver Bullets"                                   "0"
+    "Garlic Flank Stake"                               "0"
+    "Buzz Killer"                                      "0"
+    "Frontier Flyboy"                                  "0"
+    "Legend of Bugfoot"                                "0"
 
     // Allowed Hats:
     "Demoman's Fro"                                    "1"
@@ -335,6 +363,14 @@
     "TF Birthday Hat 2011"                             "1"
     "Killer Exclusive"                                 "1"
     "The El Jefe"                                      "1"
+    "The Infernal Impaler"                             "1"
+    "Spine-Chilling Skull 2011"                        "1"
+    "Spine-Chilling Skull 2011 Style 1"                "1"
+    "Spine-Chilling Skull 2011 Style 2"                "1"
+    "Spine-Chilling Skull 2011 Style 3"                "1"
+    "MONOCULUS!"                                       "1"
+    "Seal Mask"                                        "1"
+    "Ghastly Gibus 2011"                               "1"
     "Manniversary Paper Hat"                           "1"
     "Your Worst Nightmare"                             "1"
     "The One-Man Army"                                 "1"
@@ -432,6 +468,9 @@
     "Sniper's Snipin' Glass"                           "1"
     "Ball-Kicking Boots"                               "1"
     "Merc's Pride Scarf"                               "1"
+    "The Last Breath"                                  "1"
+    "Apparition's Aspect"                              "1"
+    "Bombinomicon"                                     "1"
     "The Builder's Blueprints"                         "1"
     "A Whiff of the Old Brimstone"                     "1"
     "The Crocodile Smile"                              "1"
@@ -465,6 +504,7 @@
     "Promotional Noise Maker - Fireworks"              "1"
     "Noise Maker - TF Birthday"                        "1"
     "Noise Maker - Vuvuzela"                           "1"
+    "Halloween Giveaway Package 2011 (Cauldron)"       "1"
     "Manniversary Giveaway Package"                    "1"
 
     // Weapon Skins:
