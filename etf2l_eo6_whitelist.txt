@@ -1,5 +1,5 @@
 // etf2l_eo6 item whitelist
-// Updated: Sat, 05 Nov 2011 16:39:36 +0100
+// Updated: Sat, 05 Nov 2011 17:00:37 +0100
 //
 // Allowed weapons for Main classes:
 //  - The Kritzkrieg
@@ -15,6 +15,7 @@
 // Weapon sets are:     banned
 // Weapon skins are:    allowed
 // Action items are:    allowed
+// Noise Maker are:     allowed
 // Hats are:            allowed
 
 "item_whitelist"
@@ -53,6 +54,20 @@
     "Upgradeable TF_WEAPON_REVOLVER"                   "1"
     "Upgradeable TF_WEAPON_MEDIGUN"                    "1"
     "Upgradeable TF_WEAPON_INVIS"                      "1"
+
+    // Weapon Skins:
+    "TTG Max Pistol"                                   "1"
+    "TTG Sam Revolver"                                 "1"
+    "Golden Wrench"                                    "1"
+    "The Holy Mackerel"                                "1"
+    "Frying Pan"                                       "1"
+    "TTG Max Pistol - Poker Night"                     "1"
+    "TTG Watch"                                        "1"
+    "Iron Curtain"                                     "1"
+    "Saxxy"                                            "1"
+    "The Conscientious Objector"                       "1"
+    "Unarmed Combat"                                   "1"
+    "The Scottish Handshake"                           "1"
 
     // Blocked Weapons:
     "The Axtinguisher"                                 "0"
@@ -490,6 +505,13 @@
     "Gift - 1 Player"                                  "1"
     "Gift - 24 Players"                                "1"
     "Duel MiniGame"                                    "1"
+    "Replay Taunt"                                     "1"
+    "Laugh Taunt"                                      "1"
+    "Meet the Medic Heroic Taunt"                      "1"
+    "Halloween Giveaway Package 2011 (Cauldron)"       "1"
+    "Manniversary Giveaway Package"                    "1"
+
+    // Noise Maker:
     "Halloween Noise Maker - Black Cat"                "1"
     "Halloween Noise Maker - Gremlin"                  "1"
     "Halloween Noise Maker - Werewolf"                 "1"
@@ -500,27 +522,8 @@
     "Charity Noise Maker - Bell"                       "1"
     "Charity Noise Maker - Tingsha"                    "1"
     "Promotional Noise Maker - Koto"                   "1"
-    "Replay Taunt"                                     "1"
-    "Laugh Taunt"                                      "1"
-    "Meet the Medic Heroic Taunt"                      "1"
     "Promotional Noise Maker - Fireworks"              "1"
     "Noise Maker - TF Birthday"                        "1"
     "Noise Maker - Vuvuzela"                           "1"
-    "Halloween Giveaway Package 2011 (Cauldron)"       "1"
-    "Manniversary Giveaway Package"                    "1"
-
-    // Weapon Skins:
-    "TTG Max Pistol"                                   "1"
-    "TTG Sam Revolver"                                 "1"
-    "Golden Wrench"                                    "1"
-    "The Holy Mackerel"                                "1"
-    "Frying Pan"                                       "1"
-    "TTG Max Pistol - Poker Night"                     "1"
-    "TTG Watch"                                        "1"
-    "Iron Curtain"                                     "1"
-    "Saxxy"                                            "1"
-    "The Conscientious Objector"                       "1"
-    "Unarmed Combat"                                   "1"
-    "The Scottish Handshake"                           "1"
 }
 
