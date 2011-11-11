@@ -1,5 +1,5 @@
 // esl item whitelist
-// Updated: Sat, 05 Nov 2011 17:00:37 +0100
+// Updated: Fri, 11 Nov 2011 02:10:55 +0100
 //
 // Allowed weapons for Main classes:
 //  - The Kritzkrieg
@@ -166,6 +166,7 @@
     "The Widowmaker"                                   "0"
     "The Short Circuit"                                "0"
     "The Wanga Prick"                                  "0"
+    "Apoco-Fists"                                      "0"
     "The Bootlegger"                                   "0"
 
     // Blocked Hats:
@@ -485,6 +486,8 @@
     "The Last Breath"                                  "1"
     "Apparition's Aspect"                              "1"
     "Bombinomicon"                                     "1"
+    "Cold War Luchador"                                "1"
+    "Mark of the Saint"                                "1"
     "The Builder's Blueprints"                         "1"
     "A Whiff of the Old Brimstone"                     "1"
     "The Crocodile Smile"                              "1"
