@@ -1,5 +1,5 @@
 // esl item whitelist
-// Updated: Fri, 11 Nov 2011 02:10:55 +0100
+// Updated: Wed, 16 Nov 2011 22:57:45 +0100
 //
 // Allowed weapons for Main classes:
 //  - The Kritzkrieg
@@ -389,6 +389,8 @@
     "The Virtual Reality Headset"                      "1"
     "The Hat With No Name"                             "1"
     "The Hermes"                                       "1"
+    "Point and Shoot"                                  "1"
+    "War Head"                                         "1"
     "World Traveler"                                   "1"
 
     // Misc Items:
