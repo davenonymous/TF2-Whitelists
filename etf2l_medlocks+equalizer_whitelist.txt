@@ -1,5 +1,5 @@
 // etf2l_medlocks+equalizer item whitelist
-// Updated: Wed, 23 Nov 2011 02:04:05 +0100
+// Updated: Thu, 24 Nov 2011 01:07:16 +0100
 //
 // Allowed weapons for Main classes:
 //  - The Kritzkrieg
@@ -169,6 +169,7 @@
     "The Wanga Prick"                                  "0"
     "Apoco-Fists"                                      "0"
     "The Bootlegger"                                   "0"
+    "The Sharp Dresser"                                "0"
 
     // Blocked Hats:
     // None
@@ -392,6 +393,8 @@
     "The Hermes"                                       "1"
     "Point and Shoot"                                  "1"
     "War Head"                                         "1"
+    "The Dashin' Hashshashin"                          "1"
+    "The Top Notch"                                    "1"
     "World Traveler"                                   "1"
 
     // Misc Items:
