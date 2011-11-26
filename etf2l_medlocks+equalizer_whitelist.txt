@@ -1,11 +1,12 @@
-// etf2l_medlocks+equalizer item whitelist
-// Updated: Thu, 24 Nov 2011 01:07:16 +0100
+// Medlocks + Equalizer, Full, all allowed
+// Updated: Sat, 26 Nov 2011 17:07:34 +0100
 //
 // Allowed weapons for Main classes:
 //  - The Kritzkrieg
 //  - The Blutsauger
 //  - The Ubersaw
 //  - The Equalizer
+//  - The Crusader's Crossbow
 //
 // Allowed weapons for Support classes:
 // None
@@ -25,6 +26,7 @@
     "The Blutsauger"                                   "1"
     "The Ubersaw"                                      "1"
     "The Equalizer"                                    "1"
+    "The Crusader's Crossbow"                          "1"
 
     // Renamed Weapons:
     "Upgradeable TF_WEAPON_BAT"                        "1"
@@ -64,6 +66,7 @@
     "The Conscientious Objector"                       "1"
     "Unarmed Combat"                                   "1"
     "The Scottish Handshake"                           "1"
+    "The Sharp Dresser"                                "1"
 
     // Blocked Weapons:
     "The Axtinguisher"                                 "0"
@@ -114,7 +117,6 @@
     "Stickybomb Jumper"                                "0"
     "The Horseless Headless Horseman's Headtaker"      "0"
     "The Amputator"                                    "0"
-    "The Crusader's Crossbow"                          "0"
     "The Ullapool Caber"                               "0"
     "The Loch-n-Load"                                  "0"
     "Warrior's Spirit"                                 "0"
@@ -169,7 +171,6 @@
     "The Wanga Prick"                                  "0"
     "Apoco-Fists"                                      "0"
     "The Bootlegger"                                   "0"
-    "The Sharp Dresser"                                "0"
 
     // Blocked Hats:
     // None
