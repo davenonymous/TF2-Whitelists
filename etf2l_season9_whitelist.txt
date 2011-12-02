@@ -1,5 +1,5 @@
 // ETF2L Season 9, Full, all allowed
-// Updated: Sat, 26 Nov 2011 17:07:34 +0100
+// Updated: Fri, 02 Dec 2011 03:17:22 +0100
 //
 // Allowed weapons for Main classes:
 //  - The Kritzkrieg
@@ -532,6 +532,7 @@
     "The Stereoscopic Shades"                          "1"
     "The Cremator's Conscience"                        "1"
     "Bowtie"                                           "1"
+    "The Itsy Bitsy Spyer"                             "1"
 
     // Action Items:
     "High Five Taunt"                                  "1"
