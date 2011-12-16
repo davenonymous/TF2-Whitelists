@@ -1,5 +1,5 @@
 // ETF2L Season 10, Full, all allowed
-// Updated: Fri, 02 Dec 2011 03:17:22 +0100
+// Updated: Fri, 16 Dec 2011 18:24:59 +0100
 //
 // Allowed weapons for Main classes:
 //  - The Kritzkrieg
@@ -169,7 +169,15 @@
     "The Short Circuit"                                "0"
     "The Wanga Prick"                                  "0"
     "Apoco-Fists"                                      "0"
+    "The Pomson 6000"                                  "0"
+    "The Eureka Effect"                                "0"
+    "The Third Degree"                                 "0"
+    "The Phlogistinator"                               "0"
+    "The Manmelter"                                    "0"
     "The Bootlegger"                                   "0"
+    "The Wrap Assassin"                                "0"
+    "The Spy-cicle"                                    "0"
+    "Festive Minigun 2011"                             "0"
 
     // Blocked Hats:
     // None
@@ -370,6 +378,7 @@
     "MONOCULUS!"                                       "1"
     "Seal Mask"                                        "1"
     "Ghastly Gibus 2011"                               "1"
+    "The Bubble Pipe"                                  "1"
     "Manniversary Paper Hat"                           "1"
     "Your Worst Nightmare"                             "1"
     "The One-Man Army"                                 "1"
@@ -395,6 +404,13 @@
     "War Head"                                         "1"
     "The Dashin' Hashshashin"                          "1"
     "The Top Notch"                                    "1"
+    "The Head Warmer"                                  "1"
+    "The Big Elfin Deal"                               "1"
+    "The B.M.O.C."                                     "1"
+    "The Holiday Headcase"                             "1"
+    "The Full Head of Steam"                           "1"
+    "The Brown Bomber"                                 "1"
+    "The Ebenezer"                                     "1"
     "World Traveler"                                   "1"
 
     // Misc Items:
@@ -494,6 +510,10 @@
     "Bombinomicon"                                     "1"
     "Cold War Luchador"                                "1"
     "Mark of the Saint"                                "1"
+    "The Brainiac Hairpiece"                           "1"
+    "The Brainiac Goggles"                             "1"
+    "Dr. Grordbort's Copper Crest"                     "1"
+    "The Moonman Backpack"                             "1"
     "The Builder's Blueprints"                         "1"
     "A Whiff of the Old Brimstone"                     "1"
     "The Crocodile Smile"                              "1"
@@ -505,8 +525,36 @@
     "The Spectre's Spectacles"                         "1"
     "The Stereoscopic Shades"                          "1"
     "The Cremator's Conscience"                        "1"
+    "Dr. Grordbort's Silver Crest"                     "1"
     "Bowtie"                                           "1"
+    "The Ornament Armament"                            "1"
+    "The Sandvich Safe"                                "1"
+    "The Outback Intellectual"                         "1"
     "The Itsy Bitsy Spyer"                             "1"
+    "The All-Father"                                   "1"
+    "The Kringle Collection"                           "1"
+    "The Jingle Belt"                                  "1"
+    "The Bootie Time"                                  "1"
+    "The Stocking Stuffer"                             "1"
+    "UGC Tournament Fall 2011 - Platinum 1st Place"    "1"
+    "UGC Tournament Fall 2011 - Platinum 2nd Place"    "1"
+    "UGC Tournament Fall 2011 - Platinum 3rd Place"    "1"
+    "UGC Tournament Fall 2011 - Platinum Participant"  "1"
+    "UGC Tournament Autumn 2011 - Euro Platinum"       "1"
+    "UGC Tournament Fall 2011 - Silver 1st Place"      "1"
+    "UGC Tournament Fall 2011 - Silver 2nd Place"      "1"
+    "UGC Tournament Fall 2011 - Silver 3rd Place"      "1"
+    "UGC Tournament Fall 2011 - Silver Participant"    "1"
+    "UGC Tournament Autumn 2011 - Euro Silver"         "1"
+    "UGC Tournament Fall 2011 - Iron 1st Place"        "1"
+    "UGC Tournament Fall 2011 - Iron 2nd Place"        "1"
+    "UGC Tournament Fall 2011 - Iron 3rd Place"        "1"
+    "UGC Tournament Autumn 2011 - Euro Iron"           "1"
+    "UGC Tournament Fall 2011 - Tin 1st Place"         "1"
+    "UGC Tournament Fall 2011 - Tin 2nd Place"         "1"
+    "UGC Tournament Fall 2011 - Tin 3rd Place"         "1"
+    "UGC Tournament Fall 2011 - Participant"           "1"
+    "UGC Tournament Autumn 2011 - Euro Participant"    "1"
 
     // Action Items:
     "High Five Taunt"                                  "1"
@@ -533,5 +581,6 @@
     "Promotional Noise Maker - Fireworks"              "1"
     "Noise Maker - TF Birthday"                        "1"
     "Noise Maker - Vuvuzela"                           "1"
+    "Noise Maker - Winter 2011"                        "1"
 }
 
