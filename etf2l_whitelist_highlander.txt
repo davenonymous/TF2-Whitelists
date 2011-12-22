@@ -1,5 +1,5 @@
 // ETF2L Highlander Season 1, Full, all allowed
-// Updated: Fri, 16 Dec 2011 18:24:59 +0100
+// Updated: Thu, 22 Dec 2011 14:46:24 +0100
 //
 // Blocked weapons for Main classes:
 // None
@@ -532,6 +532,7 @@
     "The Kringle Collection"                           "1"
     "The Jingle Belt"                                  "1"
     "The Bootie Time"                                  "1"
+    "Spirit Of Giving"                                 "1"
     "The Stocking Stuffer"                             "1"
     "UGC Tournament Fall 2011 - Platinum 1st Place"    "1"
     "UGC Tournament Fall 2011 - Platinum 2nd Place"    "1"
