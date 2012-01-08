@@ -1,6 +1,5 @@
 // ETF2L Season 10, Full, all allowed
-// Updated: Thu, 22 Dec 2011 14:46:24 +0100
-// Updated: Thu, 22 Dec 2011 14:46:24 +0100
+// Updated: Sun, 08 Jan 2012 17:22:00 +0100
 //
 // Allowed weapons for Main classes:
 //  - The Kritzkrieg
@@ -66,6 +65,15 @@
     "Unarmed Combat"                                   "1"
     "The Scottish Handshake"                           "1"
     "The Sharp Dresser"                                "1"
+    "Festive Minigun 2011"                             "1"
+    "Festive Rocket Launcher 2011"                     "1"
+    "Festive Flamethrower 2011"                        "1"
+    "Festive Bat 2011"                                 "1"
+    "Festive Stickybomb Launcher 2011"                 "1"
+    "Festive Wrench 2011"                              "1"
+    "Festive Medigun 2011"                             "1"
+    "Festive Sniper Rifle 2011"                        "1"
+    "Festive Knife 2011"                               "1"
 
     // Blocked Weapons:
     "The Axtinguisher"                                 "0"
@@ -178,10 +186,12 @@
     "The Bootlegger"                                   "0"
     "The Wrap Assassin"                                "0"
     "The Spy-cicle"                                    "0"
-    "Festive Minigun 2011"                             "0"
+    "The Holiday Punch"                                "0"
+    "Festive Scattergun 2011"                          "0"
 
-    // Blocked Hats:
-    // None
+    // Blocked Items:
+    "Bombinomicon"                                     "0"
+    "Noise Maker - Winter 2011"                        "0"
 
     // Allowed Hats:
     "Demoman's Fro"                                    "1"
@@ -508,7 +518,6 @@
     "Legend of Bugfoot"                                "1"
     "The Last Breath"                                  "1"
     "Apparition's Aspect"                              "1"
-    "Bombinomicon"                                     "1"
     "Cold War Luchador"                                "1"
     "Mark of the Saint"                                "1"
     "The Brainiac Hairpiece"                           "1"
@@ -583,6 +592,5 @@
     "Promotional Noise Maker - Fireworks"              "1"
     "Noise Maker - TF Birthday"                        "1"
     "Noise Maker - Vuvuzela"                           "1"
-    "Noise Maker - Winter 2011"                        "1"
 }
 

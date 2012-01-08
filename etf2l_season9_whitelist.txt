@@ -1,5 +1,5 @@
 // ETF2L Season 9, Full, all allowed
-// Updated: Thu, 22 Dec 2011 14:46:24 +0100
+// Updated: Sun, 08 Jan 2012 17:22:00 +0100
 //
 // Allowed weapons for Main classes:
 //  - The Kritzkrieg
@@ -122,6 +122,15 @@
     "The Wanga Prick"                                  "1"
     "The Scottish Handshake"                           "1"
     "The Sharp Dresser"                                "1"
+    "Festive Minigun 2011"                             "1"
+    "Festive Rocket Launcher 2011"                     "1"
+    "Festive Flamethrower 2011"                        "1"
+    "Festive Bat 2011"                                 "1"
+    "Festive Stickybomb Launcher 2011"                 "1"
+    "Festive Wrench 2011"                              "1"
+    "Festive Medigun 2011"                             "1"
+    "Festive Sniper Rifle 2011"                        "1"
+    "Festive Knife 2011"                               "1"
 
     // Blocked Weapons:
     "Natascha"                                         "0"
@@ -204,9 +213,10 @@
     "The Bootlegger"                                   "0"
     "The Wrap Assassin"                                "0"
     "The Spy-cicle"                                    "0"
-    "Festive Minigun 2011"                             "0"
+    "The Holiday Punch"                                "0"
+    "Festive Scattergun 2011"                          "0"
 
-    // Blocked Hats:
+    // Blocked Items:
     "The Attendant"                                    "0"
     "The Familiar Fez"                                 "0"
     "Ol' Snaggletooth"                                 "0"
