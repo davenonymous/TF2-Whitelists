@@ -1,5 +1,5 @@
 // ETF2L Season 9, Full, all allowed
-// Updated: Sun, 08 Jan 2012 17:22:00 +0100
+// Updated: Sun, 08 Jan 2012 17:25:10 +0100
 //
 // Allowed weapons for Main classes:
 //  - The Kritzkrieg
@@ -131,6 +131,7 @@
     "Festive Medigun 2011"                             "1"
     "Festive Sniper Rifle 2011"                        "1"
     "Festive Knife 2011"                               "1"
+    "Festive Scattergun 2011"                          "1"
 
     // Blocked Weapons:
     "Natascha"                                         "0"
@@ -214,7 +215,6 @@
     "The Wrap Assassin"                                "0"
     "The Spy-cicle"                                    "0"
     "The Holiday Punch"                                "0"
-    "Festive Scattergun 2011"                          "0"
 
     // Blocked Items:
     "The Attendant"                                    "0"
