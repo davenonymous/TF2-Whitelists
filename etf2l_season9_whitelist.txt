@@ -1,5 +1,5 @@
 // ETF2L Season 9, Full, all allowed
-// Updated: Sun, 08 Jan 2012 17:25:10 +0100
+// Updated: Thu, 12 Jan 2012 19:11:31 +0100
 //
 // Allowed weapons for Main classes:
 //  - The Kritzkrieg
@@ -447,6 +447,7 @@
     "The Full Head of Steam"                           "1"
     "The Brown Bomber"                                 "1"
     "The Ebenezer"                                     "1"
+    "The Lucky Shot"                                   "1"
     "World Traveler"                                   "1"
 
     // Misc Items:
