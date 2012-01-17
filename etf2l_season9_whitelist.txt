@@ -1,5 +1,5 @@
 // ETF2L Season 9, Full, all allowed
-// Updated: Thu, 12 Jan 2012 19:11:31 +0100
+// Updated: Tue, 17 Jan 2012 21:59:07 +0100
 //
 // Allowed weapons for Main classes:
 //  - The Kritzkrieg
@@ -448,6 +448,8 @@
     "The Brown Bomber"                                 "1"
     "The Ebenezer"                                     "1"
     "The Lucky Shot"                                   "1"
+    "The Warsworn Helmet"                              "1"
+    "The Bolgan"                                       "1"
     "World Traveler"                                   "1"
 
     // Misc Items:
@@ -593,6 +595,7 @@
     "UGC Tournament Fall 2011 - Tin 3rd Place"         "1"
     "UGC Tournament Fall 2011 - Participant"           "1"
     "UGC Tournament Autumn 2011 - Euro Participant"    "1"
+    "The Bolgan Family Crest"                          "1"
 
     // Action Items:
     "High Five Taunt"                                  "1"
