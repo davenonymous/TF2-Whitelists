@@ -1,5 +1,5 @@
 // ETF2L Season 9, Full, all allowed
-// Updated: Tue, 17 Jan 2012 21:59:07 +0100
+// Updated: Fri, 27 Jan 2012 20:39:02 +0100
 //
 // Allowed weapons for Main classes:
 //  - The Kritzkrieg
@@ -596,6 +596,7 @@
     "UGC Tournament Fall 2011 - Participant"           "1"
     "UGC Tournament Autumn 2011 - Euro Participant"    "1"
     "The Bolgan Family Crest"                          "1"
+    "Alladin's Private Reserve"                        "1"
 
     // Action Items:
     "High Five Taunt"                                  "1"
