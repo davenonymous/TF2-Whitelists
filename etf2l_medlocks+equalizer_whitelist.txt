@@ -1,5 +1,5 @@
 // Medlocks + Equalizer, Full, all allowed
-// Updated: Fri, 27 Jan 2012 20:39:02 +0100
+// Updated: Fri, 03 Feb 2012 00:45:34 +0100
 //
 // Allowed weapons for Main classes:
 //  - The Kritzkrieg
@@ -426,6 +426,9 @@
     "The Lucky Shot"                                   "1"
     "The Warsworn Helmet"                              "1"
     "The Bolgan"                                       "1"
+    "The Battle Bob"                                   "1"
+    "The Bushman's Boonie"                             "1"
+    "The Conquistador"                                 "1"
     "World Traveler"                                   "1"
 
     // Misc Items:
@@ -571,7 +574,9 @@
     "UGC Tournament Fall 2011 - Participant"           "1"
     "UGC Tournament Autumn 2011 - Euro Participant"    "1"
     "The Bolgan Family Crest"                          "1"
-    "Alladin's Private Reserve"                        "1"
+    "Aladdin's Private Reserve"                        "1"
+    "The Map Maker's Medallion"                        "1"
+    "The Merc Medal"                                   "1"
 
     // Action Items:
     "High Five Taunt"                                  "1"
