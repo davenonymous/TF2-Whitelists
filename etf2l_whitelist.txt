@@ -1,5 +1,5 @@
 // ETF2L Season 10, Full, all allowed
-// Updated: Fri, 03 Feb 2012 00:45:34 +0100
+// Updated: Fri, 10 Feb 2012 07:46:03 +0100
 //
 // Allowed weapons for Main classes:
 //  - The Kritzkrieg
@@ -389,6 +389,7 @@
     "MONOCULUS!"                                       "1"
     "Seal Mask"                                        "1"
     "Ghastly Gibus 2011"                               "1"
+    "The Brainiac Hairpiece"                           "1"
     "The Bubble Pipe"                                  "1"
     "Manniversary Paper Hat"                           "1"
     "Your Worst Nightmare"                             "1"
@@ -526,7 +527,6 @@
     "Apparition's Aspect"                              "1"
     "Cold War Luchador"                                "1"
     "Mark of the Saint"                                "1"
-    "The Brainiac Hairpiece"                           "1"
     "The Brainiac Goggles"                             "1"
     "Dr. Grordbort's Copper Crest"                     "1"
     "The Moonman Backpack"                             "1"
@@ -573,6 +573,7 @@
     "UGC Tournament Fall 2011 - Participant"           "1"
     "UGC Tournament Autumn 2011 - Euro Participant"    "1"
     "The Bolgan Family Crest"                          "1"
+    "The Boston Boom-Bringer"                          "1"
     "Aladdin's Private Reserve"                        "1"
     "The Map Maker's Medallion"                        "1"
     "The Merc Medal"                                   "1"
