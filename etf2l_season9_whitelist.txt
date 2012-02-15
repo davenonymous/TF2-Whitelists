@@ -1,5 +1,5 @@
 // ETF2L Season 9, Full, all allowed
-// Updated: Fri, 10 Feb 2012 07:46:03 +0100
+// Updated: Wed, 15 Feb 2012 18:59:18 +0100
 //
 // Allowed weapons for Main classes:
 //  - The Kritzkrieg
@@ -215,6 +215,7 @@
     "The Wrap Assassin"                                "0"
     "The Spy-cicle"                                    "0"
     "The Holiday Punch"                                "0"
+    "The Black Rose"                                   "0"
 
     // Blocked Items:
     "The Attendant"                                    "0"
@@ -414,7 +415,6 @@
     "MONOCULUS!"                                       "1"
     "Seal Mask"                                        "1"
     "Ghastly Gibus 2011"                               "1"
-    "The Brainiac Hairpiece"                           "1"
     "The Bubble Pipe"                                  "1"
     "Manniversary Paper Hat"                           "1"
     "Your Worst Nightmare"                             "1"
@@ -553,6 +553,7 @@
     "Bombinomicon"                                     "1"
     "Cold War Luchador"                                "1"
     "Mark of the Saint"                                "1"
+    "The Brainiac Hairpiece"                           "1"
     "The Brainiac Goggles"                             "1"
     "Dr. Grordbort's Copper Crest"                     "1"
     "The Moonman Backpack"                             "1"
@@ -601,8 +602,10 @@
     "The Bolgan Family Crest"                          "1"
     "The Boston Boom-Bringer"                          "1"
     "Aladdin's Private Reserve"                        "1"
+    "The Snapped Pupil"                                "1"
     "The Map Maker's Medallion"                        "1"
     "The Merc Medal"                                   "1"
+    "Something Special For Someone Special (Wearable)" "1"
 
     // Action Items:
     "High Five Taunt"                                  "1"
