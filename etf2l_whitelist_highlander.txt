@@ -1,5 +1,5 @@
 // ETF2L Highlander Season 1, Full, all allowed
-// Updated: Wed, 15 Feb 2012 18:59:18 +0100
+// Updated: Fri, 24 Feb 2012 00:27:10 +0100
 //
 // Blocked weapons for Main classes:
 //  - The Original
@@ -576,6 +576,7 @@
     "The Snapped Pupil"                                "1"
     "The Map Maker's Medallion"                        "1"
     "The Merc Medal"                                   "1"
+    "The Fast Learner"                                 "1"
     "Something Special For Someone Special (Wearable)" "1"
 
     // Action Items:
