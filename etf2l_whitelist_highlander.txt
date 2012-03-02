@@ -1,5 +1,5 @@
 // ETF2L Highlander Season 1, Full, all allowed
-// Updated: Fri, 24 Feb 2012 00:27:10 +0100
+// Updated: Fri, 02 Mar 2012 02:29:15 +0100
 //
 // Blocked weapons for Main classes:
 //  - The Original
@@ -577,6 +577,7 @@
     "The Map Maker's Medallion"                        "1"
     "The Merc Medal"                                   "1"
     "The Fast Learner"                                 "1"
+    "The Teufort Tooth Kicker"                         "1"
     "Something Special For Someone Special (Wearable)" "1"
 
     // Action Items:
