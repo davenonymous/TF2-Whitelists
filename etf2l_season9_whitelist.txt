@@ -1,5 +1,5 @@
 // ETF2L Season 9, Full, all allowed
-// Updated: Fri, 02 Mar 2012 02:29:15 +0100
+// Updated: Fri, 09 Mar 2012 00:55:07 +0100
 //
 // Allowed weapons for Main classes:
 //  - The Kritzkrieg
@@ -221,6 +221,8 @@
     "The Attendant"                                    "0"
     "The Familiar Fez"                                 "0"
     "Ol' Snaggletooth"                                 "0"
+    "Private Eye"                                      "0"
+    "The Nine-Pipe Problem"                            "0"
 
     // Allowed Hats:
     "Demoman's Fro"                                    "1"
@@ -353,7 +355,6 @@
     "Big Country"                                      "1"
     "Grimm Hatte"                                      "1"
     "Professor's Peculiarity"                          "1"
-    "Private Eye"                                      "1"
     "Reggaelator"                                      "1"
     "Honcho's Headgear"                                "1"
     "Connoisseur's Cap"                                "1"
