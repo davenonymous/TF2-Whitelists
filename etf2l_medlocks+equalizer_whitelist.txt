@@ -1,5 +1,5 @@
 // Medlocks + Equalizer, Full, all allowed
-// Updated: Fri, 09 Mar 2012 00:55:07 +0100
+// Updated: Fri, 16 Mar 2012 02:55:01 +0100
 //
 // Allowed weapons for Main classes:
 //  - The Kritzkrieg
@@ -186,6 +186,7 @@
     "The Phlogistinator"                               "0"
     "The Manmelter"                                    "0"
     "The Bootlegger"                                   "0"
+    "The Cozy Camper"                                  "0"
     "The Wrap Assassin"                                "0"
     "The Spy-cicle"                                    "0"
     "The Holiday Punch"                                "0"

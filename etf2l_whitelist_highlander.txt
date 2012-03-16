@@ -1,5 +1,5 @@
 // ETF2L Highlander Season 1, Full, all allowed
-// Updated: Fri, 09 Mar 2012 00:55:07 +0100
+// Updated: Fri, 16 Mar 2012 02:55:01 +0100
 //
 // Blocked weapons for Main classes:
 //  - The Original
@@ -124,6 +124,7 @@
     "The Third Degree"                                 "1"
     "The Phlogistinator"                               "1"
     "The Manmelter"                                    "1"
+    "The Cozy Camper"                                  "1"
     "The Wrap Assassin"                                "1"
     "The Spy-cicle"                                    "1"
     "The Holiday Punch"                                "1"
