@@ -1,5 +1,5 @@
 // ETF2L Highlander Season 1, Full, all allowed
-// Updated: Fri, 16 Mar 2012 02:55:01 +0100
+// Updated: Fri, 23 Mar 2012 01:46:33 +0100
 //
 // Blocked weapons for Main classes:
 //  - The Original
@@ -428,6 +428,7 @@
     "The Battle Bob"                                   "1"
     "The Bushman's Boonie"                             "1"
     "The Conquistador"                                 "1"
+    "The Waxy Wayfinder"                               "1"
     "World Traveler"                                   "1"
 
     // Misc Items:
@@ -563,8 +564,8 @@
     "UGC Tournament Fall 2011 - Silver 3rd Place"      "1"
     "UGC Tournament Fall 2011 - Silver Participant"    "1"
     "UGC Tournament Autumn 2011 - Euro Silver"         "1"
-    "UGC Tournament Fall 2011 - Iron 1st Place"        "1"
     "UGC Tournament Fall 2011 - Iron 2nd Place"        "1"
+    "UGC Tournament Fall 2011 - Iron 1st Place"        "1"
     "UGC Tournament Fall 2011 - Iron 3rd Place"        "1"
     "UGC Tournament Autumn 2011 - Euro Iron"           "1"
     "UGC Tournament Fall 2011 - Tin 1st Place"         "1"
@@ -580,6 +581,7 @@
     "The Merc Medal"                                   "1"
     "The Fast Learner"                                 "1"
     "The Teufort Tooth Kicker"                         "1"
+    "The Scrap Pack"                                   "1"
     "Something Special For Someone Special (Wearable)" "1"
 
     // Action Items:
