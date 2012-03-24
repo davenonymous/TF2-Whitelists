@@ -1,11 +1,10 @@
-// Medlocks + Equalizer, Full, all allowed
+// ETF2L Season 11, Full, all allowed
 // Updated: Sat, 24 Mar 2012 14:34:01 +0100
 //
 // Allowed weapons for Main classes:
 //  - The Kritzkrieg
 //  - The Blutsauger
 //  - The Ubersaw
-//  - The Equalizer
 //  - The Crusader's Crossbow
 //
 // Allowed weapons for Support classes:
@@ -21,11 +20,10 @@
 {
     "unlisted_items_default_to"                        "0"
 
-    // Allowed Weapons: (Total: 5)
+    // Allowed Weapons: (Total: 4)
     "The Kritzkrieg"                                   "1"
     "The Blutsauger"                                   "1"
     "The Ubersaw"                                      "1"
-    "The Equalizer"                                    "1"
     "The Crusader's Crossbow"                          "1"
 
     // Renamed Weapons: (Total: 23)
@@ -78,7 +76,7 @@
     "Festive Knife 2011"                               "1"
     "Festive Scattergun 2011"                          "1"
 
-    // Blocked Weapons: (Total: 112)
+    // Blocked Weapons: (Total: 113)
     "The Axtinguisher"                                 "0"
     "The Flare Gun"                                    "0"
     "The Backburner"                                   "0"
@@ -95,6 +93,7 @@
     "The Cloak and Dagger"                             "0"
     "The Ambassador"                                   "0"
     "The Direct Hit"                                   "0"
+    "The Equalizer"                                    "0"
     "The Buff Banner"                                  "0"
     "The Scottish Resistance"                          "0"
     "The Chargin' Targe"                               "0"

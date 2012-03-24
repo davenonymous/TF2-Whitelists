@@ -1,5 +1,5 @@
 // ETF2L Highlander Season 2, Full, all allowed
-// Updated: Fri, 23 Mar 2012 01:46:33 +0100
+// Updated: Sat, 24 Mar 2012 14:34:01 +0100
 //
 // Blocked weapons for Main classes:
 //  - The Holiday Punch
@@ -20,7 +20,7 @@
 {
     "unlisted_items_default_to"                        "0"
 
-    // Allowed Weapons:
+    // Allowed Weapons: (Total: 135)
     "The Kritzkrieg"                                   "1"
     "The Blutsauger"                                   "1"
     "The Ubersaw"                                      "1"
@@ -157,7 +157,7 @@
     "Festive Scattergun 2011"                          "1"
     "The Black Rose"                                   "1"
 
-    // Renamed Weapons:
+    // Renamed Weapons: (Total: 23)
     "Upgradeable TF_WEAPON_BAT"                        "1"
     "Upgradeable TF_WEAPON_BOTTLE"                     "1"
     "Upgradeable TF_WEAPON_FIREAXE"                    "1"
@@ -182,17 +182,17 @@
     "Upgradeable TF_WEAPON_MEDIGUN"                    "1"
     "Upgradeable TF_WEAPON_INVIS"                      "1"
 
-    // Weapon Skins:
+    // Weapon Skins: (Total: 0)
     // None
 
-    // Blocked Weapons:
+    // Blocked Weapons: (Total: 5)
     "The Enforcer"                                     "0"
     "The Pomson 6000"                                  "0"
     "The Phlogistinator"                               "0"
     "The Spy-cicle"                                    "0"
     "The Holiday Punch"                                "0"
 
-    // Blocked Items:
+    // Blocked Items: (Total: 10)
     "The Attendant"                                    "0"
     "The Milkman"                                      "0"
     "The Familiar Fez"                                 "0"
@@ -204,7 +204,7 @@
     "The Bootie Time"                                  "0"
     "The Nine-Pipe Problem"                            "0"
 
-    // Allowed Hats:
+    // Allowed Hats: (Total: 230)
     "Demoman's Fro"                                    "1"
     "Mining Light"                                     "1"
     "Football Helmet"                                  "1"
@@ -436,7 +436,7 @@
     "The Waxy Wayfinder"                               "1"
     "World Traveler"                                   "1"
 
-    // Misc Items:
+    // Misc Items: (Total: 149)
     "Camera Beard"                                     "1"
     "Web Easteregg Medal"                              "1"
     "CheatDetectedMinor"                               "1"
@@ -587,7 +587,7 @@
     "The Scrap Pack"                                   "1"
     "Something Special For Someone Special (Wearable)" "1"
 
-    // Action Items:
+    // Action Items: (Total: 9)
     "High Five Taunt"                                  "1"
     "Gift - 1 Player"                                  "1"
     "Gift - 24 Players"                                "1"
@@ -598,7 +598,7 @@
     "Halloween Giveaway Package 2011 (Cauldron)"       "1"
     "Manniversary Giveaway Package"                    "1"
 
-    // Noise Maker:
+    // Noise Maker: (Total: 14)
     "Halloween Noise Maker - Black Cat"                "1"
     "Halloween Noise Maker - Gremlin"                  "1"
     "Halloween Noise Maker - Werewolf"                 "1"

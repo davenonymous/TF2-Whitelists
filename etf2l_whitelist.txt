@@ -1,5 +1,5 @@
 // ETF2L Season 12, Full, all allowed
-// Updated: Sat, 24 Mar 2012 14:31:11 +0100
+// Updated: Sat, 24 Mar 2012 14:34:01 +0100
 //
 // Allowed weapons for Main classes:
 //  - The Kritzkrieg
@@ -20,13 +20,13 @@
 {
     "unlisted_items_default_to"                        "0"
 
-    // Allowed Weapons:
+    // Allowed Weapons: (Total: 4)
     "The Kritzkrieg"                                   "1"
     "The Blutsauger"                                   "1"
     "The Ubersaw"                                      "1"
     "The Crusader's Crossbow"                          "1"
 
-    // Renamed Weapons:
+    // Renamed Weapons: (Total: 23)
     "Upgradeable TF_WEAPON_BAT"                        "1"
     "Upgradeable TF_WEAPON_BOTTLE"                     "1"
     "Upgradeable TF_WEAPON_FIREAXE"                    "1"
@@ -51,7 +51,7 @@
     "Upgradeable TF_WEAPON_MEDIGUN"                    "1"
     "Upgradeable TF_WEAPON_INVIS"                      "1"
 
-    // Weapon Skins:
+    // Weapon Skins: (Total: 24)
     "TTG Max Pistol"                                   "1"
     "TTG Sam Revolver"                                 "1"
     "Golden Wrench"                                    "1"
@@ -77,7 +77,7 @@
     "Festive Knife 2011"                               "1"
     "Festive Scattergun 2011"                          "1"
 
-    // Blocked Weapons:
+    // Blocked Weapons: (Total: 112)
     "The Axtinguisher"                                 "0"
     "The Flare Gun"                                    "0"
     "The Backburner"                                   "0"
@@ -191,13 +191,13 @@
     "The Holiday Punch"                                "0"
     "The Black Rose"                                   "0"
 
-    // Blocked Items:
+    // Blocked Items: (Total: 4)
     "Private Eye"                                      "0"
     "Bombinomicon"                                     "0"
     "The Nine-Pipe Problem"                            "0"
     "Noise Maker - Winter 2011"                        "0"
 
-    // Allowed Hats:
+    // Allowed Hats: (Total: 235)
     "Demoman's Fro"                                    "1"
     "Mining Light"                                     "1"
     "Football Helmet"                                  "1"
@@ -434,7 +434,7 @@
     "The Waxy Wayfinder"                               "1"
     "World Traveler"                                   "1"
 
-    // Misc Items:
+    // Misc Items: (Total: 151)
     "Camera Beard"                                     "1"
     "Web Easteregg Medal"                              "1"
     "CheatDetectedMinor"                               "1"
@@ -587,7 +587,7 @@
     "The Scrap Pack"                                   "1"
     "Something Special For Someone Special (Wearable)" "1"
 
-    // Action Items:
+    // Action Items: (Total: 9)
     "High Five Taunt"                                  "1"
     "Gift - 1 Player"                                  "1"
     "Gift - 24 Players"                                "1"
@@ -598,7 +598,7 @@
     "Halloween Giveaway Package 2011 (Cauldron)"       "1"
     "Manniversary Giveaway Package"                    "1"
 
-    // Noise Maker:
+    // Noise Maker: (Total: 13)
     "Halloween Noise Maker - Black Cat"                "1"
     "Halloween Noise Maker - Gremlin"                  "1"
     "Halloween Noise Maker - Werewolf"                 "1"
