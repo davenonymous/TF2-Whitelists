@@ -1,5 +1,5 @@
-// ETF2L Season 11, Full, all allowed
-// Updated: Fri, 23 Mar 2012 01:46:33 +0100
+// ETF2L Season 12, Full, all allowed
+// Updated: Sat, 24 Mar 2012 14:31:11 +0100
 //
 // Allowed weapons for Main classes:
 //  - The Kritzkrieg
@@ -62,6 +62,7 @@
     "Iron Curtain"                                     "1"
     "Saxxy"                                            "1"
     "The Conscientious Objector"                       "1"
+    "The Original"                                     "1"
     "Unarmed Combat"                                   "1"
     "The Scottish Handshake"                           "1"
     "The Sharp Dresser"                                "1"
@@ -172,7 +173,6 @@
     "The Big Earner"                                   "0"
     "The Maul"                                         "0"
     "Nessie's Nine Iron"                               "0"
-    "The Original"                                     "0"
     "The Diamondback"                                  "0"
     "The Machina"                                      "0"
     "The Widowmaker"                                   "0"
