@@ -1,5 +1,5 @@
 // ETF2L Season 12, Full, all allowed
-// Updated: Sat, 24 Mar 2012 19:30:09 +0100
+// Updated: Sun, 01 Apr 2012 15:55:36 +0200
 //
 // Allowed weapons for Main classes:
 //  - The Kritzkrieg
@@ -191,13 +191,11 @@
     "The Holiday Punch"                                "0"
     "The Black Rose"                                   "0"
 
-    // Blocked Items: (Total: 4)
-    "Private Eye"                                      "0"
+    // Blocked Items: (Total: 2)
     "Bombinomicon"                                     "0"
-    "The Nine-Pipe Problem"                            "0"
     "Noise Maker - Winter 2011"                        "0"
 
-    // Allowed Hats: (Total: 235)
+    // Allowed Hats: (Total: 239)
     "Demoman's Fro"                                    "1"
     "Mining Light"                                     "1"
     "Football Helmet"                                  "1"
@@ -331,6 +329,7 @@
     "Big Country"                                      "1"
     "Grimm Hatte"                                      "1"
     "Professor's Peculiarity"                          "1"
+    "Private Eye"                                      "1"
     "Reggaelator"                                      "1"
     "Honcho's Headgear"                                "1"
     "Connoisseur's Cap"                                "1"
@@ -428,13 +427,16 @@
     "The Lucky Shot"                                   "1"
     "The Warsworn Helmet"                              "1"
     "The Bolgan"                                       "1"
+    "Daily Duel Winner Reward Hat"                     "1"
+    "Daily Gift Giver Reward Hat"                      "1"
+    "Daily Map Stamp Reward Hat"                       "1"
     "The Battle Bob"                                   "1"
     "The Bushman's Boonie"                             "1"
     "The Conquistador"                                 "1"
     "The Waxy Wayfinder"                               "1"
     "World Traveler"                                   "1"
 
-    // Misc Items: (Total: 151)
+    // Misc Items: (Total: 152)
     "Camera Beard"                                     "1"
     "Web Easteregg Medal"                              "1"
     "CheatDetectedMinor"                               "1"
@@ -556,6 +558,7 @@
     "The Jingle Belt"                                  "1"
     "The Bootie Time"                                  "1"
     "Spirit Of Giving"                                 "1"
+    "The Nine-Pipe Problem"                            "1"
     "The Stocking Stuffer"                             "1"
     "UGC Tournament Fall 2011 - Platinum 1st Place"    "1"
     "UGC Tournament Fall 2011 - Platinum 2nd Place"    "1"
