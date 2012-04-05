@@ -1,5 +1,5 @@
 // ETF2L Season 9, Full, all allowed
-// Updated: Thu, 05 Apr 2012 18:58:55 +0200
+// Updated: Thu, 05 Apr 2012 19:00:19 +0200
 //
 // Allowed weapons for Main classes:
 //  - The Kritzkrieg
@@ -107,7 +107,7 @@
     "Upgradeable TF_WEAPON_MEDIGUN"                    "1"
     "Upgradeable TF_WEAPON_INVIS"                      "1"
 
-    // Weapon Skins: (Total: 26)
+    // Weapon Skins: (Total: 27)
     "TTG Max Pistol"                                   "1"
     "TTG Sam Revolver"                                 "1"
     "Golden Wrench"                                    "1"
@@ -134,8 +134,9 @@
     "Festive Sniper Rifle 2011"                        "1"
     "Festive Knife 2011"                               "1"
     "Festive Scattergun 2011"                          "1"
+    "The Black Rose"                                   "1"
 
-    // Blocked Weapons: (Total: 83)
+    // Blocked Weapons: (Total: 82)
     "Natascha"                                         "0"
     "The Killing Gloves of Boxing"                     "0"
     "The Sandman"                                      "0"
@@ -218,7 +219,6 @@
     "The Wrap Assassin"                                "0"
     "The Spy-cicle"                                    "0"
     "The Holiday Punch"                                "0"
-    "The Black Rose"                                   "0"
 
     // Blocked Items: (Total: 3)
     "The Attendant"                                    "0"
