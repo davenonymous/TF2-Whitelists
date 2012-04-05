@@ -1,5 +1,5 @@
 // ETF2L Season 11, Full, all allowed
-// Updated: Thu, 05 Apr 2012 19:00:19 +0200
+// Updated: Thu, 05 Apr 2012 19:14:50 +0200
 //
 // Allowed weapons for Main classes:
 //  - The Kritzkrieg
@@ -53,7 +53,7 @@
     "Upgradeable TF_WEAPON_MEDIGUN"                    "1"
     "Upgradeable TF_WEAPON_INVIS"                      "1"
 
-    // Weapon Skins: (Total: 24)
+    // Weapon Skins: (Total: 25)
     "TTG Max Pistol"                                   "1"
     "TTG Sam Revolver"                                 "1"
     "Golden Wrench"                                    "1"
@@ -65,6 +65,7 @@
     "Saxxy"                                            "1"
     "The Conscientious Objector"                       "1"
     "Unarmed Combat"                                   "1"
+    "Apoco-Fists"                                      "1"
     "The Scottish Handshake"                           "1"
     "The Sharp Dresser"                                "1"
     "Festive Minigun 2011"                             "1"
@@ -79,7 +80,7 @@
     "Festive Scattergun 2011"                          "1"
     "The Black Rose"                                   "1"
 
-    // Blocked Weapons: (Total: 112)
+    // Blocked Weapons: (Total: 111)
     "The Axtinguisher"                                 "0"
     "The Flare Gun"                                    "0"
     "The Backburner"                                   "0"
@@ -181,7 +182,6 @@
     "The Widowmaker"                                   "0"
     "The Short Circuit"                                "0"
     "The Wanga Prick"                                  "0"
-    "Apoco-Fists"                                      "0"
     "The Pomson 6000"                                  "0"
     "The Eureka Effect"                                "0"
     "The Third Degree"                                 "0"
