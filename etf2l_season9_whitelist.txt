@@ -1,5 +1,5 @@
 // ETF2L Season 9, Full, all allowed
-// Updated: Thu, 05 Apr 2012 19:14:50 +0200
+// Updated: Wed, 18 Apr 2012 08:26:14 +0200
 //
 // Allowed weapons for Main classes:
 //  - The Kritzkrieg
@@ -225,7 +225,7 @@
     "The Familiar Fez"                                 "0"
     "Ol' Snaggletooth"                                 "0"
 
-    // Allowed Hats: (Total: 236)
+    // Allowed Hats: (Total: 237)
     "Demoman's Fro"                                    "1"
     "Mining Light"                                     "1"
     "Football Helmet"                                  "1"
@@ -461,9 +461,10 @@
     "The Bushman's Boonie"                             "1"
     "The Conquistador"                                 "1"
     "The Waxy Wayfinder"                               "1"
+    "The Bolt Action Blitzer"                          "1"
     "World Traveler"                                   "1"
 
-    // Misc Items: (Total: 153)
+    // Misc Items: (Total: 154)
     "Camera Beard"                                     "1"
     "Web Easteregg Medal"                              "1"
     "CheatDetectedMinor"                               "1"
@@ -616,6 +617,7 @@
     "The Fast Learner"                                 "1"
     "The Teufort Tooth Kicker"                         "1"
     "The Scrap Pack"                                   "1"
+    "The Texas Half-Pants"                             "1"
     "Something Special For Someone Special (Wearable)" "1"
 
     // Action Items: (Total: 9)
