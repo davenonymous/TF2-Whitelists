@@ -1,5 +1,5 @@
 // ETF2L Season 12, Full, all allowed
-// Updated: Wed, 18 Apr 2012 08:26:14 +0200
+// Updated: Fri, 27 Apr 2012 21:45:05 +0200
 //
 // Allowed weapons for Main classes:
 //  - The Kritzkrieg
@@ -439,7 +439,7 @@
     "The Bolt Action Blitzer"                          "1"
     "World Traveler"                                   "1"
 
-    // Misc Items: (Total: 153)
+    // Misc Items: (Total: 154)
     "Camera Beard"                                     "1"
     "Web Easteregg Medal"                              "1"
     "CheatDetectedMinor"                               "1"
@@ -592,6 +592,7 @@
     "The Teufort Tooth Kicker"                         "1"
     "The Scrap Pack"                                   "1"
     "The Texas Half-Pants"                             "1"
+    "The Toss-Proof Towel"                             "1"
     "Something Special For Someone Special (Wearable)" "1"
 
     // Action Items: (Total: 9)
