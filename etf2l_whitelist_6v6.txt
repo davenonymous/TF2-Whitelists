@@ -1,5 +1,5 @@
 // ETF2L Season 12, Full, all allowed
-// Updated: Fri, 11 May 2012 08:16:50 +0200
+// Updated: Fri, 18 May 2012 11:00:28 +0200
 //
 // Allowed weapons for Main classes:
 //  - The Kritzkrieg
@@ -197,7 +197,7 @@
     "Bombinomicon"                                     "0"
     "Noise Maker - Winter 2011"                        "0"
 
-    // Allowed Hats: (Total: 244)
+    // Allowed Hats: (Total: 246)
     "Demoman's Fro"                                    "1"
     "Mining Light"                                     "1"
     "Football Helmet"                                  "1"
@@ -441,9 +441,11 @@
     "The Front Runner"                                 "1"
     "The Triclops"                                     "1"
     "The Flamingo Kid"                                 "1"
+    "The Cross-Comm Crash Helmet"                      "1"
+    "The Cross-Comm Express"                           "1"
     "World Traveler"                                   "1"
 
-    // Misc Items: (Total: 181)
+    // Misc Items: (Total: 183)
     "Camera Beard"                                     "1"
     "Web Easteregg Medal"                              "1"
     "CheatDetectedMinor"                               "1"
@@ -560,6 +562,8 @@
     "The Scrap Pack"                                   "1"
     "The Texas Half-Pants"                             "1"
     "The Toss-Proof Towel"                             "1"
+    "The Sneaky Spats of Sneaking"                     "1"
+    "The Doublecross-Comm"                             "1"
     "TournamentMedal - GWJ Winners"                    "1"
     "TournamentMedal - GWJ Runnerups"                  "1"
     "TournamentMedal - GWJ Participants"               "1"
