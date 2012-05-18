@@ -1,5 +1,5 @@
 // ETF2L Highlander Season 2, Full, all allowed
-// Updated: Fri, 11 May 2012 08:16:50 +0200
+// Updated: Fri, 18 May 2012 11:00:28 +0200
 //
 // Blocked weapons for Main classes:
 //  - The Holiday Punch
@@ -205,7 +205,7 @@
     "The Bootie Time"                                  "0"
     "The Fruit Shoot"                                  "0"
 
-    // Allowed Hats: (Total: 238)
+    // Allowed Hats: (Total: 240)
     "Demoman's Fro"                                    "1"
     "Mining Light"                                     "1"
     "Football Helmet"                                  "1"
@@ -443,9 +443,11 @@
     "The Front Runner"                                 "1"
     "The Triclops"                                     "1"
     "The Flamingo Kid"                                 "1"
+    "The Cross-Comm Crash Helmet"                      "1"
+    "The Cross-Comm Express"                           "1"
     "World Traveler"                                   "1"
 
-    // Misc Items: (Total: 179)
+    // Misc Items: (Total: 181)
     "Camera Beard"                                     "1"
     "Web Easteregg Medal"                              "1"
     "CheatDetectedMinor"                               "1"
@@ -560,6 +562,8 @@
     "The Scrap Pack"                                   "1"
     "The Texas Half-Pants"                             "1"
     "The Toss-Proof Towel"                             "1"
+    "The Sneaky Spats of Sneaking"                     "1"
+    "The Doublecross-Comm"                             "1"
     "TournamentMedal - GWJ Winners"                    "1"
     "TournamentMedal - GWJ Runnerups"                  "1"
     "TournamentMedal - GWJ Participants"               "1"
