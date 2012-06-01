@@ -1,5 +1,5 @@
 // ETF2L Highlander Season 1, Full, all allowed
-// Updated: Fri, 18 May 2012 11:00:28 +0200
+// Updated: Fri, 01 Jun 2012 08:32:56 +0200
 //
 // Blocked weapons for Main classes:
 //  - The Original
@@ -442,7 +442,7 @@
     "The Cross-Comm Express"                           "1"
     "World Traveler"                                   "1"
 
-    // Misc Items: (Total: 183)
+    // Misc Items: (Total: 187)
     "Camera Beard"                                     "1"
     "Web Easteregg Medal"                              "1"
     "CheatDetectedMinor"                               "1"
@@ -561,6 +561,10 @@
     "The Toss-Proof Towel"                             "1"
     "The Sneaky Spats of Sneaking"                     "1"
     "The Doublecross-Comm"                             "1"
+    "The Atomic Accolade"                              "1"
+    "The Professor's Pineapple"                        "1"
+    "The Quadwrangler"                                 "1"
+    "The Surgeon's Side Satchel"                       "1"
     "TournamentMedal - GWJ Winners"                    "1"
     "TournamentMedal - GWJ Runnerups"                  "1"
     "TournamentMedal - GWJ Participants"               "1"
