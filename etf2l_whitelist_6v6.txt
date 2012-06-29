@@ -1,5 +1,4 @@
 // ETF2L Season 12, Full, all allowed
-// Updated: Mon, 11 Jun 2012 23:15:20 +0200
 //
 // Allowed weapons for Main classes:
 //  - The Kritzkrieg
@@ -81,7 +80,7 @@
     "Festive Scattergun 2011"                          "1"
     "The Black Rose"                                   "1"
 
-    // Blocked Weapons: (Total: 110)
+    // Blocked Weapons: (Total: 117)
     "The Axtinguisher"                                 "0"
     "The Flare Gun"                                    "0"
     "The Backburner"                                   "0"
@@ -192,12 +191,24 @@
     "The Wrap Assassin"                                "0"
     "The Spy-cicle"                                    "0"
     "The Holiday Punch"                                "0"
+    "The Beggar's Bazooka"                             "0"
+    "The Lollichop"                                    "0"
+    "The Scorch Shot"                                  "0"
+    "The Rainblower"                                   "0"
+    "The Cleaner's Carbine"                            "0"
+    "The Hitman's Heatmaker"                           "0"
+    "Baby Face's Blaster"                              "0"
 
-    // Blocked Items: (Total: 2)
+    // Blocked Items: (Total: 7)
     "Bombinomicon"                                     "0"
     "Noise Maker - Winter 2011"                        "0"
+    "Pet Balloonicorn"                                 "0"
+    "Autogrant Pyrovision Goggles"                     "0"
+    "Pyrovision Goggles"                               "0"
+    "The Infernal Orchestrina"                         "0"
+    "The Burning Bongos"                               "0"
 
-    // Allowed Hats: (Total: 246)
+    // Allowed Hats: (Total: 252)
     "Demoman's Fro"                                    "1"
     "Mining Light"                                     "1"
     "Football Helmet"                                  "1"
@@ -435,6 +446,7 @@
     "The Battle Bob"                                   "1"
     "The Bushman's Boonie"                             "1"
     "The Conquistador"                                 "1"
+    "The Helmet Without a Home"                        "1"
     "The Waxy Wayfinder"                               "1"
     "The Bolt Action Blitzer"                          "1"
     "The Fruit Shoot"                                  "1"
@@ -443,9 +455,14 @@
     "The Flamingo Kid"                                 "1"
     "The Cross-Comm Crash Helmet"                      "1"
     "The Cross-Comm Express"                           "1"
+    "The Gentle Munitionne of Leisure"                 "1"
+    "The Gentleman's Ushanka"                          "1"
+    "Liquidator's Lid"                                 "1"
+    "The Fed-Fightin' Fedora"                          "1"
+    "Robot Chicken Hat"                                "1"
     "World Traveler"                                   "1"
 
-    // Misc Items: (Total: 188)
+    // Misc Items: (Total: 195)
     "Camera Beard"                                     "1"
     "Web Easteregg Medal"                              "1"
     "CheatDetectedMinor"                               "1"
@@ -558,6 +575,7 @@
     "The Snapped Pupil"                                "1"
     "The Merc Medal"                                   "1"
     "The Fast Learner"                                 "1"
+    "The Captain's Cocktails"                          "1"
     "The Teufort Tooth Kicker"                         "1"
     "The Scrap Pack"                                   "1"
     "The Texas Half-Pants"                             "1"
@@ -569,6 +587,12 @@
     "The Quadwrangler"                                 "1"
     "The Surgeon's Side Satchel"                       "1"
     "The Liquor Locker"                                "1"
+    "The Bird-Man of Aberdeen"                         "1"
+    "The Apparatchik's Apparel"                        "1"
+    "Dillinger's Duffel"                               "1"
+    "The Business Casual"                              "1"
+    "The HazMat Headcase"                              "1"
+    "The Idea Tube"                                    "1"
     "TournamentMedal - GWJ Winners"                    "1"
     "TournamentMedal - GWJ Runnerups"                  "1"
     "TournamentMedal - GWJ Participants"               "1"
@@ -635,7 +659,7 @@
     "UGC Highlander Steel Participant Season 6"        "1"
     "Something Special For Someone Special (Wearable)" "1"
 
-    // Action Items: (Total: 11)
+    // Action Items: (Total: 12)
     "High Five Taunt"                                  "1"
     "Gift - 1 Player"                                  "1"
     "Gift - 24 Players"                                "1"
@@ -647,6 +671,7 @@
     "Halloween Giveaway Package 2011 (Cauldron)"       "1"
     "Manniversary Giveaway Package"                    "1"
     "Store Purchase Promotion Package"                 "1"
+    "Pile Of Ash"                                      "1"
 
     // Noise Maker: (Total: 13)
     "Halloween Noise Maker - Black Cat"                "1"
