@@ -1,5 +1,5 @@
 // ETF2L Highlander Season 2, Full, all allowed
-// Updated: Sun, Jul 15 18:41:49 2012 +0200
+// Updated: Sat, Jul 28 13:59:30 2012 +0200
 //
 // Blocked weapons for Main classes:
 //  - The Holiday Punch
