@@ -1,11 +1,15 @@
 // ETF2L Highlander Season 2, Full, all allowed
-// Updated: Sat, Jul 28 13:59:30 2012 +0200
+// Updated: Fri, Aug  3 02:23:34 2012 +0200
 //
 // Blocked weapons for Main classes:
 //  - The Holiday Punch
 //  - The Beggar's Bazooka
 //  - Baby Face's Blaster
 //  - Pretty Boy's Pocket Pistol
+//  - The Huo Long Heatmaker
+//  - The Flying Guillotine
+//  - Promo Huo Long Heatmaker
+//  - Promo Flying Guillotine
 //
 // Blocked weapons for Support classes:
 //  - The Enforcer
@@ -17,6 +21,10 @@
 //  - The Rainblower
 //  - The Cleaner's Carbine
 //  - The Hitman's Heatmaker
+//  - The Red-Tape Recorder
+//  - The Neon Annihilator
+//  - Promo Red-Tape Recorder
+//  - Promo Neon Annihilator
 //
 // Weapon sets are:     banned
 // Weapon skins are:    allowed
@@ -195,7 +203,7 @@
     "Festive Scattergun 2011"                          "1"
     "The Black Rose"                                   "1"
 
-    // Blocked Weapons: (Total: 13)
+    // Blocked Weapons: (Total: 21)
     "The Enforcer"                                     "0"
     "The Pomson 6000"                                  "0"
     "The Phlogistinator"                               "0"
@@ -209,6 +217,14 @@
     "The Hitman's Heatmaker"                           "0"
     "Baby Face's Blaster"                              "0"
     "Pretty Boy's Pocket Pistol"                       "0"
+    "The Red-Tape Recorder"                            "0"
+    "The Huo Long Heatmaker"                           "0"
+    "The Flying Guillotine"                            "0"
+    "The Neon Annihilator"                             "0"
+    "Promo Red-Tape Recorder"                          "0"
+    "Promo Huo Long Heatmaker"                         "0"
+    "Promo Flying Guillotine"                          "0"
+    "Promo Neon Annihilator"                           "0"
 
     // Blocked Items: (Total: 14)
     "The Attendant"                                    "0"
@@ -226,7 +242,7 @@
     "The Burning Bongos"                               "0"
     "The Fruit Shoot"                                  "0"
 
-    // Allowed Hats: (Total: 246)
+    // Allowed Hats: (Total: 249)
     "Demoman's Fro"                                    "1"
     "Mining Light"                                     "1"
     "Football Helmet"                                  "1"
@@ -472,9 +488,12 @@
     "Liquidator's Lid"                                 "1"
     "The Fed-Fightin' Fedora"                          "1"
     "Robot Chicken Hat"                                "1"
+    "The Human Cannonball"                             "1"
+    "The Lone Star"                                    "1"
+    "Promo Human Cannonball"                           "1"
     "World Traveler"                                   "1"
 
-    // Misc Items: (Total: 236)
+    // Misc Items: (Total: 244)
     "Camera Beard"                                     "1"
     "Web Easteregg Medal"                              "1"
     "CheatDetectedMinor"                               "1"
@@ -640,6 +659,14 @@
     "The Business Casual"                              "1"
     "The HazMat Headcase"                              "1"
     "The Idea Tube"                                    "1"
+    "The Triad Trinket"                                "1"
+    "The Champ Stamp"                                  "1"
+    "The Marxman"                                      "1"
+    "Awesomenauts Badge"                               "1"
+    "The Russian Rocketeer"                            "1"
+    "Promo Triad Trinket"                              "1"
+    "Promo Champ Stamp"                                "1"
+    "Promo Marxman"                                    "1"
     "Something Special For Someone Special (Wearable)" "1"
     "UGC Highlander 1st Place North American Platinum Season 6" "1"
     "UGC Highlander 2nd Place North American Platinum Season 6" "1"

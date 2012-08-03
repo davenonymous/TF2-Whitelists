@@ -1,5 +1,5 @@
 // ETF2L Season 12, Full, all allowed
-// Updated: Sat, Jul 28 13:59:28 2012 +0200
+// Updated: Fri, Aug  3 02:23:32 2012 +0200
 //
 // Allowed weapons for Main classes:
 //  - The Kritzkrieg
@@ -81,7 +81,7 @@
     "Festive Scattergun 2011"                          "1"
     "The Black Rose"                                   "1"
 
-    // Blocked Weapons: (Total: 119)
+    // Blocked Weapons: (Total: 127)
     "The Axtinguisher"                                 "0"
     "The Flare Gun"                                    "0"
     "The Backburner"                                   "0"
@@ -201,6 +201,14 @@
     "Baby Face's Blaster"                              "0"
     "Pretty Boy's Pocket Pistol"                       "0"
     "The Escape Plan"                                  "0"
+    "The Red-Tape Recorder"                            "0"
+    "The Huo Long Heatmaker"                           "0"
+    "The Flying Guillotine"                            "0"
+    "The Neon Annihilator"                             "0"
+    "Promo Red-Tape Recorder"                          "0"
+    "Promo Huo Long Heatmaker"                         "0"
+    "Promo Flying Guillotine"                          "0"
+    "Promo Neon Annihilator"                           "0"
 
     // Blocked Items: (Total: 7)
     "Bombinomicon"                                     "0"
@@ -211,7 +219,7 @@
     "The Infernal Orchestrina"                         "0"
     "The Burning Bongos"                               "0"
 
-    // Allowed Hats: (Total: 252)
+    // Allowed Hats: (Total: 255)
     "Demoman's Fro"                                    "1"
     "Mining Light"                                     "1"
     "Football Helmet"                                  "1"
@@ -463,9 +471,12 @@
     "Liquidator's Lid"                                 "1"
     "The Fed-Fightin' Fedora"                          "1"
     "Robot Chicken Hat"                                "1"
+    "The Human Cannonball"                             "1"
+    "The Lone Star"                                    "1"
+    "Promo Human Cannonball"                           "1"
     "World Traveler"                                   "1"
 
-    // Misc Items: (Total: 238)
+    // Misc Items: (Total: 246)
     "Camera Beard"                                     "1"
     "Web Easteregg Medal"                              "1"
     "CheatDetectedMinor"                               "1"
@@ -633,6 +644,14 @@
     "The Business Casual"                              "1"
     "The HazMat Headcase"                              "1"
     "The Idea Tube"                                    "1"
+    "The Triad Trinket"                                "1"
+    "The Champ Stamp"                                  "1"
+    "The Marxman"                                      "1"
+    "Awesomenauts Badge"                               "1"
+    "The Russian Rocketeer"                            "1"
+    "Promo Triad Trinket"                              "1"
+    "Promo Champ Stamp"                                "1"
+    "Promo Marxman"                                    "1"
     "Something Special For Someone Special (Wearable)" "1"
     "UGC Highlander 1st Place North American Platinum Season 6" "1"
     "UGC Highlander 2nd Place North American Platinum Season 6" "1"
