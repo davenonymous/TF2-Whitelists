@@ -1,5 +1,5 @@
 // ETF2L Season 12, Vanilla, all blocked
-// Updated: Fri, Aug  3 02:23:36 2012 +0200
+// Updated: Sat, Aug 11 12:47:29 2012 +0200
 //
 // Allowed weapons for Main classes:
 //  - The Kritzkrieg

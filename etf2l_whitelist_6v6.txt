@@ -1,5 +1,5 @@
 // ETF2L Season 12, Full, all allowed
-// Updated: Fri, Aug  3 02:23:32 2012 +0200
+// Updated: Sat, Aug 11 12:47:24 2012 +0200
 //
 // Allowed weapons for Main classes:
 //  - The Kritzkrieg
@@ -219,7 +219,7 @@
     "The Infernal Orchestrina"                         "0"
     "The Burning Bongos"                               "0"
 
-    // Allowed Hats: (Total: 255)
+    // Allowed Hats: (Total: 258)
     "Demoman's Fro"                                    "1"
     "Mining Light"                                     "1"
     "Football Helmet"                                  "1"
@@ -471,12 +471,15 @@
     "Liquidator's Lid"                                 "1"
     "The Fed-Fightin' Fedora"                          "1"
     "Robot Chicken Hat"                                "1"
+    "The Grenadier Helm"                               "1"
+    "The Void Monk Hair"                               "1"
+    "The Ninja Cowl"                                   "1"
     "The Human Cannonball"                             "1"
     "The Lone Star"                                    "1"
     "Promo Human Cannonball"                           "1"
     "World Traveler"                                   "1"
 
-    // Misc Items: (Total: 246)
+    // Misc Items: (Total: 249)
     "Camera Beard"                                     "1"
     "Web Easteregg Medal"                              "1"
     "CheatDetectedMinor"                               "1"
@@ -644,6 +647,7 @@
     "The Business Casual"                              "1"
     "The HazMat Headcase"                              "1"
     "The Idea Tube"                                    "1"
+    "The Tribal Bones"                                 "1"
     "The Triad Trinket"                                "1"
     "The Champ Stamp"                                  "1"
     "The Marxman"                                      "1"
@@ -723,8 +727,10 @@
     "ESL Season VII Division 5 2nd Place"              "1"
     "ESL Season VII Division 5 3rd Place"              "1"
     "ESL Season VII Division 5 Participant"            "1"
+    "Ready Steady Pan Participant Season 1"            "1"
+    "Ready Steady Pan Helper Season 1"                 "1"
 
-    // Action Items: (Total: 12)
+    // Action Items: (Total: 13)
     "High Five Taunt"                                  "1"
     "Gift - 1 Player"                                  "1"
     "Gift - 24 Players"                                "1"
@@ -736,6 +742,7 @@
     "Halloween Giveaway Package 2011 (Cauldron)"       "1"
     "Manniversary Giveaway Package"                    "1"
     "Store Purchase Promotion Package"                 "1"
+    "Steam Translation Package"                        "1"
     "Pile Of Ash"                                      "1"
 
     // Noise Maker: (Total: 13)
