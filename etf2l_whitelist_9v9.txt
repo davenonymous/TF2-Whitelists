@@ -1,15 +1,24 @@
 // ETF2L Highlander Season 2, Full, all allowed
-// Updated: Sat, Aug 11 12:47:27 2012 +0200
+// Updated: Thu, Aug 16 08:04:55 2012 +0200
 //
 // Blocked weapons for Main classes:
 //  - The Holiday Punch
 //  - The Beggar's Bazooka
 //  - Baby Face's Blaster
 //  - Pretty Boy's Pocket Pistol
+//  - Botkiller Minigun
+//  - Botkiller Medi Gun
+//  - Botkiller Scattergun
+//  - Botkiller Rocket Launcher
+//  - Gold Botkiller Minigun
+//  - Gold Botkiller Medi Gun
+//  - Gold Botkiller Scattergun
+//  - Gold Botkiller Rocket Launcher
 //  - The Huo Long Heatmaker
 //  - The Flying Guillotine
 //  - Promo Huo Long Heatmaker
 //  - Promo Flying Guillotine
+//  - Deflector
 //
 // Blocked weapons for Support classes:
 //  - The Enforcer
@@ -21,10 +30,21 @@
 //  - The Rainblower
 //  - The Cleaner's Carbine
 //  - The Hitman's Heatmaker
+//  - Botkiller Sniper Rifle
+//  - Botkiller Knife
+//  - Botkiller Wrench
+//  - Botkiller Stickybomb Launcher
+//  - Botkiller Flame Thrower
+//  - Gold Botkiller Sniper Rifle
+//  - Gold Botkiller Knife
+//  - Gold Botkiller Wrench
+//  - Gold Botkiller Stickybomb Launcher
+//  - Gold Botkiller Flame Thrower
 //  - The Red-Tape Recorder
 //  - The Neon Annihilator
 //  - Promo Red-Tape Recorder
 //  - Promo Neon Annihilator
+//  - The AWPer Hand
 //
 // Weapon sets are:     banned
 // Weapon skins are:    allowed
@@ -203,7 +223,7 @@
     "Festive Scattergun 2011"                          "1"
     "The Black Rose"                                   "1"
 
-    // Blocked Weapons: (Total: 21)
+    // Blocked Weapons: (Total: 41)
     "The Enforcer"                                     "0"
     "The Pomson 6000"                                  "0"
     "The Phlogistinator"                               "0"
@@ -217,6 +237,24 @@
     "The Hitman's Heatmaker"                           "0"
     "Baby Face's Blaster"                              "0"
     "Pretty Boy's Pocket Pistol"                       "0"
+    "Botkiller Sniper Rifle"                           "0"
+    "Botkiller Minigun"                                "0"
+    "Botkiller Knife"                                  "0"
+    "Botkiller Wrench"                                 "0"
+    "Botkiller Medi Gun"                               "0"
+    "Botkiller Stickybomb Launcher"                    "0"
+    "Botkiller Flame Thrower"                          "0"
+    "Botkiller Scattergun"                             "0"
+    "Botkiller Rocket Launcher"                        "0"
+    "Gold Botkiller Sniper Rifle"                      "0"
+    "Gold Botkiller Minigun"                           "0"
+    "Gold Botkiller Knife"                             "0"
+    "Gold Botkiller Wrench"                            "0"
+    "Gold Botkiller Medi Gun"                          "0"
+    "Gold Botkiller Stickybomb Launcher"               "0"
+    "Gold Botkiller Flame Thrower"                     "0"
+    "Gold Botkiller Scattergun"                        "0"
+    "Gold Botkiller Rocket Launcher"                   "0"
     "The Red-Tape Recorder"                            "0"
     "The Huo Long Heatmaker"                           "0"
     "The Flying Guillotine"                            "0"
@@ -225,6 +263,8 @@
     "Promo Huo Long Heatmaker"                         "0"
     "Promo Flying Guillotine"                          "0"
     "Promo Neon Annihilator"                           "0"
+    "Deflector"                                        "0"
+    "The AWPer Hand"                                   "0"
 
     // Blocked Items: (Total: 14)
     "The Attendant"                                    "0"
@@ -242,7 +282,7 @@
     "The Burning Bongos"                               "0"
     "The Fruit Shoot"                                  "0"
 
-    // Allowed Hats: (Total: 252)
+    // Allowed Hats: (Total: 258)
     "Demoman's Fro"                                    "1"
     "Mining Light"                                     "1"
     "Football Helmet"                                  "1"
@@ -494,9 +534,15 @@
     "The Human Cannonball"                             "1"
     "The Lone Star"                                    "1"
     "Promo Human Cannonball"                           "1"
+    "The U-clank-a"                                    "1"
+    "The Stealth Steeler"                              "1"
+    "The Tin Pot"                                      "1"
+    "The Robot Running Man"                            "1"
+    "The Bolted Bushman"                               "1"
+    "The Tin-1000"                                     "1"
     "World Traveler"                                   "1"
 
-    // Misc Items: (Total: 247)
+    // Misc Items: (Total: 255)
     "Camera Beard"                                     "1"
     "Web Easteregg Medal"                              "1"
     "CheatDetectedMinor"                               "1"
@@ -644,7 +690,9 @@
     "The Map Maker's Medallion"                        "1"
     "The Merc Medal"                                   "1"
     "The Fast Learner"                                 "1"
+    "Tour of Duty Badge"                               "1"
     "The Captain's Cocktails"                          "1"
+    "Pet Robro"                                        "1"
     "The Teufort Tooth Kicker"                         "1"
     "The Scrap Pack"                                   "1"
     "The Texas Half-Pants"                             "1"
@@ -668,10 +716,16 @@
     "The Marxman"                                      "1"
     "Awesomenauts Badge"                               "1"
     "The Russian Rocketeer"                            "1"
+    "Archimedes"                                       "1"
     "Promo Triad Trinket"                              "1"
     "Promo Champ Stamp"                                "1"
     "Promo Marxman"                                    "1"
+    "The Pyrobotics Pack"                              "1"
+    "The Medic Mech-bag"                               "1"
+    "The Battery Bandolier"                            "1"
+    "The Soldier's Stogie"                             "1"
     "Something Special For Someone Special (Wearable)" "1"
+    "Damaged Capacitor"                                "1"
     "UGC Highlander 1st Place North American Platinum Season 6" "1"
     "UGC Highlander 2nd Place North American Platinum Season 6" "1"
     "UGC Highlander 3rd Place North American Platinum Season 6" "1"
@@ -745,7 +799,7 @@
     "Ready Steady Pan Participant Season 1"            "1"
     "Ready Steady Pan Helper Season 1"                 "1"
 
-    // Action Items: (Total: 13)
+    // Action Items: (Total: 14)
     "High Five Taunt"                                  "1"
     "Gift - 1 Player"                                  "1"
     "Gift - 24 Players"                                "1"
@@ -753,6 +807,7 @@
     "Replay Taunt"                                     "1"
     "Laugh Taunt"                                      "1"
     "Meet the Medic Heroic Taunt"                      "1"
+    "Power Up Canteen (MvM)"                           "1"
     "Valve Store Shipment Box"                         "1"
     "Halloween Giveaway Package 2011 (Cauldron)"       "1"
     "Manniversary Giveaway Package"                    "1"
