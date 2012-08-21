@@ -1,5 +1,5 @@
 // ETF2L Highlander Season 2, Full, all allowed
-// Updated: Sat, Aug 18 20:18:10 2012 +0200
+// Updated: Tue, Aug 21 23:38:07 2012 +0200
 //
 // Blocked weapons for Main classes:
 //  - The Holiday Punch
@@ -265,7 +265,7 @@
     "Promo Neon Annihilator"                           "0"
     "Deflector"                                        "0"
 
-    // Blocked Items: (Total: 14)
+    // Blocked Items: (Total: 13)
     "The Attendant"                                    "0"
     "The Milkman"                                      "0"
     "The Familiar Fez"                                 "0"
@@ -279,9 +279,8 @@
     "Pyrovision Goggles"                               "0"
     "The Infernal Orchestrina"                         "0"
     "The Burning Bongos"                               "0"
-    "The Fruit Shoot"                                  "0"
 
-    // Allowed Hats: (Total: 258)
+    // Allowed Hats: (Total: 259)
     "Demoman's Fro"                                    "1"
     "Mining Light"                                     "1"
     "Football Helmet"                                  "1"
@@ -517,6 +516,7 @@
     "The Helmet Without a Home"                        "1"
     "The Waxy Wayfinder"                               "1"
     "The Bolt Action Blitzer"                          "1"
+    "The Fruit Shoot"                                  "1"
     "The Front Runner"                                 "1"
     "The Triclops"                                     "1"
     "The Flamingo Kid"                                 "1"
