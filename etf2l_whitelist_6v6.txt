@@ -1,5 +1,5 @@
-// ETF2L Season 12, Full, all allowed
-// Updated: Tue, Aug 21 23:38:04 2012 +0200
+// ETF2L Season 13, Full, all allowed
+// Updated: Sat, Sep  1 15:22:21 2012 +0200
 //
 // Allowed weapons for Main classes:
 //  - The Kritzkrieg
@@ -53,7 +53,7 @@
     "Upgradeable TF_WEAPON_BUILDER_SPY"                "1"
     "Upgradeable TF_WEAPON_PDA_ENGINEER_BUILD"         "1"
 
-    // Weapon Skins: (Total: 27)
+    // Weapon Skins: (Total: 45)
     "TTG Max Pistol"                                   "1"
     "TTG Sam Revolver"                                 "1"
     "Golden Wrench"                                    "1"
@@ -80,9 +80,27 @@
     "Festive Knife 2011"                               "1"
     "Festive Scattergun 2011"                          "1"
     "The Black Rose"                                   "1"
+    "Botkiller Sniper Rifle"                           "1"
+    "Botkiller Minigun"                                "1"
+    "Botkiller Knife"                                  "1"
+    "Botkiller Wrench"                                 "1"
+    "Botkiller Medi Gun"                               "1"
+    "Botkiller Stickybomb Launcher"                    "1"
+    "Botkiller Flame Thrower"                          "1"
+    "Botkiller Scattergun"                             "1"
+    "Botkiller Rocket Launcher"                        "1"
+    "Gold Botkiller Sniper Rifle"                      "1"
+    "Gold Botkiller Minigun"                           "1"
+    "Gold Botkiller Knife"                             "1"
+    "Gold Botkiller Wrench"                            "1"
+    "Gold Botkiller Medi Gun"                          "1"
+    "Gold Botkiller Stickybomb Launcher"               "1"
+    "Gold Botkiller Flame Thrower"                     "1"
+    "Gold Botkiller Scattergun"                        "1"
+    "Gold Botkiller Rocket Launcher"                   "1"
     "The AWPer Hand"                                   "1"
 
-    // Blocked Weapons: (Total: 146)
+    // Blocked Weapons: (Total: 128)
     "The Axtinguisher"                                 "0"
     "The Flare Gun"                                    "0"
     "The Backburner"                                   "0"
@@ -202,24 +220,6 @@
     "Baby Face's Blaster"                              "0"
     "Pretty Boy's Pocket Pistol"                       "0"
     "The Escape Plan"                                  "0"
-    "Botkiller Sniper Rifle"                           "0"
-    "Botkiller Minigun"                                "0"
-    "Botkiller Knife"                                  "0"
-    "Botkiller Wrench"                                 "0"
-    "Botkiller Medi Gun"                               "0"
-    "Botkiller Stickybomb Launcher"                    "0"
-    "Botkiller Flame Thrower"                          "0"
-    "Botkiller Scattergun"                             "0"
-    "Botkiller Rocket Launcher"                        "0"
-    "Gold Botkiller Sniper Rifle"                      "0"
-    "Gold Botkiller Minigun"                           "0"
-    "Gold Botkiller Knife"                             "0"
-    "Gold Botkiller Wrench"                            "0"
-    "Gold Botkiller Medi Gun"                          "0"
-    "Gold Botkiller Stickybomb Launcher"               "0"
-    "Gold Botkiller Flame Thrower"                     "0"
-    "Gold Botkiller Scattergun"                        "0"
-    "Gold Botkiller Rocket Launcher"                   "0"
     "The Red-Tape Recorder"                            "0"
     "The Huo Long Heatmaker"                           "0"
     "The Flying Guillotine"                            "0"
