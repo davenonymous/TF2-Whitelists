@@ -1,16 +1,21 @@
 // ETF2L Highlander Season 2, Full, all allowed
-// Updated: Sat, Sep  1 15:22:24 2012 +0200
+// Updated: Wed, Sep  5 17:27:33 2012 +0200
 //
 // Blocked weapons for Main classes:
 //  - The Holiday Punch
+//  - Daily Duel Winner Reward Hat
+//  - Daily Gift Giver Reward Hat
+//  - Daily Map Stamp Reward Hat
 //  - The Beggar's Bazooka
 //  - Baby Face's Blaster
 //  - Pretty Boy's Pocket Pistol
+//  - Robot Chicken Hat
 //  - The Huo Long Heatmaker
 //  - The Flying Guillotine
 //  - Promo Huo Long Heatmaker
 //  - Promo Flying Guillotine
 //  - Deflector
+//  - The Crafty Hair
 //
 // Blocked weapons for Support classes:
 //  - The Enforcer
@@ -22,10 +27,15 @@
 //  - The Rainblower
 //  - The Cleaner's Carbine
 //  - The Hitman's Heatmaker
+//  - The Triclops
+//  - The Flamingo Kid
 //  - The Red-Tape Recorder
 //  - The Neon Annihilator
+//  - The Lone Star
+//  - The Russian Rocketeer
 //  - Promo Red-Tape Recorder
 //  - Promo Neon Annihilator
+//  - Area 451
 //
 // Weapon sets are:     banned
 // Weapon skins are:    allowed
@@ -223,29 +233,39 @@
     "Gold Botkiller Rocket Launcher"                   "1"
     "The AWPer Hand"                                   "1"
 
-    // Blocked Weapons: (Total: 22)
+    // Blocked Weapons: (Total: 32)
     "The Enforcer"                                     "0"
     "The Pomson 6000"                                  "0"
     "The Phlogistinator"                               "0"
     "The Spy-cicle"                                    "0"
     "The Holiday Punch"                                "0"
+    "Daily Duel Winner Reward Hat"                     "0"
+    "Daily Gift Giver Reward Hat"                      "0"
+    "Daily Map Stamp Reward Hat"                       "0"
     "The Beggar's Bazooka"                             "0"
     "The Lollichop"                                    "0"
     "The Scorch Shot"                                  "0"
     "The Rainblower"                                   "0"
     "The Cleaner's Carbine"                            "0"
     "The Hitman's Heatmaker"                           "0"
+    "The Triclops"                                     "0"
+    "The Flamingo Kid"                                 "0"
     "Baby Face's Blaster"                              "0"
     "Pretty Boy's Pocket Pistol"                       "0"
+    "Robot Chicken Hat"                                "0"
     "The Red-Tape Recorder"                            "0"
     "The Huo Long Heatmaker"                           "0"
     "The Flying Guillotine"                            "0"
     "The Neon Annihilator"                             "0"
+    "The Lone Star"                                    "0"
+    "The Russian Rocketeer"                            "0"
     "Promo Red-Tape Recorder"                          "0"
     "Promo Huo Long Heatmaker"                         "0"
     "Promo Flying Guillotine"                          "0"
     "Promo Neon Annihilator"                           "0"
     "Deflector"                                        "0"
+    "The Crafty Hair"                                  "0"
+    "Area 451"                                         "0"
 
     // Blocked Items: (Total: 13)
     "The Attendant"                                    "0"
@@ -262,7 +282,7 @@
     "The Infernal Orchestrina"                         "0"
     "The Burning Bongos"                               "0"
 
-    // Allowed Hats: (Total: 259)
+    // Allowed Hats: (Total: 252)
     "Demoman's Fro"                                    "1"
     "Mining Light"                                     "1"
     "Football Helmet"                                  "1"
@@ -489,9 +509,6 @@
     "The Lucky Shot"                                   "1"
     "The Warsworn Helmet"                              "1"
     "The Bolgan"                                       "1"
-    "Daily Duel Winner Reward Hat"                     "1"
-    "Daily Gift Giver Reward Hat"                      "1"
-    "Daily Map Stamp Reward Hat"                       "1"
     "The Battle Bob"                                   "1"
     "The Bushman's Boonie"                             "1"
     "The Conquistador"                                 "1"
@@ -500,20 +517,16 @@
     "The Bolt Action Blitzer"                          "1"
     "The Fruit Shoot"                                  "1"
     "The Front Runner"                                 "1"
-    "The Triclops"                                     "1"
-    "The Flamingo Kid"                                 "1"
     "The Cross-Comm Crash Helmet"                      "1"
     "The Cross-Comm Express"                           "1"
     "The Gentle Munitionne of Leisure"                 "1"
     "The Gentleman's Ushanka"                          "1"
     "Liquidator's Lid"                                 "1"
     "The Fed-Fightin' Fedora"                          "1"
-    "Robot Chicken Hat"                                "1"
     "The Grenadier Helm"                               "1"
     "The Void Monk Hair"                               "1"
     "The Ninja Cowl"                                   "1"
     "The Human Cannonball"                             "1"
-    "The Lone Star"                                    "1"
     "Promo Human Cannonball"                           "1"
     "The U-clank-a"                                    "1"
     "The Stealth Steeler"                              "1"
@@ -696,7 +709,6 @@
     "The Champ Stamp"                                  "1"
     "The Marxman"                                      "1"
     "Awesomenauts Badge"                               "1"
-    "The Russian Rocketeer"                            "1"
     "Archimedes"                                       "1"
     "Promo Triad Trinket"                              "1"
     "Promo Champ Stamp"                                "1"
@@ -705,6 +717,7 @@
     "The Medic Mech-bag"                               "1"
     "The Battery Bandolier"                            "1"
     "The Soldier's Stogie"                             "1"
+    "The Vigilant Pin"                                 "1"
     "Something Special For Someone Special (Wearable)" "1"
     "Damaged Capacitor"                                "1"
     "UGC Highlander 1st Place North American Platinum Season 6" "1"
