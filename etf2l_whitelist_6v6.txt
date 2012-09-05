@@ -1,5 +1,5 @@
 // ETF2L Season 13, Full, all allowed
-// Updated: Wed, Sep  5 17:27:30 2012 +0200
+// Updated: Wed, Sep  5 18:22:38 2012 +0200
 //
 // Allowed weapons for Main classes:
 //  - The Kritzkrieg
@@ -100,7 +100,7 @@
     "Gold Botkiller Rocket Launcher"                   "1"
     "The AWPer Hand"                                   "1"
 
-    // Blocked Weapons: (Total: 138)
+    // Blocked Weapons: (Total: 128)
     "The Axtinguisher"                                 "0"
     "The Flare Gun"                                    "0"
     "The Backburner"                                   "0"
@@ -211,34 +211,24 @@
     "The Wrap Assassin"                                "0"
     "The Spy-cicle"                                    "0"
     "The Holiday Punch"                                "0"
-    "Daily Duel Winner Reward Hat"                     "0"
-    "Daily Gift Giver Reward Hat"                      "0"
-    "Daily Map Stamp Reward Hat"                       "0"
     "The Beggar's Bazooka"                             "0"
     "The Lollichop"                                    "0"
     "The Scorch Shot"                                  "0"
     "The Rainblower"                                   "0"
     "The Cleaner's Carbine"                            "0"
     "The Hitman's Heatmaker"                           "0"
-    "The Triclops"                                     "0"
-    "The Flamingo Kid"                                 "0"
     "Baby Face's Blaster"                              "0"
     "Pretty Boy's Pocket Pistol"                       "0"
     "The Escape Plan"                                  "0"
-    "Robot Chicken Hat"                                "0"
     "The Red-Tape Recorder"                            "0"
     "The Huo Long Heatmaker"                           "0"
     "The Flying Guillotine"                            "0"
     "The Neon Annihilator"                             "0"
-    "The Lone Star"                                    "0"
-    "The Russian Rocketeer"                            "0"
     "Promo Red-Tape Recorder"                          "0"
     "Promo Huo Long Heatmaker"                         "0"
     "Promo Flying Guillotine"                          "0"
     "Promo Neon Annihilator"                           "0"
     "Deflector"                                        "0"
-    "The Crafty Hair"                                  "0"
-    "Area 451"                                         "0"
 
     // Blocked Items: (Total: 7)
     "Bombinomicon"                                     "0"
@@ -249,7 +239,7 @@
     "The Infernal Orchestrina"                         "0"
     "The Burning Bongos"                               "0"
 
-    // Allowed Hats: (Total: 257)
+    // Allowed Hats: (Total: 266)
     "Demoman's Fro"                                    "1"
     "Mining Light"                                     "1"
     "Football Helmet"                                  "1"
@@ -481,6 +471,9 @@
     "The Lucky Shot"                                   "1"
     "The Warsworn Helmet"                              "1"
     "The Bolgan"                                       "1"
+    "Daily Duel Winner Reward Hat"                     "1"
+    "Daily Gift Giver Reward Hat"                      "1"
+    "Daily Map Stamp Reward Hat"                       "1"
     "The Battle Bob"                                   "1"
     "The Bushman's Boonie"                             "1"
     "The Conquistador"                                 "1"
@@ -489,16 +482,20 @@
     "The Bolt Action Blitzer"                          "1"
     "The Fruit Shoot"                                  "1"
     "The Front Runner"                                 "1"
+    "The Triclops"                                     "1"
+    "The Flamingo Kid"                                 "1"
     "The Cross-Comm Crash Helmet"                      "1"
     "The Cross-Comm Express"                           "1"
     "The Gentle Munitionne of Leisure"                 "1"
     "The Gentleman's Ushanka"                          "1"
     "Liquidator's Lid"                                 "1"
     "The Fed-Fightin' Fedora"                          "1"
+    "Robot Chicken Hat"                                "1"
     "The Grenadier Helm"                               "1"
     "The Void Monk Hair"                               "1"
     "The Ninja Cowl"                                   "1"
     "The Human Cannonball"                             "1"
+    "The Lone Star"                                    "1"
     "Promo Human Cannonball"                           "1"
     "The U-clank-a"                                    "1"
     "The Stealth Steeler"                              "1"
@@ -506,9 +503,11 @@
     "The Robot Running Man"                            "1"
     "The Bolted Bushman"                               "1"
     "The Tin-1000"                                     "1"
+    "The Crafty Hair"                                  "1"
+    "Area 451"                                         "1"
     "World Traveler"                                   "1"
 
-    // Misc Items: (Total: 257)
+    // Misc Items: (Total: 258)
     "Camera Beard"                                     "1"
     "Web Easteregg Medal"                              "1"
     "CheatDetectedMinor"                               "1"
@@ -683,6 +682,7 @@
     "The Champ Stamp"                                  "1"
     "The Marxman"                                      "1"
     "Awesomenauts Badge"                               "1"
+    "The Russian Rocketeer"                            "1"
     "Archimedes"                                       "1"
     "Promo Triad Trinket"                              "1"
     "Promo Champ Stamp"                                "1"
