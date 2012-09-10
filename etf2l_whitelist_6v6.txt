@@ -1,5 +1,5 @@
 // ETF2L Season 13, Full, all allowed
-// Updated: Wed, Sep  5 18:22:38 2012 +0200
+// Updated: Mon, Sep 10 21:57:27 2012 +0200
 //
 // Allowed weapons for Main classes:
 //  - The Kritzkrieg
@@ -239,7 +239,7 @@
     "The Infernal Orchestrina"                         "0"
     "The Burning Bongos"                               "0"
 
-    // Allowed Hats: (Total: 266)
+    // Allowed Hats: (Total: 269)
     "Demoman's Fro"                                    "1"
     "Mining Light"                                     "1"
     "Football Helmet"                                  "1"
@@ -496,6 +496,9 @@
     "The Ninja Cowl"                                   "1"
     "The Human Cannonball"                             "1"
     "The Lone Star"                                    "1"
+    "The Soviet Gentleman"                             "1"
+    "Hat of Cards"                                     "1"
+    "The War Pig"                                      "1"
     "Promo Human Cannonball"                           "1"
     "The U-clank-a"                                    "1"
     "The Stealth Steeler"                              "1"
@@ -507,7 +510,7 @@
     "Area 451"                                         "1"
     "World Traveler"                                   "1"
 
-    // Misc Items: (Total: 258)
+    // Misc Items: (Total: 264)
     "Camera Beard"                                     "1"
     "Web Easteregg Medal"                              "1"
     "CheatDetectedMinor"                               "1"
@@ -683,7 +686,12 @@
     "The Marxman"                                      "1"
     "Awesomenauts Badge"                               "1"
     "The Russian Rocketeer"                            "1"
+    "The Pocket Purrer"                                "1"
+    "The Koala Compact"                                "1"
+    "Medi-Mask"                                        "1"
+    "The Track Terrorizer"                             "1"
     "Archimedes"                                       "1"
+    "The Bearded Bombardier"                           "1"
     "Promo Triad Trinket"                              "1"
     "Promo Champ Stamp"                                "1"
     "Promo Marxman"                                    "1"
@@ -692,6 +700,7 @@
     "The Battery Bandolier"                            "1"
     "The Soldier's Stogie"                             "1"
     "The Vigilant Pin"                                 "1"
+    "The Pyrotechnic Tote"                             "1"
     "Something Special For Someone Special (Wearable)" "1"
     "Damaged Capacitor"                                "1"
     "UGC Highlander 1st Place North American Platinum Season 6" "1"
