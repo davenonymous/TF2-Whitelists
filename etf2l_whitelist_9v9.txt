@@ -1,5 +1,5 @@
 // ETF2L Highlander Season 2, Full, all allowed
-// Updated: Mon, Sep 10 21:57:30 2012 +0200
+// Updated: Sat, Sep 22 00:25:36 2012 +0200
 //
 // Blocked weapons for Main classes:
 //  - The Holiday Punch
@@ -11,6 +11,7 @@
 //  - Promo Huo Long Heatmaker
 //  - Promo Flying Guillotine
 //  - Deflector
+//  - The Robo-Sandvich
 //
 // Blocked weapons for Support classes:
 //  - The Enforcer
@@ -223,7 +224,7 @@
     "Gold Botkiller Rocket Launcher"                   "1"
     "The AWPer Hand"                                   "1"
 
-    // Blocked Weapons: (Total: 22)
+    // Blocked Weapons: (Total: 23)
     "The Enforcer"                                     "0"
     "The Pomson 6000"                                  "0"
     "The Phlogistinator"                               "0"
@@ -246,6 +247,7 @@
     "Promo Flying Guillotine"                          "0"
     "Promo Neon Annihilator"                           "0"
     "Deflector"                                        "0"
+    "The Robo-Sandvich"                                "0"
 
     // Blocked Items: (Total: 13)
     "The Attendant"                                    "0"
@@ -262,7 +264,7 @@
     "The Infernal Orchestrina"                         "0"
     "The Burning Bongos"                               "0"
 
-    // Allowed Hats: (Total: 264)
+    // Allowed Hats: (Total: 266)
     "Demoman's Fro"                                    "1"
     "Mining Light"                                     "1"
     "Football Helmet"                                  "1"
@@ -526,9 +528,11 @@
     "The Tin-1000"                                     "1"
     "The Crafty Hair"                                  "1"
     "Area 451"                                         "1"
+    "The Heavy Artillery Officer's Cap"                "1"
+    "The Combat Medic's Crusher Cap"                   "1"
     "World Traveler"                                   "1"
 
-    // Misc Items: (Total: 262)
+    // Misc Items: (Total: 265)
     "Camera Beard"                                     "1"
     "Web Easteregg Medal"                              "1"
     "CheatDetectedMinor"                               "1"
@@ -717,6 +721,9 @@
     "The Soldier's Stogie"                             "1"
     "The Vigilant Pin"                                 "1"
     "The Pyrotechnic Tote"                             "1"
+    "The Friends Forever Companion Square Badge"       "1"
+    "The Triple A Badge"                               "1"
+    "The Heroic Companion Badge"                       "1"
     "Something Special For Someone Special (Wearable)" "1"
     "Damaged Capacitor"                                "1"
     "UGC Highlander 1st Place North American Platinum Season 6" "1"
@@ -792,7 +799,7 @@
     "Ready Steady Pan Participant Season 1"            "1"
     "Ready Steady Pan Helper Season 1"                 "1"
 
-    // Action Items: (Total: 14)
+    // Action Items: (Total: 16)
     "High Five Taunt"                                  "1"
     "Gift - 1 Player"                                  "1"
     "Gift - 24 Players"                                "1"
@@ -805,6 +812,8 @@
     "Halloween Giveaway Package 2011 (Cauldron)"       "1"
     "Manniversary Giveaway Package"                    "1"
     "Store Purchase Promotion Package"                 "1"
+    "Sandvich Promo Package"                           "1"
+    "Companion Square Promo Package"                   "1"
     "Steam Translation Package"                        "1"
     "Pile Of Ash"                                      "1"
 
