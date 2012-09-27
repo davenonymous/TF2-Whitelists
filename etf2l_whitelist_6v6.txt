@@ -1,5 +1,5 @@
 // ETF2L Season 13, Full, all allowed
-// Updated: Sat, Sep 22 00:25:33 2012 +0200
+// Updated: Thu, Sep 27 23:38:54 2012 +0200
 //
 // Allowed weapons for Main classes:
 //  - The Kritzkrieg
@@ -100,7 +100,7 @@
     "Gold Botkiller Rocket Launcher"                   "1"
     "The AWPer Hand"                                   "1"
 
-    // Blocked Weapons: (Total: 129)
+    // Blocked Weapons: (Total: 130)
     "The Axtinguisher"                                 "0"
     "The Flare Gun"                                    "0"
     "The Backburner"                                   "0"
@@ -230,6 +230,7 @@
     "Promo Neon Annihilator"                           "0"
     "Deflector"                                        "0"
     "The Robo-Sandvich"                                "0"
+    "The Freedom Staff"                                "0"
 
     // Blocked Items: (Total: 7)
     "Bombinomicon"                                     "0"
@@ -240,7 +241,7 @@
     "The Infernal Orchestrina"                         "0"
     "The Burning Bongos"                               "0"
 
-    // Allowed Hats: (Total: 271)
+    // Allowed Hats: (Total: 273)
     "Demoman's Fro"                                    "1"
     "Mining Light"                                     "1"
     "Football Helmet"                                  "1"
@@ -511,9 +512,11 @@
     "Area 451"                                         "1"
     "The Heavy Artillery Officer's Cap"                "1"
     "The Combat Medic's Crusher Cap"                   "1"
+    "The K-9 Mane"                                     "1"
+    "The Stovepipe Sniper Shako"                       "1"
     "World Traveler"                                   "1"
 
-    // Misc Items: (Total: 267)
+    // Misc Items: (Total: 273)
     "Camera Beard"                                     "1"
     "Web Easteregg Medal"                              "1"
     "CheatDetectedMinor"                               "1"
@@ -707,6 +710,12 @@
     "The Friends Forever Companion Square Badge"       "1"
     "The Triple A Badge"                               "1"
     "The Heroic Companion Badge"                       "1"
+    "The Lacking Moral Fiber Mask"                     "1"
+    "The Whale Bone Charm"                             "1"
+    "The King of Scotland Cape"                        "1"
+    "The Menpo"                                        "1"
+    "The Foppish Physician"                            "1"
+    "The Distinguished Rogue"                          "1"
     "Something Special For Someone Special (Wearable)" "1"
     "Damaged Capacitor"                                "1"
     "UGC Highlander 1st Place North American Platinum Season 6" "1"
