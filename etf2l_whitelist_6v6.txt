@@ -1,5 +1,5 @@
 // ETF2L Season 13, Full, all allowed
-// Updated: Thu, Sep 27 23:38:54 2012 +0200
+// Updated: Tue, Oct  2 19:52:02 2012 +0200
 //
 // Allowed weapons for Main classes:
 //  - The Kritzkrieg
@@ -53,7 +53,7 @@
     "Upgradeable TF_WEAPON_BUILDER_SPY"                "1"
     "Upgradeable TF_WEAPON_PDA_ENGINEER_BUILD"         "1"
 
-    // Weapon Skins: (Total: 45)
+    // Weapon Skins: (Total: 46)
     "TTG Max Pistol"                                   "1"
     "TTG Sam Revolver"                                 "1"
     "Golden Wrench"                                    "1"
@@ -99,8 +99,9 @@
     "Gold Botkiller Scattergun"                        "1"
     "Gold Botkiller Rocket Launcher"                   "1"
     "The AWPer Hand"                                   "1"
+    "The Freedom Staff"                                "1"
 
-    // Blocked Weapons: (Total: 130)
+    // Blocked Weapons: (Total: 129)
     "The Axtinguisher"                                 "0"
     "The Flare Gun"                                    "0"
     "The Backburner"                                   "0"
@@ -230,7 +231,6 @@
     "Promo Neon Annihilator"                           "0"
     "Deflector"                                        "0"
     "The Robo-Sandvich"                                "0"
-    "The Freedom Staff"                                "0"
 
     // Blocked Items: (Total: 7)
     "Bombinomicon"                                     "0"
