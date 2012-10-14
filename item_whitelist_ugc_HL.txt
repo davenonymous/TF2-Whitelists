@@ -1,5 +1,5 @@
-// ETF2L Highlander Season 3, Full, all allowed
-// Updated: Sun, Oct 14 16:23:27 2012 +0200
+// UGC Highlander Season 8, Full, all allowed
+// Updated: Sun, Oct 14 16:23:32 2012 +0200
 //
 // Blocked weapons for Main classes:
 //  - The Vita-Saw
@@ -275,8 +275,7 @@
     "Promo Huo Long Heatmaker"                         "0"
     "Deflector"                                        "0"
 
-    // Blocked Items: (Total: 9)
-    "High Five Taunt"                                  "0"
+    // Blocked Items: (Total: 8)
     "The Attendant"                                    "0"
     "The Milkman"                                      "0"
     "The Familiar Fez"                                 "0"
@@ -836,7 +835,8 @@
     "Ready Steady Pan Participant Season 1"            "1"
     "Ready Steady Pan Helper Season 1"                 "1"
 
-    // Action Items: (Total: 15)
+    // Action Items: (Total: 16)
+    "High Five Taunt"                                  "1"
     "Gift - 1 Player"                                  "1"
     "Gift - 24 Players"                                "1"
     "Duel MiniGame"                                    "1"

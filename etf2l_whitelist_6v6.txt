@@ -1,5 +1,5 @@
 // ETF2L Season 13, Full, all allowed
-// Updated: Tue, Oct  2 19:52:02 2012 +0200
+// Updated: Sun, Oct 14 16:23:22 2012 +0200
 //
 // Allowed weapons for Main classes:
 //  - The Kritzkrieg
@@ -53,7 +53,7 @@
     "Upgradeable TF_WEAPON_BUILDER_SPY"                "1"
     "Upgradeable TF_WEAPON_PDA_ENGINEER_BUILD"         "1"
 
-    // Weapon Skins: (Total: 46)
+    // Weapon Skins: (Total: 82)
     "TTG Max Pistol"                                   "1"
     "TTG Sam Revolver"                                 "1"
     "Golden Wrench"                                    "1"
@@ -80,15 +80,15 @@
     "Festive Knife 2011"                               "1"
     "Festive Scattergun 2011"                          "1"
     "The Black Rose"                                   "1"
-    "Botkiller Sniper Rifle"                           "1"
-    "Botkiller Minigun"                                "1"
-    "Botkiller Knife"                                  "1"
-    "Botkiller Wrench"                                 "1"
-    "Botkiller Medi Gun"                               "1"
-    "Botkiller Stickybomb Launcher"                    "1"
-    "Botkiller Flame Thrower"                          "1"
-    "Botkiller Scattergun"                             "1"
-    "Botkiller Rocket Launcher"                        "1"
+    "Silver Botkiller Sniper Rifle"                    "1"
+    "Silver Botkiller Minigun"                         "1"
+    "Silver Botkiller Knife"                           "1"
+    "Silver Botkiller Wrench"                          "1"
+    "Silver Botkiller Medi Gun"                        "1"
+    "Silver Botkiller Stickybomb Launcher"             "1"
+    "Silver Botkiller Flame Thrower"                   "1"
+    "Silver Botkiller Scattergun"                      "1"
+    "Silver Botkiller Rocket Launcher"                 "1"
     "Gold Botkiller Sniper Rifle"                      "1"
     "Gold Botkiller Minigun"                           "1"
     "Gold Botkiller Knife"                             "1"
@@ -100,6 +100,42 @@
     "Gold Botkiller Rocket Launcher"                   "1"
     "The AWPer Hand"                                   "1"
     "The Freedom Staff"                                "1"
+    "Rust Botkiller Sniper Rifle"                      "1"
+    "Rust Botkiller Minigun"                           "1"
+    "Rust Botkiller Knife"                             "1"
+    "Rust Botkiller Wrench"                            "1"
+    "Rust Botkiller Medi Gun"                          "1"
+    "Rust Botkiller Stickybomb Launcher"               "1"
+    "Rust Botkiller Flame Thrower"                     "1"
+    "Rust Botkiller Scattergun"                        "1"
+    "Rust Botkiller Rocket Launcher"                   "1"
+    "Blood Botkiller Sniper Rifle"                     "1"
+    "Blood Botkiller Minigun"                          "1"
+    "Blood Botkiller Knife"                            "1"
+    "Blood Botkiller Wrench"                           "1"
+    "Blood Botkiller Medi Gun"                         "1"
+    "Blood Botkiller Stickybomb Launcher"              "1"
+    "Blood Botkiller Flame Thrower"                    "1"
+    "Blood Botkiller Scattergun"                       "1"
+    "Blood Botkiller Rocket Launcher"                  "1"
+    "Carbonado Botkiller Sniper Rifle"                 "1"
+    "Carbonado Botkiller Minigun"                      "1"
+    "Carbonado Botkiller Knife"                        "1"
+    "Carbonado Botkiller Wrench"                       "1"
+    "Carbonado Botkiller Medi Gun"                     "1"
+    "Carbonado Botkiller Stickybomb Launcher"          "1"
+    "Carbonado Botkiller Flame Thrower"                "1"
+    "Carbonado Botkiller Scattergun"                   "1"
+    "Carbonado Botkiller Rocket Launcher"              "1"
+    "Diamond Botkiller Sniper Rifle"                   "1"
+    "Diamond Botkiller Minigun"                        "1"
+    "Diamond Botkiller Knife"                          "1"
+    "Diamond Botkiller Wrench"                         "1"
+    "Diamond Botkiller Medi Gun"                       "1"
+    "Diamond Botkiller Stickybomb Launcher"            "1"
+    "Diamond Botkiller Flame Thrower"                  "1"
+    "Diamond Botkiller Scattergun"                     "1"
+    "Diamond Botkiller Rocket Launcher"                "1"
 
     // Blocked Weapons: (Total: 129)
     "The Axtinguisher"                                 "0"
@@ -241,7 +277,7 @@
     "The Infernal Orchestrina"                         "0"
     "The Burning Bongos"                               "0"
 
-    // Allowed Hats: (Total: 273)
+    // Allowed Hats: (Total: 274)
     "Demoman's Fro"                                    "1"
     "Mining Light"                                     "1"
     "Football Helmet"                                  "1"
@@ -512,11 +548,12 @@
     "Area 451"                                         "1"
     "The Heavy Artillery Officer's Cap"                "1"
     "The Combat Medic's Crusher Cap"                   "1"
+    "The Lacking Moral Fiber Mask"                     "1"
     "The K-9 Mane"                                     "1"
     "The Stovepipe Sniper Shako"                       "1"
     "World Traveler"                                   "1"
 
-    // Misc Items: (Total: 273)
+    // Misc Items: (Total: 274)
     "Camera Beard"                                     "1"
     "Web Easteregg Medal"                              "1"
     "CheatDetectedMinor"                               "1"
@@ -666,7 +703,7 @@
     "The Map Maker's Medallion"                        "1"
     "The Merc Medal"                                   "1"
     "The Fast Learner"                                 "1"
-    "Tour of Duty Badge"                               "1"
+    "Tour of Duty Badge Advanced 1"                    "1"
     "The Captain's Cocktails"                          "1"
     "Pet Robro"                                        "1"
     "The Teufort Tooth Kicker"                         "1"
@@ -710,7 +747,8 @@
     "The Friends Forever Companion Square Badge"       "1"
     "The Triple A Badge"                               "1"
     "The Heroic Companion Badge"                       "1"
-    "The Lacking Moral Fiber Mask"                     "1"
+    "Tour of Duty Badge Intermediate 1"                "1"
+    "Tour of Duty Badge Expert 1"                      "1"
     "The Whale Bone Charm"                             "1"
     "The King of Scotland Cape"                        "1"
     "The Menpo"                                        "1"
