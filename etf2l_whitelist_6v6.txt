@@ -1,5 +1,5 @@
 // ETF2L Season 13, Full, all allowed
-// Updated: Sun, Oct 21 17:23:27 2012 +0200
+// Updated: Sun, Oct 21 17:30:17 2012 +0200
 //
 // Allowed weapons for Main classes:
 //  - The Kritzkrieg
