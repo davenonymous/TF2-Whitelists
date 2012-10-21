@@ -1,5 +1,5 @@
 // ETF2L Highlander Season 3, Full, all allowed
-// Updated: Sun, Oct 21 17:30:22 2012 +0200
+// Updated: Sun, Oct 21 17:34:46 2012 +0200
 //
 // Blocked weapons for Main classes:
 //  - The Vita-Saw
