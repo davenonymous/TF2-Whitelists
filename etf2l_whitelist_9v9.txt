@@ -1,5 +1,5 @@
 // ETF2L Highlander Season 3, Full, all allowed
-// Updated: Sun, Oct 14 16:23:27 2012 +0200
+// Updated: Sun, Oct 21 17:23:32 2012 +0200
 //
 // Blocked weapons for Main classes:
 //  - The Vita-Saw
@@ -275,18 +275,15 @@
     "Promo Huo Long Heatmaker"                         "0"
     "Deflector"                                        "0"
 
-    // Blocked Items: (Total: 9)
+    // Blocked Items: (Total: 6)
     "High Five Taunt"                                  "0"
-    "The Attendant"                                    "0"
-    "The Milkman"                                      "0"
     "The Familiar Fez"                                 "0"
-    "The Grenadier's Softcap"                          "0"
     "Ol' Snaggletooth"                                 "0"
     "Bombinomicon"                                     "0"
     "The Jingle Belt"                                  "0"
     "The Bootie Time"                                  "0"
 
-    // Allowed Hats: (Total: 269)
+    // Allowed Hats: (Total: 272)
     "Demoman's Fro"                                    "1"
     "Mining Light"                                     "1"
     "Football Helmet"                                  "1"
@@ -346,7 +343,10 @@
     "Medic Gatsby"                                     "1"
     "Heavy Do-rag"                                     "1"
     "Parasite Hat"                                     "1"
+    "The Attendant"                                    "1"
     "Rimmed Raincatcher"                               "1"
+    "The Milkman"                                      "1"
+    "The Grenadier's Softcap"                          "1"
     "Worms Gear"                                       "1"
     "Pugilist's Protector"                             "1"
     "Old Guadalajara"                                  "1"
