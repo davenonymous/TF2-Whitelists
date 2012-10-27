@@ -1,5 +1,5 @@
 // UGC Highlander Season 8, Full, all allowed
-// Updated: Sun, Oct 21 17:34:50 2012 +0200
+// Updated: Sat, Oct 27 20:46:39 2012 +0200
 //
 // Blocked weapons for Main classes:
 //  - The Vita-Saw
@@ -8,6 +8,7 @@
 //  - The Huo Long Heatmaker
 //  - Promo Huo Long Heatmaker
 //  - Deflector
+//  - The Bat Outta Hell
 //
 // Blocked weapons for Support classes:
 //  - The Enforcer
@@ -261,7 +262,7 @@
     "Diamond Botkiller Scattergun"                     "1"
     "Diamond Botkiller Rocket Launcher"                "1"
 
-    // Blocked Weapons: (Total: 12)
+    // Blocked Weapons: (Total: 13)
     "The Vita-Saw"                                     "0"
     "The Enforcer"                                     "0"
     "The Pomson 6000"                                  "0"
@@ -274,6 +275,7 @@
     "Promo Red-Tape Recorder"                          "0"
     "Promo Huo Long Heatmaker"                         "0"
     "Deflector"                                        "0"
+    "The Bat Outta Hell"                               "0"
 
     // Blocked Items: (Total: 5)
     "The Familiar Fez"                                 "0"
@@ -282,7 +284,7 @@
     "The Jingle Belt"                                  "0"
     "The Bootie Time"                                  "0"
 
-    // Allowed Hats: (Total: 272)
+    // Allowed Hats: (Total: 281)
     "Demoman's Fro"                                    "1"
     "Mining Light"                                     "1"
     "Football Helmet"                                  "1"
@@ -554,9 +556,18 @@
     "The Lacking Moral Fiber Mask"                     "1"
     "The K-9 Mane"                                     "1"
     "The Stovepipe Sniper Shako"                       "1"
+    "The Master Mind"                                  "1"
+    "The Crone's Dome"                                 "1"
+    "The Executioner"                                  "1"
+    "The Zipperface"                                   "1"
+    "The Grand Duchess Tiara"                          "1"
+    "The Voodoo Juju (Slight Return)"                  "1"
+    "The Wraith Wrap"                                  "1"
+    "Ghostly Gibus"                                    "1"
+    "The Skull Island Topper"                          "1"
     "World Traveler"                                   "1"
 
-    // Misc Items: (Total: 277)
+    // Misc Items: (Total: 301)
     "Camera Beard"                                     "1"
     "Web Easteregg Medal"                              "1"
     "CheatDetectedMinor"                               "1"
@@ -753,6 +764,7 @@
     "The Friends Forever Companion Square Badge"       "1"
     "The Triple A Badge"                               "1"
     "The Heroic Companion Badge"                       "1"
+    "The Rump-o'-Lantern"                              "1"
     "Tour of Duty Badge Intermediate 1"                "1"
     "Tour of Duty Badge Expert 1"                      "1"
     "The Whale Bone Charm"                             "1"
@@ -760,8 +772,31 @@
     "The Menpo"                                        "1"
     "The Foppish Physician"                            "1"
     "The Distinguished Rogue"                          "1"
+    "Sir Hootsalot"                                    "1"
+    "The Scarecrow"                                    "1"
+    "The Bonedolier"                                   "1"
+    "The Plutonidome"                                  "1"
+    "The Spooky Shoes"                                 "1"
+    "The Spooky Sleeves"                               "1"
+    "The Boo Balloon"                                  "1"
+    "The Unknown Monkeynaut"                           "1"
+    "The Grand Duchess Tutu"                           "1"
+    "The Grand Duchess Fairy Wings"                    "1"
+    "The Dead Little Buddy"                            "1"
+    "The Exorcizor"                                    "1"
+    "The Coffin Kit"                                   "1"
     "Something Special For Someone Special (Wearable)" "1"
     "Damaged Capacitor"                                "1"
+    "Voodoo-Cursed Soul (Armory)"                      "1"
+    "Zombie Scout"                                     "1"
+    "Zombie Soldier"                                   "1"
+    "Zombie Heavy"                                     "1"
+    "Zombie Demo"                                      "1"
+    "Zombie Engineer"                                  "1"
+    "Zombie Medic"                                     "1"
+    "Zombie Spy"                                       "1"
+    "Zombie Pyro"                                      "1"
+    "Zombie Sniper"                                    "1"
     "UGC Highlander 1st Place North American Platinum Season 6" "1"
     "UGC Highlander 2nd Place North American Platinum Season 6" "1"
     "UGC Highlander 3rd Place North American Platinum Season 6" "1"
@@ -835,7 +870,7 @@
     "Ready Steady Pan Participant Season 1"            "1"
     "Ready Steady Pan Helper Season 1"                 "1"
 
-    // Action Items: (Total: 16)
+    // Action Items: (Total: 17)
     "High Five Taunt"                                  "1"
     "Gift - 1 Player"                                  "1"
     "Gift - 24 Players"                                "1"
@@ -852,6 +887,7 @@
     "Companion Square Promo Package"                   "1"
     "Steam Translation Package"                        "1"
     "Pile Of Ash"                                      "1"
+    "Pile Of Curses"                                   "1"
 
     // Noise Maker: (Total: 14)
     "Halloween Noise Maker - Black Cat"                "1"
