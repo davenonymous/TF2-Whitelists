@@ -1,5 +1,5 @@
 // UGC Highlander Season 8, Full, all allowed
-// Updated: Sat, Oct 27 20:46:39 2012 +0200
+// Updated: Tue, Oct 30 10:11:24 2012 +0100
 //
 // Blocked weapons for Main classes:
 //  - The Vita-Saw
@@ -8,7 +8,6 @@
 //  - The Huo Long Heatmaker
 //  - Promo Huo Long Heatmaker
 //  - Deflector
-//  - The Bat Outta Hell
 //
 // Blocked weapons for Support classes:
 //  - The Enforcer
@@ -170,7 +169,7 @@
     "Upgradeable TF_WEAPON_BUILDER_SPY"                "1"
     "Upgradeable TF_WEAPON_PDA_ENGINEER_BUILD"         "1"
 
-    // Weapon Skins: (Total: 90)
+    // Weapon Skins: (Total: 91)
     "TTG Max Pistol"                                   "1"
     "TTG Sam Revolver"                                 "1"
     "Golden Wrench"                                    "1"
@@ -261,8 +260,9 @@
     "Diamond Botkiller Flame Thrower"                  "1"
     "Diamond Botkiller Scattergun"                     "1"
     "Diamond Botkiller Rocket Launcher"                "1"
+    "The Bat Outta Hell"                               "1"
 
-    // Blocked Weapons: (Total: 13)
+    // Blocked Weapons: (Total: 12)
     "The Vita-Saw"                                     "0"
     "The Enforcer"                                     "0"
     "The Pomson 6000"                                  "0"
@@ -275,7 +275,6 @@
     "Promo Red-Tape Recorder"                          "0"
     "Promo Huo Long Heatmaker"                         "0"
     "Deflector"                                        "0"
-    "The Bat Outta Hell"                               "0"
 
     // Blocked Items: (Total: 5)
     "The Familiar Fez"                                 "0"
