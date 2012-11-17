@@ -1,14 +1,33 @@
-// ETF2L Season 13, Full, all allowed
-// Updated: Sat, Nov 17 14:17:50 2012 +0200
+// ETF2L Highlander Season 2, Full, all allowed
+// Updated: Sat, Nov 17 14:17:52 2012 +0100
 //
-// Allowed weapons for Main classes:
-//  - The Kritzkrieg
-//  - The Blutsauger
-//  - The Ubersaw
-//  - The Crusader's Crossbow
+// Blocked weapons for Main classes:
+//  - The Holiday Punch
+//  - The Beggar's Bazooka
+//  - Baby Face's Blaster
+//  - Pretty Boy's Pocket Pistol
+//  - The Huo Long Heatmaker
+//  - The Flying Guillotine
+//  - Promo Huo Long Heatmaker
+//  - Promo Flying Guillotine
+//  - Deflector
+//  - The Robo-Sandvich
 //
-// Allowed weapons for Support classes:
-//   - None
+// Blocked weapons for Support classes:
+//  - The Enforcer
+//  - The Pomson 6000
+//  - The Phlogistinator
+//  - The Spy-cicle
+//  - The Lollichop
+//  - The Scorch Shot
+//  - The Rainblower
+//  - The Cleaner's Carbine
+//  - The Hitman's Heatmaker
+//  - The Red-Tape Recorder
+//  - The Neon Annihilator
+//  - Promo Red-Tape Recorder
+//  - Promo Neon Annihilator
+//  - The Quäckenbirdt
 //
 // Weapon sets are:     banned
 // Weapon skins are:    allowed
@@ -20,11 +39,109 @@
 {
     "unlisted_items_default_to"                        "0"
 
-    // Allowed Weapons: (Total: 4)
+    // Allowed Weapons: (Total: 102)
     "The Kritzkrieg"                                   "1"
     "The Blutsauger"                                   "1"
     "The Ubersaw"                                      "1"
+    "The Axtinguisher"                                 "1"
+    "The Flare Gun"                                    "1"
+    "The Backburner"                                   "1"
+    "Natascha"                                         "1"
+    "The Sandvich"                                     "1"
+    "The Killing Gloves of Boxing"                     "1"
+    "The Sandman"                                      "1"
+    "The Force-a-Nature"                               "1"
+    "Bonk! Atomic Punch"                               "1"
+    "The Huntsman"                                     "1"
+    "The Razorback"                                    "1"
+    "Jarate"                                           "1"
+    "The Dead Ringer"                                  "1"
+    "The Cloak and Dagger"                             "1"
+    "The Ambassador"                                   "1"
+    "The Direct Hit"                                   "1"
+    "The Equalizer"                                    "1"
+    "The Buff Banner"                                  "1"
+    "The Scottish Resistance"                          "1"
+    "The Chargin' Targe"                               "1"
+    "The Eyelander"                                    "1"
+    "The Gunboats"                                     "1"
+    "The Wrangler"                                     "1"
+    "The Frontier Justice"                             "1"
+    "The Gunslinger"                                   "1"
+    "The Homewrecker"                                  "1"
+    "The Pain Train"                                   "1"
+    "The Southern Hospitality"                         "1"
+    "The Dalokohs Bar"                                 "1"
+    "Crit-a-Cola"                                      "1"
+    "The Tribalman's Shiv"                             "1"
+    "The Scotsman's Skullcutter"                       "1"
+    "The Vita-Saw"                                     "1"
+    "The Powerjack"                                    "1"
+    "The Degreaser"                                    "1"
+    "The Shortstop"                                    "1"
+    "Mad Milk"                                         "1"
+    "L'Etranger"                                       "1"
+    "Your Eternal Reward"                              "1"
+    "The Battalion's Backup"                           "1"
+    "The Black Box"                                    "1"
+    "The Sydney Sleeper"                               "1"
+    "Darwin's Danger Shield"                           "1"
+    "The Bushwacka"                                    "1"
+    "Rocket Jumper"                                    "1"
+    "Gloves of Running Urgently"                       "1"
+    "Stickybomb Jumper"                                "1"
+    "The Amputator"                                    "1"
     "The Crusader's Crossbow"                          "1"
+    "The Ullapool Caber"                               "1"
+    "The Loch-n-Load"                                  "1"
+    "Warrior's Spirit"                                 "1"
+    "The Buffalo Steak Sandvich"                       "1"
+    "The Brass Beast"                                  "1"
+    "The Candy Cane"                                   "1"
+    "The Boston Basher"                                "1"
+    "The Back Scratcher"                               "1"
+    "The Claidheamohmor"                               "1"
+    "The Jag"                                          "1"
+    "Fists of Steel"                                   "1"
+    "Sharpened Volcano Fragment"                       "1"
+    "Sun-on-a-Stick"                                   "1"
+    "The Detonator"                                    "1"
+    "The Concheror"                                    "1"
+    "The Fan O'War"                                    "1"
+    "Conniver's Kunai"                                 "1"
+    "The Half-Zatoichi"                                "1"
+    "The Shahanshah"                                   "1"
+    "The Bazaar Bargain"                               "1"
+    "The Persian Persuader"                            "1"
+    "Ali Baba's Wee Booties"                           "1"
+    "The Splendid Screen"                              "1"
+    "The Quick-Fix"                                    "1"
+    "The Overdose"                                     "1"
+    "The Solemn Vow"                                   "1"
+    "The Liberty Launcher"                             "1"
+    "The Reserve Shooter"                              "1"
+    "The Market Gardener"                              "1"
+    "Tomislav"                                         "1"
+    "The Family Business"                              "1"
+    "The Eviction Notice"                              "1"
+    "The Cow Mangler 5000"                             "1"
+    "The Righteous Bison"                              "1"
+    "The Mantreads"                                    "1"
+    "The Disciplinary Action"                          "1"
+    "The Soda Popper"                                  "1"
+    "The Winger"                                       "1"
+    "The Atomizer"                                     "1"
+    "The Big Earner"                                   "1"
+    "The Diamondback"                                  "1"
+    "The Machina"                                      "1"
+    "The Widowmaker"                                   "1"
+    "The Short Circuit"                                "1"
+    "The Eureka Effect"                                "1"
+    "The Third Degree"                                 "1"
+    "The Manmelter"                                    "1"
+    "The Cozy Camper"                                  "1"
+    "The Wrap Assassin"                                "1"
+    "The Escape Plan"                                  "1"
 
     // Renamed Weapons: (Total: 25)
     "Upgradeable TF_WEAPON_BAT"                        "1"
@@ -53,20 +170,28 @@
     "Upgradeable TF_WEAPON_BUILDER_SPY"                "1"
     "Upgradeable TF_WEAPON_PDA_ENGINEER_BUILD"         "1"
 
-    // Weapon Skins: (Total: 83)
+    // Weapon Skins: (Total: 91)
     "TTG Max Pistol"                                   "1"
     "TTG Sam Revolver"                                 "1"
     "Golden Wrench"                                    "1"
     "The Holy Mackerel"                                "1"
     "Frying Pan"                                       "1"
+    "The Horseless Headless Horseman's Headtaker"      "1"
     "TTG Max Pistol - Poker Night"                     "1"
     "TTG Watch"                                        "1"
     "Iron Curtain"                                     "1"
     "Saxxy"                                            "1"
+    "Fishcake"                                         "1"
+    "Three-Rune Blade"                                 "1"
+    "The Postal Pummeler"                              "1"
+    "The Maul"                                         "1"
     "The Conscientious Objector"                       "1"
+    "Nessie's Nine Iron"                               "1"
     "The Original"                                     "1"
     "Unarmed Combat"                                   "1"
+    "The Wanga Prick"                                  "1"
     "Apoco-Fists"                                      "1"
+    "The Bootlegger"                                   "1"
     "The Scottish Handshake"                           "1"
     "The Sharp Dresser"                                "1"
     "Festive Minigun 2011"                             "1"
@@ -138,115 +263,10 @@
     "Diamond Botkiller Rocket Launcher"                "1"
     "The Bat Outta Hell"                               "1"
 
-    // Blocked Weapons: (Total: 130)
-    "The Axtinguisher"                                 "0"
-    "The Flare Gun"                                    "0"
-    "The Backburner"                                   "0"
-    "Natascha"                                         "0"
-    "The Sandvich"                                     "0"
-    "The Killing Gloves of Boxing"                     "0"
-    "The Sandman"                                      "0"
-    "The Force-a-Nature"                               "0"
-    "Bonk! Atomic Punch"                               "0"
-    "The Huntsman"                                     "0"
-    "The Razorback"                                    "0"
-    "Jarate"                                           "0"
-    "The Dead Ringer"                                  "0"
-    "The Cloak and Dagger"                             "0"
-    "The Ambassador"                                   "0"
-    "The Direct Hit"                                   "0"
-    "The Equalizer"                                    "0"
-    "The Buff Banner"                                  "0"
-    "The Scottish Resistance"                          "0"
-    "The Chargin' Targe"                               "0"
-    "The Eyelander"                                    "0"
-    "The Gunboats"                                     "0"
-    "The Wrangler"                                     "0"
-    "The Frontier Justice"                             "0"
-    "The Gunslinger"                                   "0"
-    "The Homewrecker"                                  "0"
-    "The Pain Train"                                   "0"
-    "The Southern Hospitality"                         "0"
-    "The Dalokohs Bar"                                 "0"
-    "Crit-a-Cola"                                      "0"
-    "The Tribalman's Shiv"                             "0"
-    "The Scotsman's Skullcutter"                       "0"
-    "The Vita-Saw"                                     "0"
-    "The Powerjack"                                    "0"
-    "The Degreaser"                                    "0"
-    "The Shortstop"                                    "0"
-    "Mad Milk"                                         "0"
-    "L'Etranger"                                       "0"
-    "Your Eternal Reward"                              "0"
-    "The Battalion's Backup"                           "0"
-    "The Black Box"                                    "0"
-    "The Sydney Sleeper"                               "0"
-    "Darwin's Danger Shield"                           "0"
-    "The Bushwacka"                                    "0"
-    "Rocket Jumper"                                    "0"
-    "Gloves of Running Urgently"                       "0"
-    "Stickybomb Jumper"                                "0"
-    "The Horseless Headless Horseman's Headtaker"      "0"
-    "The Amputator"                                    "0"
-    "The Ullapool Caber"                               "0"
-    "The Loch-n-Load"                                  "0"
-    "Warrior's Spirit"                                 "0"
-    "The Buffalo Steak Sandvich"                       "0"
-    "The Brass Beast"                                  "0"
-    "The Candy Cane"                                   "0"
-    "The Boston Basher"                                "0"
-    "The Back Scratcher"                               "0"
-    "The Claidheamohmor"                               "0"
-    "The Jag"                                          "0"
-    "Fists of Steel"                                   "0"
-    "Sharpened Volcano Fragment"                       "0"
-    "Sun-on-a-Stick"                                   "0"
-    "The Detonator"                                    "0"
-    "The Concheror"                                    "0"
-    "The Fan O'War"                                    "0"
-    "Conniver's Kunai"                                 "0"
-    "The Half-Zatoichi"                                "0"
-    "The Shahanshah"                                   "0"
-    "The Bazaar Bargain"                               "0"
-    "The Persian Persuader"                            "0"
-    "Ali Baba's Wee Booties"                           "0"
-    "The Splendid Screen"                              "0"
-    "The Quick-Fix"                                    "0"
-    "The Overdose"                                     "0"
-    "The Solemn Vow"                                   "0"
-    "The Liberty Launcher"                             "0"
-    "The Reserve Shooter"                              "0"
-    "The Market Gardener"                              "0"
-    "Tomislav"                                         "0"
-    "The Family Business"                              "0"
-    "The Eviction Notice"                              "0"
-    "Fishcake"                                         "0"
-    "The Cow Mangler 5000"                             "0"
-    "The Righteous Bison"                              "0"
-    "The Mantreads"                                    "0"
-    "The Disciplinary Action"                          "0"
-    "The Soda Popper"                                  "0"
-    "The Winger"                                       "0"
-    "The Atomizer"                                     "0"
-    "Three-Rune Blade"                                 "0"
-    "The Postal Pummeler"                              "0"
+    // Blocked Weapons: (Total: 24)
     "The Enforcer"                                     "0"
-    "The Big Earner"                                   "0"
-    "The Maul"                                         "0"
-    "Nessie's Nine Iron"                               "0"
-    "The Diamondback"                                  "0"
-    "The Machina"                                      "0"
-    "The Widowmaker"                                   "0"
-    "The Short Circuit"                                "0"
-    "The Wanga Prick"                                  "0"
     "The Pomson 6000"                                  "0"
-    "The Eureka Effect"                                "0"
-    "The Third Degree"                                 "0"
     "The Phlogistinator"                               "0"
-    "The Manmelter"                                    "0"
-    "The Bootlegger"                                   "0"
-    "The Cozy Camper"                                  "0"
-    "The Wrap Assassin"                                "0"
     "The Spy-cicle"                                    "0"
     "The Holiday Punch"                                "0"
     "The Beggar's Bazooka"                             "0"
@@ -257,7 +277,6 @@
     "The Hitman's Heatmaker"                           "0"
     "Baby Face's Blaster"                              "0"
     "Pretty Boy's Pocket Pistol"                       "0"
-    "The Escape Plan"                                  "0"
     "The Red-Tape Recorder"                            "0"
     "The Huo Long Heatmaker"                           "0"
     "The Flying Guillotine"                            "0"
@@ -270,16 +289,22 @@
     "The Robo-Sandvich"                                "0"
     "The Quäckenbirdt"                                 "0"
 
-    // Blocked Items: (Total: 7)
+    // Blocked Items: (Total: 13)
+    "The Attendant"                                    "0"
+    "The Milkman"                                      "0"
+    "The Familiar Fez"                                 "0"
+    "The Grenadier's Softcap"                          "0"
+    "Ol' Snaggletooth"                                 "0"
     "Bombinomicon"                                     "0"
-    "Noise Maker - Winter 2011"                        "0"
+    "The Jingle Belt"                                  "0"
+    "The Bootie Time"                                  "0"
     "Pet Balloonicorn"                                 "0"
     "Autogrant Pyrovision Goggles"                     "0"
     "Pyrovision Goggles"                               "0"
     "The Infernal Orchestrina"                         "0"
     "The Burning Bongos"                               "0"
 
-    // Allowed Hats: (Total: 286)
+    // Allowed Hats: (Total: 281)
     "Demoman's Fro"                                    "1"
     "Mining Light"                                     "1"
     "Football Helmet"                                  "1"
@@ -339,12 +364,7 @@
     "Medic Gatsby"                                     "1"
     "Heavy Do-rag"                                     "1"
     "Parasite Hat"                                     "1"
-    "The Attendant"                                    "1"
     "Rimmed Raincatcher"                               "1"
-    "The Milkman"                                      "1"
-    "The Familiar Fez"                                 "1"
-    "The Grenadier's Softcap"                          "1"
-    "Ol' Snaggletooth"                                 "1"
     "Worms Gear"                                       "1"
     "Pugilist's Protector"                             "1"
     "Old Guadalajara"                                  "1"
@@ -567,7 +587,7 @@
     "The Chief Constable"                              "1"
     "World Traveler"                                   "1"
 
-    // Misc Items: (Total: 301)
+    // Misc Items: (Total: 299)
     "Camera Beard"                                     "1"
     "Web Easteregg Medal"                              "1"
     "CheatDetectedMinor"                               "1"
@@ -686,8 +706,6 @@
     "The Itsy Bitsy Spyer"                             "1"
     "The All-Father"                                   "1"
     "The Kringle Collection"                           "1"
-    "The Jingle Belt"                                  "1"
-    "The Bootie Time"                                  "1"
     "Spirit Of Giving"                                 "1"
     "The Nine-Pipe Problem"                            "1"
     "The Stocking Stuffer"                             "1"
@@ -889,7 +907,7 @@
     "Pile Of Ash"                                      "1"
     "Pile Of Curses"                                   "1"
 
-    // Noise Maker: (Total: 13)
+    // Noise Maker: (Total: 14)
     "Halloween Noise Maker - Black Cat"                "1"
     "Halloween Noise Maker - Gremlin"                  "1"
     "Halloween Noise Maker - Werewolf"                 "1"
@@ -903,5 +921,6 @@
     "Promotional Noise Maker - Fireworks"              "1"
     "Noise Maker - TF Birthday"                        "1"
     "Noise Maker - Vuvuzela"                           "1"
+    "Noise Maker - Winter 2011"                        "1"
 
 }
