@@ -1,5 +1,5 @@
 // ETF2L Season 13, Full, all allowed
-// Updated: Tue, Oct 30 10:11:14 2012 +0100
+// Updated: Sat, Nov 17 14:17:50 2012 +0100
 //
 // Allowed weapons for Main classes:
 //  - The Kritzkrieg
@@ -138,7 +138,7 @@
     "Diamond Botkiller Rocket Launcher"                "1"
     "The Bat Outta Hell"                               "1"
 
-    // Blocked Weapons: (Total: 129)
+    // Blocked Weapons: (Total: 130)
     "The Axtinguisher"                                 "0"
     "The Flare Gun"                                    "0"
     "The Backburner"                                   "0"
@@ -268,6 +268,7 @@
     "Promo Neon Annihilator"                           "0"
     "Deflector"                                        "0"
     "The Robo-Sandvich"                                "0"
+    "The Quäckenbirdt"                                 "0"
 
     // Blocked Items: (Total: 7)
     "Bombinomicon"                                     "0"
@@ -278,7 +279,7 @@
     "The Infernal Orchestrina"                         "0"
     "The Burning Bongos"                               "0"
 
-    // Allowed Hats: (Total: 283)
+    // Allowed Hats: (Total: 286)
     "Demoman's Fro"                                    "1"
     "Mining Light"                                     "1"
     "Football Helmet"                                  "1"
@@ -561,9 +562,12 @@
     "The Wraith Wrap"                                  "1"
     "Ghostly Gibus"                                    "1"
     "The Skull Island Topper"                          "1"
+    "The Cockfighter"                                  "1"
+    "That '70s Chapeau"                                "1"
+    "The Chief Constable"                              "1"
     "World Traveler"                                   "1"
 
-    // Misc Items: (Total: 298)
+    // Misc Items: (Total: 301)
     "Camera Beard"                                     "1"
     "Web Easteregg Medal"                              "1"
     "CheatDetectedMinor"                               "1"
@@ -778,6 +782,9 @@
     "The Dead Little Buddy"                            "1"
     "The Exorcizor"                                    "1"
     "The Coffin Kit"                                   "1"
+    "The Hitt Mann Badge"                              "1"
+    "The Siberian Sophisticate"                        "1"
+    "The Deadliest Duckling"                           "1"
     "Something Special For Someone Special (Wearable)" "1"
     "Damaged Capacitor"                                "1"
     "Voodoo-Cursed Soul (Armory)"                      "1"

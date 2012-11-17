@@ -1,5 +1,5 @@
 // UGC Highlander Season 8, Full, all allowed
-// Updated: Tue, Oct 30 10:11:24 2012 +0100
+// Updated: Sat, Nov 17 14:17:59 2012 +0100
 //
 // Blocked weapons for Main classes:
 //  - The Vita-Saw
@@ -16,6 +16,7 @@
 //  - The Cleaner's Carbine
 //  - The Red-Tape Recorder
 //  - Promo Red-Tape Recorder
+//  - The Quäckenbirdt
 //
 // Weapon sets are:     banned
 // Weapon skins are:    allowed
@@ -262,7 +263,7 @@
     "Diamond Botkiller Rocket Launcher"                "1"
     "The Bat Outta Hell"                               "1"
 
-    // Blocked Weapons: (Total: 12)
+    // Blocked Weapons: (Total: 13)
     "The Vita-Saw"                                     "0"
     "The Enforcer"                                     "0"
     "The Pomson 6000"                                  "0"
@@ -275,6 +276,7 @@
     "Promo Red-Tape Recorder"                          "0"
     "Promo Huo Long Heatmaker"                         "0"
     "Deflector"                                        "0"
+    "The Quäckenbirdt"                                 "0"
 
     // Blocked Items: (Total: 5)
     "The Familiar Fez"                                 "0"
@@ -283,7 +285,7 @@
     "The Jingle Belt"                                  "0"
     "The Bootie Time"                                  "0"
 
-    // Allowed Hats: (Total: 281)
+    // Allowed Hats: (Total: 284)
     "Demoman's Fro"                                    "1"
     "Mining Light"                                     "1"
     "Football Helmet"                                  "1"
@@ -564,9 +566,12 @@
     "The Wraith Wrap"                                  "1"
     "Ghostly Gibus"                                    "1"
     "The Skull Island Topper"                          "1"
+    "The Cockfighter"                                  "1"
+    "That '70s Chapeau"                                "1"
+    "The Chief Constable"                              "1"
     "World Traveler"                                   "1"
 
-    // Misc Items: (Total: 301)
+    // Misc Items: (Total: 304)
     "Camera Beard"                                     "1"
     "Web Easteregg Medal"                              "1"
     "CheatDetectedMinor"                               "1"
@@ -784,6 +789,9 @@
     "The Dead Little Buddy"                            "1"
     "The Exorcizor"                                    "1"
     "The Coffin Kit"                                   "1"
+    "The Hitt Mann Badge"                              "1"
+    "The Siberian Sophisticate"                        "1"
+    "The Deadliest Duckling"                           "1"
     "Something Special For Someone Special (Wearable)" "1"
     "Damaged Capacitor"                                "1"
     "Voodoo-Cursed Soul (Armory)"                      "1"
