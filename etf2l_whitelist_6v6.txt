@@ -1,5 +1,5 @@
 // ETF2L Season 13, Full, all allowed
-// Updated: Sat, Nov 17 14:17:50 2012 +0200
+// Updated: Thu, Nov 22 18:40:51 2012 +0100
 //
 // Allowed weapons for Main classes:
 //  - The Kritzkrieg
@@ -268,7 +268,7 @@
     "Promo Neon Annihilator"                           "0"
     "Deflector"                                        "0"
     "The Robo-Sandvich"                                "0"
-    "The Quäckenbirdt"                                 "0"
+    "The Quackenbirdt"                                 "0"
 
     // Blocked Items: (Total: 7)
     "Bombinomicon"                                     "0"
