@@ -1,5 +1,5 @@
 // ETF2L BBall
-// Updated: Mon, Nov 26 18:23:07 2012 +0100
+// Updated: Fri, Nov 30 19:31:16 2012 +0100
 //
 // Allowed weapons for Main classes:
 //   - None
@@ -131,7 +131,7 @@
     "Diamond Botkiller Rocket Launcher"                "1"
     "The Bat Outta Hell"                               "1"
 
-    // Blocked Weapons: (Total: 132)
+    // Blocked Weapons: (Total: 133)
     "The Kritzkrieg"                                   "0"
     "The Blutsauger"                                   "0"
     "The Ubersaw"                                      "0"
@@ -264,6 +264,7 @@
     "Deflector"                                        "0"
     "The Robo-Sandvich"                                "0"
     "The Quackenbirdt"                                 "0"
+    "The Memory Maker"                                 "0"
 
     // Allowed Hats: (Total: 286)
     "Demoman's Fro"                                    "1"
@@ -553,7 +554,7 @@
     "The Chief Constable"                              "1"
     "World Traveler"                                   "1"
 
-    // Misc Items: (Total: 307)
+    // Misc Items: (Total: 310)
     "Camera Beard"                                     "1"
     "Web Easteregg Medal"                              "1"
     "CheatDetectedMinor"                               "1"
@@ -777,6 +778,9 @@
     "The Hitt Mann Badge"                              "1"
     "The Siberian Sophisticate"                        "1"
     "The Deadliest Duckling"                           "1"
+    "The Saxxy Clapper Badge"                          "1"
+    "The Tuxxy"                                        "1"
+    "Faerie Solitaire Pin"                             "1"
     "Something Special For Someone Special (Wearable)" "1"
     "Damaged Capacitor"                                "1"
     "Voodoo-Cursed Soul (Armory)"                      "1"

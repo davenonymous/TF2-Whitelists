@@ -1,5 +1,5 @@
 // UGC Highlander Season 8, Full, all allowed
-// Updated: Thu, Nov 22 18:40:59 2012 +0100
+// Updated: Fri, Nov 30 19:31:26 2012 +0100
 //
 // Blocked weapons for Main classes:
 //  - The Vita-Saw
@@ -8,6 +8,7 @@
 //  - The Huo Long Heatmaker
 //  - Promo Huo Long Heatmaker
 //  - Deflector
+//  - The Memory Maker
 //
 // Blocked weapons for Support classes:
 //  - The Enforcer
@@ -263,7 +264,7 @@
     "Diamond Botkiller Rocket Launcher"                "1"
     "The Bat Outta Hell"                               "1"
 
-    // Blocked Weapons: (Total: 13)
+    // Blocked Weapons: (Total: 14)
     "The Vita-Saw"                                     "0"
     "The Enforcer"                                     "0"
     "The Pomson 6000"                                  "0"
@@ -277,6 +278,7 @@
     "Promo Huo Long Heatmaker"                         "0"
     "Deflector"                                        "0"
     "The Quackenbirdt"                                 "0"
+    "The Memory Maker"                                 "0"
 
     // Blocked Items: (Total: 5)
     "The Familiar Fez"                                 "0"
@@ -571,7 +573,7 @@
     "The Chief Constable"                              "1"
     "World Traveler"                                   "1"
 
-    // Misc Items: (Total: 304)
+    // Misc Items: (Total: 307)
     "Camera Beard"                                     "1"
     "Web Easteregg Medal"                              "1"
     "CheatDetectedMinor"                               "1"
@@ -792,6 +794,9 @@
     "The Hitt Mann Badge"                              "1"
     "The Siberian Sophisticate"                        "1"
     "The Deadliest Duckling"                           "1"
+    "The Saxxy Clapper Badge"                          "1"
+    "The Tuxxy"                                        "1"
+    "Faerie Solitaire Pin"                             "1"
     "Something Special For Someone Special (Wearable)" "1"
     "Damaged Capacitor"                                "1"
     "Voodoo-Cursed Soul (Armory)"                      "1"

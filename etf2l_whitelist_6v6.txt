@@ -1,5 +1,5 @@
 // ETF2L Season 13, Full, all allowed
-// Updated: Thu, Nov 22 18:40:51 2012 +0100
+// Updated: Fri, Nov 30 19:31:18 2012 +0100
 //
 // Allowed weapons for Main classes:
 //  - The Kritzkrieg
@@ -138,7 +138,7 @@
     "Diamond Botkiller Rocket Launcher"                "1"
     "The Bat Outta Hell"                               "1"
 
-    // Blocked Weapons: (Total: 130)
+    // Blocked Weapons: (Total: 131)
     "The Axtinguisher"                                 "0"
     "The Flare Gun"                                    "0"
     "The Backburner"                                   "0"
@@ -269,6 +269,7 @@
     "Deflector"                                        "0"
     "The Robo-Sandvich"                                "0"
     "The Quackenbirdt"                                 "0"
+    "The Memory Maker"                                 "0"
 
     // Blocked Items: (Total: 7)
     "Bombinomicon"                                     "0"
@@ -567,7 +568,7 @@
     "The Chief Constable"                              "1"
     "World Traveler"                                   "1"
 
-    // Misc Items: (Total: 301)
+    // Misc Items: (Total: 304)
     "Camera Beard"                                     "1"
     "Web Easteregg Medal"                              "1"
     "CheatDetectedMinor"                               "1"
@@ -785,6 +786,9 @@
     "The Hitt Mann Badge"                              "1"
     "The Siberian Sophisticate"                        "1"
     "The Deadliest Duckling"                           "1"
+    "The Saxxy Clapper Badge"                          "1"
+    "The Tuxxy"                                        "1"
+    "Faerie Solitaire Pin"                             "1"
     "Something Special For Someone Special (Wearable)" "1"
     "Damaged Capacitor"                                "1"
     "Voodoo-Cursed Soul (Armory)"                      "1"
