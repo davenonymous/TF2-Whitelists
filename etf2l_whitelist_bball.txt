@@ -1,5 +1,5 @@
 // ETF2L BBall
-// Updated: Fri, Dec 21 00:48:23 2012 +0100
+// Updated: Fri, Dec 21 01:15:12 2012 +0100
 //
 // Allowed weapons for Main classes:
 //   - None
@@ -44,7 +44,7 @@
     "Upgradeable TF_WEAPON_BUILDER_SPY"                "1"
     "Upgradeable TF_WEAPON_PDA_ENGINEER_BUILD"         "1"
 
-    // Weapon Skins: (Total: 86)
+    // Weapon Skins: (Total: 106)
     "TTG Max Pistol"                                   "1"
     "TTG Sam Revolver"                                 "1"
     "Golden Wrench"                                    "1"
@@ -131,8 +131,28 @@
     "Diamond Botkiller Rocket Launcher Mk.I"           "1"
     "The Bat Outta Hell"                               "1"
     "The Memory Maker"                                 "1"
+    "Silver Botkiller Sniper Rifle Mk.II"              "1"
+    "Silver Botkiller Minigun Mk.II"                   "1"
+    "Silver Botkiller Knife Mk.II"                     "1"
+    "Silver Botkiller Wrench Mk.II"                    "1"
+    "Silver Botkiller Medi Gun Mk.II"                  "1"
+    "Silver Botkiller Stickybomb Launcher Mk.II"       "1"
+    "Silver Botkiller Flame Thrower Mk.II"             "1"
+    "Silver Botkiller Scattergun Mk.II"                "1"
+    "Silver Botkiller Rocket Launcher Mk.II"           "1"
+    "Gold Botkiller Sniper Rifle Mk.II"                "1"
+    "Gold Botkiller Minigun Mk.II"                     "1"
+    "Gold Botkiller Knife Mk.II"                       "1"
+    "Gold Botkiller Wrench Mk.II"                      "1"
+    "Gold Botkiller Medi Gun Mk.II"                    "1"
+    "Gold Botkiller Stickybomb Launcher Mk.II"         "1"
+    "Gold Botkiller Flame Thrower Mk.II"               "1"
+    "Gold Botkiller Scattergun Mk.II"                  "1"
+    "Gold Botkiller Rocket Launcher Mk.II"             "1"
+    "Festive Holy Mackerel"                            "1"
+    "Festive Grenade Launcher"                         "1"
 
-    // Blocked Weapons: (Total: 162)
+    // Blocked Weapons: (Total: 142)
     "The Kritzkrieg"                                   "0"
     "The Blutsauger"                                   "0"
     "The Ubersaw"                                      "0"
@@ -265,28 +285,9 @@
     "Deflector"                                        "0"
     "The Robo-Sandvich"                                "0"
     "The Quackenbirdt"                                 "0"
-    "Silver Botkiller Sniper Rifle Mk.II"              "0"
-    "Silver Botkiller Minigun Mk.II"                   "0"
-    "Silver Botkiller Knife Mk.II"                     "0"
-    "Silver Botkiller Wrench Mk.II"                    "0"
-    "Silver Botkiller Medi Gun Mk.II"                  "0"
-    "Silver Botkiller Stickybomb Launcher Mk.II"       "0"
-    "Silver Botkiller Flame Thrower Mk.II"             "0"
-    "Silver Botkiller Scattergun Mk.II"                "0"
-    "Silver Botkiller Rocket Launcher Mk.II"           "0"
-    "Gold Botkiller Sniper Rifle Mk.II"                "0"
-    "Gold Botkiller Minigun Mk.II"                     "0"
-    "Gold Botkiller Knife Mk.II"                       "0"
-    "Gold Botkiller Wrench Mk.II"                      "0"
-    "Gold Botkiller Medi Gun Mk.II"                    "0"
-    "Gold Botkiller Stickybomb Launcher Mk.II"         "0"
-    "Gold Botkiller Flame Thrower Mk.II"               "0"
-    "Gold Botkiller Scattergun Mk.II"                  "0"
-    "Gold Botkiller Rocket Launcher Mk.II"             "0"
     "The Loose Cannon"                                 "0"
     "The Rescue Ranger"                                "0"
     "The Vaccinator"                                   "0"
-    "Festive Holy Mackerel"                            "0"
     "Festive Axtinguisher"                             "0"
     "Festive Buff Banner"                              "0"
     "Festive Sandvich"                                 "0"
@@ -294,7 +295,6 @@
     "Festive Frontier Justice"                         "0"
     "Festive Huntsman"                                 "0"
     "Festive Ambassador"                               "0"
-    "Festive Grenade Launcher"                         "0"
 
     // Allowed Hats: (Total: 296)
     "Demoman's Fro"                                    "1"
