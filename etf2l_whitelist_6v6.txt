@@ -1,11 +1,16 @@
-// ETF2L Season 13, Full, all allowed
-// Updated: Fri, Dec 21 01:15:14 2012 +0100
+// ETF2L Season 14, Full, all allowed
+// Updated: Sat, Dec 29 21:00:13 2012 +0100
 //
 // Allowed weapons for Main classes:
 //  - The Kritzkrieg
 //  - The Blutsauger
 //  - The Ubersaw
+//  - The Gunboats
+//  - The Pain Train
 //  - The Crusader's Crossbow
+//  - The Boston Basher
+//  - The Overdose
+//  - The Escape Plan
 //
 // Allowed weapons for Support classes:
 //   - None
@@ -20,11 +25,16 @@
 {
     "unlisted_items_default_to"                        "0"
 
-    // Allowed Weapons: (Total: 4)
+    // Allowed Weapons: (Total: 9)
     "The Kritzkrieg"                                   "1"
     "The Blutsauger"                                   "1"
     "The Ubersaw"                                      "1"
+    "The Gunboats"                                     "1"
+    "The Pain Train"                                   "1"
     "The Crusader's Crossbow"                          "1"
+    "The Boston Basher"                                "1"
+    "The Overdose"                                     "1"
+    "The Escape Plan"                                  "1"
 
     // Renamed Weapons: (Total: 25)
     "Upgradeable TF_WEAPON_BAT"                        "1"
@@ -53,7 +63,7 @@
     "Upgradeable TF_WEAPON_BUILDER_SPY"                "1"
     "Upgradeable TF_WEAPON_PDA_ENGINEER_BUILD"         "1"
 
-    // Weapon Skins: (Total: 105)
+    // Weapon Skins: (Total: 106)
     "TTG Max Pistol"                                   "1"
     "TTG Sam Revolver"                                 "1"
     "Golden Wrench"                                    "1"
@@ -63,6 +73,7 @@
     "TTG Watch"                                        "1"
     "Iron Curtain"                                     "1"
     "Saxxy"                                            "1"
+    "Three-Rune Blade"                                 "1"
     "The Conscientious Objector"                       "1"
     "The Original"                                     "1"
     "Unarmed Combat"                                   "1"
@@ -160,7 +171,7 @@
     "Festive Ubersaw"                                  "1"
     "Festive Grenade Launcher"                         "1"
 
-    // Blocked Weapons: (Total: 139)
+    // Blocked Weapons: (Total: 133)
     "The Axtinguisher"                                 "0"
     "The Flare Gun"                                    "0"
     "The Backburner"                                   "0"
@@ -182,12 +193,10 @@
     "The Scottish Resistance"                          "0"
     "The Chargin' Targe"                               "0"
     "The Eyelander"                                    "0"
-    "The Gunboats"                                     "0"
     "The Wrangler"                                     "0"
     "The Frontier Justice"                             "0"
     "The Gunslinger"                                   "0"
     "The Homewrecker"                                  "0"
-    "The Pain Train"                                   "0"
     "The Southern Hospitality"                         "0"
     "The Dalokohs Bar"                                 "0"
     "Crit-a-Cola"                                      "0"
@@ -216,7 +225,6 @@
     "The Buffalo Steak Sandvich"                       "0"
     "The Brass Beast"                                  "0"
     "The Candy Cane"                                   "0"
-    "The Boston Basher"                                "0"
     "The Back Scratcher"                               "0"
     "The Claidheamohmor"                               "0"
     "The Jag"                                          "0"
@@ -234,7 +242,6 @@
     "Ali Baba's Wee Booties"                           "0"
     "The Splendid Screen"                              "0"
     "The Quick-Fix"                                    "0"
-    "The Overdose"                                     "0"
     "The Solemn Vow"                                   "0"
     "The Liberty Launcher"                             "0"
     "The Reserve Shooter"                              "0"
@@ -250,7 +257,6 @@
     "The Soda Popper"                                  "0"
     "The Winger"                                       "0"
     "The Atomizer"                                     "0"
-    "Three-Rune Blade"                                 "0"
     "The Postal Pummeler"                              "0"
     "The Enforcer"                                     "0"
     "The Big Earner"                                   "0"
@@ -279,7 +285,6 @@
     "The Hitman's Heatmaker"                           "0"
     "Baby Face's Blaster"                              "0"
     "Pretty Boy's Pocket Pistol"                       "0"
-    "The Escape Plan"                                  "0"
     "The Red-Tape Recorder"                            "0"
     "The Huo Long Heatmaker"                           "0"
     "The Flying Guillotine"                            "0"

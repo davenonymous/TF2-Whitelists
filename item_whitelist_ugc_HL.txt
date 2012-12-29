@@ -1,5 +1,5 @@
 // UGC Highlander Season 8, Full, all allowed
-// Updated: Fri, Dec 21 01:15:23 2012 +0100
+// Updated: Sat, Dec 29 21:00:22 2012 +0100
 //
 // Blocked weapons for Main classes:
 //  - The Vita-Saw

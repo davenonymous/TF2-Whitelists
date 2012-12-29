@@ -1,5 +1,5 @@
 // ETF2L BBall
-// Updated: Fri, Dec 21 01:15:12 2012 +0100
+// Updated: Sat, Dec 29 21:00:11 2012 +0100
 //
 // Allowed weapons for Main classes:
 //   - None

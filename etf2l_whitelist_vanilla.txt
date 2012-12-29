@@ -1,11 +1,16 @@
-// ETF2L Season 13, Vanilla, all blocked
-// Updated: Fri, Dec 21 01:15:21 2012 +0100
+// ETF2L Season 14, Vanilla, all blocked
+// Updated: Sat, Dec 29 21:00:20 2012 +0100
 //
 // Allowed weapons for Main classes:
 //  - The Kritzkrieg
 //  - The Blutsauger
 //  - The Ubersaw
+//  - The Gunboats
+//  - The Pain Train
 //  - The Crusader's Crossbow
+//  - The Boston Basher
+//  - The Overdose
+//  - The Escape Plan
 //
 // Allowed weapons for Support classes:
 //   - None
@@ -20,11 +25,16 @@
 {
     "unlisted_items_default_to"                        "0"
 
-    // Allowed Weapons: (Total: 4)
+    // Allowed Weapons: (Total: 9)
     "The Kritzkrieg"                                   "1"
     "The Blutsauger"                                   "1"
     "The Ubersaw"                                      "1"
+    "The Gunboats"                                     "1"
+    "The Pain Train"                                   "1"
     "The Crusader's Crossbow"                          "1"
+    "The Boston Basher"                                "1"
+    "The Overdose"                                     "1"
+    "The Escape Plan"                                  "1"
 
     // Renamed Weapons: (Total: 25)
     "Upgradeable TF_WEAPON_BAT"                        "1"
