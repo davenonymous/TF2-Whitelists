@@ -1,5 +1,5 @@
 // ETF2L BBall
-// Updated: Sat, Dec 29 21:00:11 2012 +0100
+// Updated: Wed, Jan  9 08:40:43 2013 +0100
 //
 // Allowed weapons for Main classes:
 //   - None
@@ -296,7 +296,7 @@
     "Festive Huntsman"                                 "0"
     "Festive Ambassador"                               "0"
 
-    // Allowed Hats: (Total: 296)
+    // Allowed Hats: (Total: 297)
     "Demoman's Fro"                                    "1"
     "Mining Light"                                     "1"
     "Football Helmet"                                  "1"
@@ -592,9 +592,10 @@
     "The Carl"                                         "1"
     "Antlers"                                          "1"
     "Mann Co. Online Cap"                              "1"
+    "The Last Straw"                                   "1"
     "World Traveler"                                   "1"
 
-    // Misc Items: (Total: 328)
+    // Misc Items: (Total: 330)
     "Camera Beard"                                     "1"
     "Web Easteregg Medal"                              "1"
     "CheatDetectedMinor"                               "1"
@@ -839,6 +840,8 @@
     "The Hunger Force"                                 "1"
     "Smissmas Wreath"                                  "1"
     "Pet Reindoonicorn"                                "1"
+    "The Prize Plushy"                                 "1"
+    "The Grizzled Growth"                              "1"
     "Something Special For Someone Special (Wearable)" "1"
     "Damaged Capacitor"                                "1"
     "Voodoo-Cursed Soul (Armory)"                      "1"

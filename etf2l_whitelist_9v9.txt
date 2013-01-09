@@ -1,5 +1,5 @@
 // ETF2L Highlander Season 3, Full, all allowed
-// Updated: Sat, Dec 29 21:00:18 2012 +0100
+// Updated: Wed, Jan  9 08:40:50 2013 +0100
 //
 // Blocked weapons for Main classes:
 //  - The Vita-Saw
@@ -320,7 +320,7 @@
     "The Jingle Belt"                                  "0"
     "The Bootie Time"                                  "0"
 
-    // Allowed Hats: (Total: 294)
+    // Allowed Hats: (Total: 295)
     "Demoman's Fro"                                    "1"
     "Mining Light"                                     "1"
     "Football Helmet"                                  "1"
@@ -614,9 +614,10 @@
     "The Carl"                                         "1"
     "Antlers"                                          "1"
     "Mann Co. Online Cap"                              "1"
+    "The Last Straw"                                   "1"
     "World Traveler"                                   "1"
 
-    // Misc Items: (Total: 325)
+    // Misc Items: (Total: 327)
     "Camera Beard"                                     "1"
     "Web Easteregg Medal"                              "1"
     "CheatDetectedMinor"                               "1"
@@ -858,6 +859,8 @@
     "The Hunger Force"                                 "1"
     "Smissmas Wreath"                                  "1"
     "Pet Reindoonicorn"                                "1"
+    "The Prize Plushy"                                 "1"
+    "The Grizzled Growth"                              "1"
     "Something Special For Someone Special (Wearable)" "1"
     "Damaged Capacitor"                                "1"
     "Voodoo-Cursed Soul (Armory)"                      "1"
