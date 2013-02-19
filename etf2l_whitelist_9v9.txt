@@ -1,5 +1,5 @@
 // ETF2L Highlander Season 3, Full, all allowed
-// Updated: Sat, Feb 16 02:04:14 2013 +0100
+// Updated: Tue, Feb 19 18:59:54 2013 +0100
 //
 // Blocked weapons for Main classes:
 //  - The Vita-Saw
@@ -320,7 +320,7 @@
     "The Jingle Belt"                                  "0"
     "The Bootie Time"                                  "0"
 
-    // Allowed Hats: (Total: 295)
+    // Allowed Hats: (Total: 296)
     "Demoman's Fro"                                    "1"
     "Mining Light"                                     "1"
     "Football Helmet"                                  "1"
@@ -615,6 +615,7 @@
     "Antlers"                                          "1"
     "Mann Co. Online Cap"                              "1"
     "The Last Straw"                                   "1"
+    "The Brutal Bouffant"                              "1"
     "World Traveler"                                   "1"
 
     // Misc Items: (Total: 500)
@@ -1119,7 +1120,7 @@
     "UGC Highlander Steel Participant Season 8"        "1"
     "UGC Highlander Participant Season 8"              "1"
 
-    // Action Items: (Total: 16)
+    // Action Items: (Total: 17)
     "Gift - 1 Player"                                  "1"
     "Gift - 24 Players"                                "1"
     "Duel MiniGame"                                    "1"
@@ -1134,6 +1135,7 @@
     "Sandvich Promo Package"                           "1"
     "Companion Square Promo Package"                   "1"
     "Steam Translation Package"                        "1"
+    "The Shred Alert"                                  "1"
     "Pile Of Ash"                                      "1"
     "Pile Of Curses"                                   "1"
 

@@ -1,5 +1,5 @@
 // ETF2L 6th Cup
-// Updated: Sat, Feb 16 02:04:03 2013 +0100
+// Updated: Tue, Feb 19 18:59:44 2013 +0100
 //
 // Allowed weapons for Main classes:
 //  - The Kritzkrieg
@@ -315,7 +315,7 @@
     "The Infernal Orchestrina"                         "0"
     "The Burning Bongos"                               "0"
 
-    // Allowed Hats: (Total: 297)
+    // Allowed Hats: (Total: 298)
     "Demoman's Fro"                                    "1"
     "Mining Light"                                     "1"
     "Football Helmet"                                  "1"
@@ -612,6 +612,7 @@
     "Antlers"                                          "1"
     "Mann Co. Online Cap"                              "1"
     "The Last Straw"                                   "1"
+    "The Brutal Bouffant"                              "1"
     "World Traveler"                                   "1"
 
     // Misc Items: (Total: 497)
@@ -1113,7 +1114,7 @@
     "UGC Highlander Steel Participant Season 8"        "1"
     "UGC Highlander Participant Season 8"              "1"
 
-    // Action Items: (Total: 17)
+    // Action Items: (Total: 18)
     "High Five Taunt"                                  "1"
     "Gift - 1 Player"                                  "1"
     "Gift - 24 Players"                                "1"
@@ -1129,6 +1130,7 @@
     "Sandvich Promo Package"                           "1"
     "Companion Square Promo Package"                   "1"
     "Steam Translation Package"                        "1"
+    "The Shred Alert"                                  "1"
     "Pile Of Ash"                                      "1"
     "Pile Of Curses"                                   "1"
 
