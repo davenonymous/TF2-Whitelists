@@ -1,5 +1,5 @@
 // ETF2L BBall
-// Updated: Tue, Feb 19 18:59:47 2013 +0100
+// Updated: Fri, Feb 22 20:23:17 2013 +0100
 //
 // Allowed weapons for Main classes:
 //   - None
@@ -296,7 +296,7 @@
     "Festive Huntsman"                                 "0"
     "Festive Ambassador"                               "0"
 
-    // Allowed Hats: (Total: 298)
+    // Allowed Hats: (Total: 303)
     "Demoman's Fro"                                    "1"
     "Mining Light"                                     "1"
     "Football Helmet"                                  "1"
@@ -594,9 +594,14 @@
     "Mann Co. Online Cap"                              "1"
     "The Last Straw"                                   "1"
     "The Brutal Bouffant"                              "1"
+    "Vox Diabolus"                                     "1"
+    "The Pounding Father"                              "1"
+    "The Person in the Iron Mask"                      "1"
+    "The Doe-Boy"                                      "1"
+    "The Sydney Straw Boat"                            "1"
     "World Traveler"                                   "1"
 
-    // Misc Items: (Total: 503)
+    // Misc Items: (Total: 505)
     "Camera Beard"                                     "1"
     "Web Easteregg Medal"                              "1"
     "CheatDetectedMinor"                               "1"
@@ -845,6 +850,8 @@
     "The Grizzled Growth"                              "1"
     "Tux"                                              "1"
     "Buck Turner All-Stars"                            "1"
+    "Blind Justice"                                    "1"
+    "The Steel Songbird"                               "1"
     "Something Special For Someone Special (Wearable)" "1"
     "Damaged Capacitor"                                "1"
     "Voodoo-Cursed Soul (Armory)"                      "1"

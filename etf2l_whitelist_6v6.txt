@@ -1,5 +1,5 @@
 // ETF2L Season 14, Full, all allowed
-// Updated: Tue, Feb 19 18:59:49 2013 +0100
+// Updated: Fri, Feb 22 20:23:19 2013 +0100
 //
 // Allowed weapons for Main classes:
 //  - The Kritzkrieg
@@ -315,7 +315,7 @@
     "The Infernal Orchestrina"                         "0"
     "The Burning Bongos"                               "0"
 
-    // Allowed Hats: (Total: 298)
+    // Allowed Hats: (Total: 303)
     "Demoman's Fro"                                    "1"
     "Mining Light"                                     "1"
     "Football Helmet"                                  "1"
@@ -613,9 +613,14 @@
     "Mann Co. Online Cap"                              "1"
     "The Last Straw"                                   "1"
     "The Brutal Bouffant"                              "1"
+    "Vox Diabolus"                                     "1"
+    "The Pounding Father"                              "1"
+    "The Person in the Iron Mask"                      "1"
+    "The Doe-Boy"                                      "1"
+    "The Sydney Straw Boat"                            "1"
     "World Traveler"                                   "1"
 
-    // Misc Items: (Total: 497)
+    // Misc Items: (Total: 499)
     "Camera Beard"                                     "1"
     "Web Easteregg Medal"                              "1"
     "CheatDetectedMinor"                               "1"
@@ -858,6 +863,8 @@
     "The Grizzled Growth"                              "1"
     "Tux"                                              "1"
     "Buck Turner All-Stars"                            "1"
+    "Blind Justice"                                    "1"
+    "The Steel Songbird"                               "1"
     "Something Special For Someone Special (Wearable)" "1"
     "Damaged Capacitor"                                "1"
     "Voodoo-Cursed Soul (Armory)"                      "1"
