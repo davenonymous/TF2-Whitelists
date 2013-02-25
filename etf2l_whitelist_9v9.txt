@@ -1,5 +1,5 @@
-// ETF2L Highlander Season 3, Full, all allowed
-// Updated: Fri, Feb 22 20:23:24 2013 +0100
+// ETF2L Highlander Season 4, Full, all allowed
+// Updated: Mon, Feb 25 18:29:13 2013 +0100
 //
 // Blocked weapons for Main classes:
 //  - The Vita-Saw
@@ -8,8 +8,6 @@
 //  - The Huo Long Heatmaker
 //  - Promo Huo Long Heatmaker
 //  - Deflector
-//  - The Loose Cannon
-//  - The Vaccinator
 //
 // Blocked weapons for Support classes:
 //  - The Enforcer
@@ -19,7 +17,6 @@
 //  - The Red-Tape Recorder
 //  - Promo Red-Tape Recorder
 //  - The Quackenbirdt
-//  - The Rescue Ranger
 //
 // Weapon sets are:     banned
 // Weapon skins are:    allowed
@@ -31,7 +28,7 @@
 {
     "unlisted_items_default_to"                        "0"
 
-    // Allowed Weapons: (Total: 113)
+    // Allowed Weapons: (Total: 116)
     "The Kritzkrieg"                                   "1"
     "The Blutsauger"                                   "1"
     "The Ubersaw"                                      "1"
@@ -145,6 +142,9 @@
     "The AWPer Hand"                                   "1"
     "The Robo-Sandvich"                                "1"
     "The Freedom Staff"                                "1"
+    "The Loose Cannon"                                 "1"
+    "The Rescue Ranger"                                "1"
+    "The Vaccinator"                                   "1"
 
     // Renamed Weapons: (Total: 25)
     "Upgradeable TF_WEAPON_BAT"                        "1"
@@ -294,7 +294,7 @@
     "Festive Ambassador"                               "1"
     "Festive Grenade Launcher"                         "1"
 
-    // Blocked Weapons: (Total: 16)
+    // Blocked Weapons: (Total: 13)
     "The Vita-Saw"                                     "0"
     "The Enforcer"                                     "0"
     "The Pomson 6000"                                  "0"
@@ -308,9 +308,6 @@
     "Promo Huo Long Heatmaker"                         "0"
     "Deflector"                                        "0"
     "The Quackenbirdt"                                 "0"
-    "The Loose Cannon"                                 "0"
-    "The Rescue Ranger"                                "0"
-    "The Vaccinator"                                   "0"
 
     // Blocked Items: (Total: 6)
     "High Five Taunt"                                  "0"
