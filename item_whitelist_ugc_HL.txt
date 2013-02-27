@@ -1,5 +1,5 @@
 // UGC Highlander Season 8, Full, all allowed
-// Updated: Mon, Feb 25 18:29:23 2013 +0100
+// Updated: Wed, Feb 27 20:23:29 2013 +0100
 //
 // Blocked weapons for Main classes:
 //  - The Vita-Saw
@@ -18,7 +18,6 @@
 //  - The Cleaner's Carbine
 //  - The Red-Tape Recorder
 //  - Promo Red-Tape Recorder
-//  - The Quackenbirdt
 //  - The Rescue Ranger
 //
 // Weapon sets are:     banned
@@ -173,7 +172,7 @@
     "Upgradeable TF_WEAPON_BUILDER_SPY"                "1"
     "Upgradeable TF_WEAPON_PDA_ENGINEER_BUILD"         "1"
 
-    // Weapon Skins: (Total: 119)
+    // Weapon Skins: (Total: 120)
     "TTG Max Pistol"                                   "1"
     "TTG Sam Revolver"                                 "1"
     "Golden Wrench"                                    "1"
@@ -265,6 +264,7 @@
     "Diamond Botkiller Scattergun Mk.I"                "1"
     "Diamond Botkiller Rocket Launcher Mk.I"           "1"
     "The Bat Outta Hell"                               "1"
+    "The Quackenbirdt"                                 "1"
     "The Memory Maker"                                 "1"
     "Silver Botkiller Sniper Rifle Mk.II"              "1"
     "Silver Botkiller Minigun Mk.II"                   "1"
@@ -294,7 +294,7 @@
     "Festive Ambassador"                               "1"
     "Festive Grenade Launcher"                         "1"
 
-    // Blocked Weapons: (Total: 16)
+    // Blocked Weapons: (Total: 15)
     "The Vita-Saw"                                     "0"
     "The Enforcer"                                     "0"
     "The Pomson 6000"                                  "0"
@@ -307,7 +307,6 @@
     "Promo Red-Tape Recorder"                          "0"
     "Promo Huo Long Heatmaker"                         "0"
     "Deflector"                                        "0"
-    "The Quackenbirdt"                                 "0"
     "The Loose Cannon"                                 "0"
     "The Rescue Ranger"                                "0"
     "The Vaccinator"                                   "0"
