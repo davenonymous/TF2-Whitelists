@@ -1,5 +1,5 @@
 // UGC Highlander Season 8, Full, all allowed
-// Updated: Wed, Feb 27 20:23:29 2013 +0100
+// Updated: Tue, Mar  5 13:49:09 2013 +0100
 //
 // Blocked weapons for Main classes:
 //  - The Vita-Saw
@@ -621,7 +621,7 @@
     "The Sydney Straw Boat"                            "1"
     "World Traveler"                                   "1"
 
-    // Misc Items: (Total: 502)
+    // Misc Items: (Total: 505)
     "Camera Beard"                                     "1"
     "Web Easteregg Medal"                              "1"
     "CheatDetectedMinor"                               "1"
@@ -869,6 +869,9 @@
     "Buck Turner All-Stars"                            "1"
     "Blind Justice"                                    "1"
     "The Steel Songbird"                               "1"
+    "Croft's Crest"                                    "1"
+    "The Fortune Hunter"                               "1"
+    "The Tomb Wrapper"                                 "1"
     "Something Special For Someone Special (Wearable)" "1"
     "Damaged Capacitor"                                "1"
     "Voodoo-Cursed Soul (Armory)"                      "1"
