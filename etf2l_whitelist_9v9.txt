@@ -1,5 +1,5 @@
 // ETF2L Highlander Season 4, Full, all allowed
-// Updated: Tue, Mar  5 13:48:59 2013 +0100
+// Updated: Wed, Mar 13 01:45:00 2013 +0100
 //
 // Blocked weapons for Main classes:
 //  - The Vita-Saw
@@ -9,6 +9,7 @@
 //  - The Huo Long Heatmaker
 //  - Promo Huo Long Heatmaker
 //  - Deflector
+//  - The Ham Shank
 //
 // Blocked weapons for Support classes:
 //  - The Enforcer
@@ -17,6 +18,7 @@
 //  - The Cleaner's Carbine
 //  - The Red-Tape Recorder
 //  - Promo Red-Tape Recorder
+//  - The Ap-Sap
 //
 // Weapon sets are:     banned
 // Weapon skins are:    allowed
@@ -294,7 +296,7 @@
     "Festive Ambassador"                               "1"
     "Festive Grenade Launcher"                         "1"
 
-    // Blocked Weapons: (Total: 13)
+    // Blocked Weapons: (Total: 15)
     "The Vita-Saw"                                     "0"
     "The Enforcer"                                     "0"
     "The Pomson 6000"                                  "0"
@@ -308,6 +310,8 @@
     "Promo Red-Tape Recorder"                          "0"
     "Promo Huo Long Heatmaker"                         "0"
     "Deflector"                                        "0"
+    "The Ap-Sap"                                       "0"
+    "The Ham Shank"                                    "0"
 
     // Blocked Items: (Total: 6)
     "High Five Taunt"                                  "0"
@@ -317,7 +321,7 @@
     "The Jingle Belt"                                  "0"
     "The Bootie Time"                                  "0"
 
-    // Allowed Hats: (Total: 301)
+    // Allowed Hats: (Total: 304)
     "Demoman's Fro"                                    "1"
     "Mining Light"                                     "1"
     "Football Helmet"                                  "1"
@@ -612,15 +616,18 @@
     "Antlers"                                          "1"
     "Mann Co. Online Cap"                              "1"
     "The Last Straw"                                   "1"
+    "The Wilson Weave"                                 "1"
     "The Brutal Bouffant"                              "1"
     "Vox Diabolus"                                     "1"
     "The Pounding Father"                              "1"
     "The Person in the Iron Mask"                      "1"
     "The Doe-Boy"                                      "1"
     "The Sydney Straw Boat"                            "1"
+    "The Bloodhound"                                   "1"
+    "The Necronomicrown"                               "1"
     "World Traveler"                                   "1"
 
-    // Misc Items: (Total: 505)
+    // Misc Items: (Total: 508)
     "Camera Beard"                                     "1"
     "Web Easteregg Medal"                              "1"
     "CheatDetectedMinor"                               "1"
@@ -871,6 +878,9 @@
     "Croft's Crest"                                    "1"
     "The Fortune Hunter"                               "1"
     "The Tomb Wrapper"                                 "1"
+    "The Samson Skewer"                                "1"
+    "The Dapper Disguise"                              "1"
+    "The Long Fall Loafers"                            "1"
     "Something Special For Someone Special (Wearable)" "1"
     "Damaged Capacitor"                                "1"
     "Voodoo-Cursed Soul (Armory)"                      "1"
@@ -1127,7 +1137,7 @@
     "UGC Highlander Steel Participant Season 8"        "1"
     "UGC Highlander Participant Season 8"              "1"
 
-    // Action Items: (Total: 17)
+    // Action Items: (Total: 19)
     "Gift - 1 Player"                                  "1"
     "Gift - 24 Players"                                "1"
     "Duel MiniGame"                                    "1"
@@ -1142,7 +1152,9 @@
     "Sandvich Promo Package"                           "1"
     "Companion Square Promo Package"                   "1"
     "Steam Translation Package"                        "1"
+    "Portal 2 Soundtrack Promo Package"                "1"
     "The Shred Alert"                                  "1"
+    "Random Droppable Paints Package"                  "1"
     "Pile Of Ash"                                      "1"
     "Pile Of Curses"                                   "1"
 
