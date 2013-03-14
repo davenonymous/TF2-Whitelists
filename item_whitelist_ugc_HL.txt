@@ -1,5 +1,5 @@
 // UGC Highlander Season 8, Full, all allowed
-// Updated: Wed, Mar 13 01:45:10 2013 +0100
+// Updated: Thu, Mar 14 13:57:58 2013 +0100
 //
 // Blocked weapons for Main classes:
 //  - The Vita-Saw
@@ -10,7 +10,6 @@
 //  - Deflector
 //  - The Loose Cannon
 //  - The Vaccinator
-//  - The Ham Shank
 //
 // Blocked weapons for Support classes:
 //  - The Enforcer
@@ -174,7 +173,7 @@
     "Upgradeable TF_WEAPON_BUILDER_SPY"                "1"
     "Upgradeable TF_WEAPON_PDA_ENGINEER_BUILD"         "1"
 
-    // Weapon Skins: (Total: 120)
+    // Weapon Skins: (Total: 121)
     "TTG Max Pistol"                                   "1"
     "TTG Sam Revolver"                                 "1"
     "Golden Wrench"                                    "1"
@@ -295,8 +294,9 @@
     "Festive Huntsman"                                 "1"
     "Festive Ambassador"                               "1"
     "Festive Grenade Launcher"                         "1"
+    "The Ham Shank"                                    "1"
 
-    // Blocked Weapons: (Total: 17)
+    // Blocked Weapons: (Total: 16)
     "The Vita-Saw"                                     "0"
     "The Enforcer"                                     "0"
     "The Pomson 6000"                                  "0"
@@ -313,7 +313,6 @@
     "The Loose Cannon"                                 "0"
     "The Rescue Ranger"                                "0"
     "The Vaccinator"                                   "0"
-    "The Ham Shank"                                    "0"
 
     // Blocked Items: (Total: 5)
     "The Familiar Fez"                                 "0"
