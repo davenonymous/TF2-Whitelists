@@ -1,5 +1,5 @@
 // ETF2L Highlander Season 4, Full, all allowed
-// Updated: Thu, Mar 14 13:57:48 2013 +0100
+// Updated: Tue, Mar 19 19:04:03 2013 +0100
 //
 // Blocked weapons for Main classes:
 //  - The Vita-Saw
@@ -11,6 +11,7 @@
 //  - Deflector
 //
 // Blocked weapons for Support classes:
+//  - The Bazaar Bargain
 //  - The Enforcer
 //  - The Pomson 6000
 //  - The Phlogistinator
@@ -29,7 +30,7 @@
 {
     "unlisted_items_default_to"                        "0"
 
-    // Allowed Weapons: (Total: 115)
+    // Allowed Weapons: (Total: 114)
     "The Kritzkrieg"                                   "1"
     "The Blutsauger"                                   "1"
     "The Ubersaw"                                      "1"
@@ -100,7 +101,6 @@
     "Conniver's Kunai"                                 "1"
     "The Half-Zatoichi"                                "1"
     "The Shahanshah"                                   "1"
-    "The Bazaar Bargain"                               "1"
     "The Persian Persuader"                            "1"
     "Ali Baba's Wee Booties"                           "1"
     "The Splendid Screen"                              "1"
@@ -296,8 +296,9 @@
     "Festive Grenade Launcher"                         "1"
     "The Ham Shank"                                    "1"
 
-    // Blocked Weapons: (Total: 14)
+    // Blocked Weapons: (Total: 15)
     "The Vita-Saw"                                     "0"
+    "The Bazaar Bargain"                               "0"
     "The Enforcer"                                     "0"
     "The Pomson 6000"                                  "0"
     "The Phlogistinator"                               "0"
