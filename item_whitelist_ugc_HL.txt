@@ -1,5 +1,5 @@
 // UGC Highlander Season 8, Full, all allowed
-// Updated: Tue, Mar 19 20:54:01 2013 +0100
+// Updated: Thu, Apr  4 18:08:25 2013 +0200
 //
 // Blocked weapons for Main classes:
 //  - The Vita-Saw
@@ -320,7 +320,7 @@
     "The Jingle Belt"                                  "0"
     "The Bootie Time"                                  "0"
 
-    // Allowed Hats: (Total: 305)
+    // Allowed Hats: (Total: 307)
     "Demoman's Fro"                                    "1"
     "Mining Light"                                     "1"
     "Football Helmet"                                  "1"
@@ -625,9 +625,11 @@
     "The Bloodhound"                                   "1"
     "The Necronomicrown"                               "1"
     "The TF2VRH"                                       "1"
+    "The Conspiracy Cap"                               "1"
+    "The Public Accessor"                              "1"
     "World Traveler"                                   "1"
 
-    // Misc Items: (Total: 508)
+    // Misc Items: (Total: 513)
     "Camera Beard"                                     "1"
     "Web Easteregg Medal"                              "1"
     "CheatDetectedMinor"                               "1"
@@ -1136,6 +1138,11 @@
     "UGC Highlander Silver Participant Season 8"       "1"
     "UGC Highlander Steel Participant Season 8"        "1"
     "UGC Highlander Participant Season 8"              "1"
+    "Ready Steady Pan First Place Season 2"            "1"
+    "Ready Steady Pan Second Place Season 2"           "1"
+    "Ready Steady Pan Third Place Season 2"            "1"
+    "Ready Steady Pan Participant Season 2"            "1"
+    "Ready Steady Pan Helper Season 2"                 "1"
 
     // Action Items: (Total: 20)
     "High Five Taunt"                                  "1"
