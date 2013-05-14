@@ -1,5 +1,5 @@
 // ETF2L Ultiduo
-// Updated: Sun, May 12 18:50:35 2013 +0200
+// Updated: Tue, May 14 19:55:50 2013 +0200
 //
 // Allowed weapons for Main classes:
 //  - The Blutsauger
@@ -614,7 +614,7 @@
     "The Public Accessor"                              "1"
     "World Traveler"                                   "1"
 
-    // Misc Items: (Total: 516)
+    // Misc Items: (Total: 543)
     "Camera Beard"                                     "1"
     "Web Easteregg Medal"                              "1"
     "CheatDetectedMinor"                               "1"
@@ -1131,6 +1131,33 @@
     "Ready Steady Pan Third Place Season 2"            "1"
     "Ready Steady Pan Participant Season 2"            "1"
     "Ready Steady Pan Helper Season 2"                 "1"
+    "UGC Highlander 1st Place Platinum Season 9"       "1"
+    "UGC Highlander 2nd Place Platinum Season 9"       "1"
+    "UGC Highlander 3rd Place Platinum Season 9"       "1"
+    "UGC Highlander 1st Place Gold Season 9"           "1"
+    "UGC Highlander 2nd Place Gold Season 9"           "1"
+    "UGC Highlander 3rd Place Gold Season 9"           "1"
+    "UGC Highlander 1st Place Silver Season 9"         "1"
+    "UGC Highlander 2nd Place Silver Season 9"         "1"
+    "UGC Highlander 3rd Place Silver Season 9"         "1"
+    "UGC Highlander 1st Place Steel Season 9"          "1"
+    "UGC Highlander 2nd Place Steel Season 9"          "1"
+    "UGC Highlander 3rd Place Steel Season 9"          "1"
+    "UGC Highlander 1st Place Iron Season 9"           "1"
+    "UGC Highlander 2nd Place Iron Season 9"           "1"
+    "UGC Highlander 3rd Place Iron Season 9"           "1"
+    "UGC Highlander 1st Place Season 9"                "1"
+    "UGC Highlander 2nd Place Season 9"                "1"
+    "UGC Highlander 3rd Place Season 9"                "1"
+    "UGC Highlander Platinum Participant Season 9"     "1"
+    "UGC Highlander Gold Participant Season 9"         "1"
+    "UGC Highlander Silver Participant Season 9"       "1"
+    "UGC Highlander Steel Participant Season 9"        "1"
+    "UGC Highlander Iron Participant Season 9"         "1"
+    "UGC 6vs6 Platinum Participant Season 11"          "1"
+    "UGC 6vs6 Silver Participant Season 11"            "1"
+    "UGC 6vs6 Steel Participant Season 11"             "1"
+    "UGC 6vs6 European Participant Season 11"          "1"
 
     // Action Items: (Total: 20)
     "High Five Taunt"                                  "1"
