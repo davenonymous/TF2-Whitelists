@@ -1,5 +1,5 @@
 // ETF2L Ultiduo
-// Updated: Tue, May 14 19:55:50 2013 +0200
+// Updated: Fri, May 17 20:49:00 2013 +0200
 //
 // Allowed weapons for Main classes:
 //  - The Blutsauger
@@ -303,7 +303,7 @@
     "Festive Huntsman"                                 "0"
     "Festive Ambassador"                               "0"
 
-    // Allowed Hats: (Total: 309)
+    // Allowed Hats: (Total: 348)
     "Demoman's Fro"                                    "1"
     "Mining Light"                                     "1"
     "Football Helmet"                                  "1"
@@ -613,8 +613,47 @@
     "The Conspiracy Cap"                               "1"
     "The Public Accessor"                              "1"
     "World Traveler"                                   "1"
+    "Modest Metal Pile of Scrap"                       "1"
+    "Letch's LED"                                      "1"
+    "The Galvanized Gibus"                             "1"
+    "Soldered Sensei"                                  "1"
+    "Shooter's Tin Topi"                               "1"
+    "Noble Nickel Amassment of Hats"                   "1"
+    "Base Metal Billycock"                             "1"
+    "Towering Titanium Pillar of Hats"                 "1"
+    "The Gridiron Guardian"                            "1"
+    "Tyrantium Helmet"                                 "1"
+    "The FR-0"                                         "1"
+    "Steel Shako"                                      "1"
+    "The Bot Dogger"                                   "1"
+    "Ye Oiled Baker Boy"                               "1"
+    "The Pure Tin Capotain"                            "1"
+    "Plumber’s Pipe"                                   "1"
+    "The Cyborg Stunt Helmet"                          "1"
+    "The Electric Escorter"                            "1"
+    "Full Metal Drill Hat"                             "1"
+    "The Metal Slug"                                   "1"
+    "The Broadband Bonnet"                             "1"
+    "Bonk Leadwear"                                    "1"
+    "The Plug-In Prospector"                           "1"
+    "The Bolted Bicorne"                               "1"
+    "The Timeless Topper"                              "1"
+    "The Strontium Stove Pipe"                         "1"
+    "Firewall Helmet"                                  "1"
+    "Respectless Robo-Glove"                           "1"
+    "Pyro's Boron Beanie"                              "1"
+    "Halogen Head Lamp"                                "1"
+    "Platinum Pickelhaube"                             "1"
+    "The Virus Doctor"                                 "1"
+    "Texas Tin-Gallon"                                 "1"
+    "Titanium Tyrolean"                                "1"
+    "Bootleg Base Metal Billycock"                     "1"
+    "The Tungsten Toque"                               "1"
+    "The Data Mining Light"                            "1"
+    "The Bunsen Brave"                                 "1"
+    "The Bolted Birdcage"                              "1"
 
-    // Misc Items: (Total: 543)
+    // Misc Items: (Total: 561)
     "Camera Beard"                                     "1"
     "Web Easteregg Medal"                              "1"
     "CheatDetectedMinor"                               "1"
@@ -1158,8 +1197,26 @@
     "UGC 6vs6 Silver Participant Season 11"            "1"
     "UGC 6vs6 Steel Participant Season 11"             "1"
     "UGC 6vs6 European Participant Season 11"          "1"
+    "The Electric Badge-aloo"                          "1"
+    "The Megapixel Beard"                              "1"
+    "The HDMI Patch"                                   "1"
+    "Bolted Bombardier"                                "1"
+    "The Titanium Towel"                               "1"
+    "The Scrap Sack"                                   "1"
+    "Teddy Robobelt"                                   "1"
+    "The Bolt Boy"                                     "1"
+    "The Rusty Reaper"                                 "1"
+    "Soldier's Sparkplug"                              "1"
+    "The Filamental"                                   "1"
+    "Practitioner’s Processing Mask"                   "1"
+    "Mecha-Medes"                                      "1"
+    "The Steam Pipe"                                   "1"
+    "The Byte’d Beak"                                  "1"
+    "The Googol Glass Eyes"                            "1"
+    "The Scrumpy Strongbox"                            "1"
+    "The Dual-Core Devil Doll"                         "1"
 
-    // Action Items: (Total: 20)
+    // Action Items: (Total: 24)
     "High Five Taunt"                                  "1"
     "Gift - 1 Player"                                  "1"
     "Gift - 24 Players"                                "1"
@@ -1178,8 +1235,12 @@
     "Portal 2 Soundtrack Promo Package"                "1"
     "The Shred Alert"                                  "1"
     "Random Droppable Paints Package"                  "1"
+    "Pallet of Crates"                                 "1"
     "Pile Of Ash"                                      "1"
     "Pile Of Curses"                                   "1"
+    "Gift - 23 RoboKeys 2013"                          "1"
+    "Gift - 1 RoboKey 2013"                            "1"
+    "Battery Canteens"                                 "1"
 
     // Noise Maker: (Total: 14)
     "Halloween Noise Maker - Black Cat"                "1"
