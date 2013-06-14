@@ -1,5 +1,5 @@
 // ETF2L Highlander Season 4, Full, all allowed
-// Updated: Tue, Jun 11 17:13:16 2013 +0200
+// Updated: Fri, Jun 14 15:13:55 2013 +0200
 //
 // Blocked weapons for Main classes:
 //  - The Vita-Saw
@@ -320,7 +320,7 @@
     "The Jingle Belt"                                  "0"
     "The Bootie Time"                                  "0"
 
-    // Allowed Hats: (Total: 349)
+    // Allowed Hats: (Total: 358)
     "Demoman's Fro"                                    "1"
     "Mining Light"                                     "1"
     "Football Helmet"                                  "1"
@@ -670,8 +670,17 @@
     "The Bunsen Brave"                                 "1"
     "The Bolted Birdcage"                              "1"
     "The Crosslinker's Coil"                           "1"
+    "The Beastly Bonnet"                               "1"
+    "The Centurion"                                    "1"
+    "The Tartan Shade"                                 "1"
+    "The Hardy Laurel"                                 "1"
+    "The Brotherhood of Arms"                          "1"
+    "The Well-Rounded Rifleman"                        "1"
+    "The Powdered Practitioner"                        "1"
+    "The Cloud Crasher"                                "1"
+    "The Pom-Pommed Provocateur"                       "1"
 
-    // Misc Items: (Total: 591)
+    // Misc Items: (Total: 599)
     "Camera Beard"                                     "1"
     "Web Easteregg Medal"                              "1"
     "CheatDetectedMinor"                               "1"
@@ -1263,6 +1272,14 @@
     "The Googol Glass Eyes"                            "1"
     "The Scrumpy Strongbox"                            "1"
     "The Dual-Core Devil Doll"                         "1"
+    "The Cheet Sheet"                                  "1"
+    "The Tartantaloons"                                "1"
+    "The Steel Sixpack"                                "1"
+    "The Breakneck Baggies"                            "1"
+    "The Pocket Pyro"                                  "1"
+    "The Dark Age Defender"                            "1"
+    "The Tyurtlenek"                                   "1"
+    "The Mair Mask"                                    "1"
 
     // Action Items: (Total: 23)
     "Gift - 1 Player"                                  "1"
