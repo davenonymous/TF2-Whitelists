@@ -1,5 +1,5 @@
 // ETF2L Highlander Season 4, Full, all allowed
-// Updated: Fri, Jun 14 15:13:55 2013 +0200
+// Updated: Thu, Jul 11 17:28:25 2013 +0200
 //
 // Blocked weapons for Main classes:
 //  - The Vita-Saw
@@ -320,7 +320,7 @@
     "The Jingle Belt"                                  "0"
     "The Bootie Time"                                  "0"
 
-    // Allowed Hats: (Total: 358)
+    // Allowed Hats: (Total: 385)
     "Demoman's Fro"                                    "1"
     "Mining Light"                                     "1"
     "Football Helmet"                                  "1"
@@ -679,8 +679,35 @@
     "The Powdered Practitioner"                        "1"
     "The Cloud Crasher"                                "1"
     "The Pom-Pommed Provocateur"                       "1"
+    "Greased Lightning"                                "1"
+    "The Tsarboosh"                                    "1"
+    "The Glasgow Great Helm"                           "1"
+    "The Burning Bandana"                              "1"
+    "The Hive Minder"                                  "1"
+    "The Katyusha"                                     "1"
+    "Das Hazmattenhatten"                              "1"
+    "Das Ubersternmann"                                "1"
+    "The Pardner's Pompadour"                          "1"
+    "The Black Watch"                                  "1"
+    "The Tartan Spartan"                               "1"
+    "Das Naggenvatcher"                                "1"
+    "The Stormin' Norman"                              "1"
+    "The Valley Forge"                                 "1"
+    "The Caribbean Conqueror"                          "1"
+    "The Whirly Warrior"                               "1"
+    "The Federal Casemaker"                            "1"
+    "The Rebel Rouser"                                 "1"
+    "Das Maddendoktor"                                 "1"
+    "The Bear Necessities"                             "1"
+    "The Harmburg"                                     "1"
+    "Das Gutenkutteharen"                              "1"
+    "The Belgian Detective"                            "1"
+    "Wet Works"                                        "1"
+    "Baron von Havenaplane"                            "1"
+    "The Pampered Pyro"                                "1"
+    "The Virtual Viewfinder"                           "1"
 
-    // Misc Items: (Total: 599)
+    // Misc Items: (Total: 636)
     "Camera Beard"                                     "1"
     "Web Easteregg Medal"                              "1"
     "CheatDetectedMinor"                               "1"
@@ -1280,8 +1307,45 @@
     "The Dark Age Defender"                            "1"
     "The Tyurtlenek"                                   "1"
     "The Mair Mask"                                    "1"
+    "The Bigg Mann on Campus"                          "1"
+    "The Cool Cat Cardigan"                            "1"
+    "The Red Army Robin"                               "1"
+    "The Heavy-Weight Champ"                           "1"
+    "The Caffeine Cooler"                              "1"
+    "The Half-Pipe Hurdler"                            "1"
+    "The Macho Mann"                                   "1"
+    "The Trash Toter"                                  "1"
+    "The Dry Gulch Gulp"                               "1"
+    "El Muchacho"                                      "1"
+    "The Backpack Broiler"                             "1"
+    "The Soot Suit"                                    "1"
+    "Das Feelinbeterbager"                             "1"
+    "Das Metalmeatencasen"                             "1"
+    "The Birdman of Australiacatraz"                   "1"
+    "The Cobber Chameleon"                             "1"
+    "The Falconer"                                     "1"
+    "Graybanns"                                        "1"
+    "The Gaelic Golf Bag"                              "1"
+    "The Borscht Belt"                                 "1"
+    "The Whiskey Bib"                                  "1"
+    "The Flared Frontiersman"                          "1"
+    "The Compatriot"                                   "1"
+    "The Colonial Clogs"                               "1"
+    "The Gaelic Garb"                                  "1"
+    "The Rogue's Brogues"                              "1"
+    "The Shogun's Shoulder Guard"                      "1"
+    "The Hornblower"                                   "1"
+    "Lieutenant Bites"                                 "1"
+    "The Brawling Buccaneer"                           "1"
+    "The Blood Banker"                                 "1"
+    "The After Dark"                                   "1"
+    "The Delinquent's Down Vest"                       "1"
+    "Das Fantzipantzen"                                "1"
+    "The Bolshevik Biker"                              "1"
+    "The Gabe Glasses"                                 "1"
+    "The Founding Father"                              "1"
 
-    // Action Items: (Total: 23)
+    // Action Items: (Total: 26)
     "Gift - 1 Player"                                  "1"
     "Gift - 24 Players"                                "1"
     "Duel MiniGame"                                    "1"
@@ -1304,6 +1368,9 @@
     "Pile Of Curses"                                   "1"
     "Gift - 23 RoboKeys 2013"                          "1"
     "Gift - 1 RoboKey 2013"                            "1"
+    "July 2013 Claim Check"                            "1"
+    "Gift - 23 SummerKeys 2013"                        "1"
+    "Gift - 1 SummerKey 2013"                          "1"
     "Battery Canteens"                                 "1"
 
     // Noise Maker: (Total: 14)
