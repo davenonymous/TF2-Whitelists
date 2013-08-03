@@ -1,17 +1,16 @@
-// ETF2L Highlander Season 4, Full, all allowed
-// Updated: Thu, Jul 11 17:28:25 2013 +0200
+// ETF2L Highlander Season 5, Full, all allowed
+// Updated: Sat, Aug  3 15:11:49 2013 +0200
 //
 // Blocked weapons for Main classes:
 //  - The Vita-Saw
 //  - The Holiday Punch
-//  - The Beggar's Bazooka
 //  - Pretty Boy's Pocket Pistol
 //  - The Huo Long Heatmaker
 //  - Promo Huo Long Heatmaker
 //  - Deflector
 //
 // Blocked weapons for Support classes:
-//  - The Bazaar Bargain
+//  - Darwin's Danger Shield
 //  - The Enforcer
 //  - The Pomson 6000
 //  - The Phlogistinator
@@ -29,7 +28,7 @@
 {
     "unlisted_items_default_to"                        "0"
 
-    // Allowed Weapons: (Total: 114)
+    // Allowed Weapons: (Total: 115)
     "The Kritzkrieg"                                   "1"
     "The Blutsauger"                                   "1"
     "The Ubersaw"                                      "1"
@@ -74,7 +73,6 @@
     "The Battalion's Backup"                           "1"
     "The Black Box"                                    "1"
     "The Sydney Sleeper"                               "1"
-    "Darwin's Danger Shield"                           "1"
     "The Bushwacka"                                    "1"
     "Rocket Jumper"                                    "1"
     "Gloves of Running Urgently"                       "1"
@@ -100,6 +98,7 @@
     "Conniver's Kunai"                                 "1"
     "The Half-Zatoichi"                                "1"
     "The Shahanshah"                                   "1"
+    "The Bazaar Bargain"                               "1"
     "The Persian Persuader"                            "1"
     "Ali Baba's Wee Booties"                           "1"
     "The Splendid Screen"                              "1"
@@ -130,6 +129,7 @@
     "The Cozy Camper"                                  "1"
     "The Wrap Assassin"                                "1"
     "The Spy-cicle"                                    "1"
+    "The Beggar's Bazooka"                             "1"
     "The Scorch Shot"                                  "1"
     "The Hitman's Heatmaker"                           "1"
     "Baby Face's Blaster"                              "1"
@@ -296,14 +296,13 @@
     "Festive Grenade Launcher"                         "1"
     "The Ham Shank"                                    "1"
 
-    // Blocked Weapons: (Total: 14)
+    // Blocked Weapons: (Total: 13)
     "The Vita-Saw"                                     "0"
-    "The Bazaar Bargain"                               "0"
+    "Darwin's Danger Shield"                           "0"
     "The Enforcer"                                     "0"
     "The Pomson 6000"                                  "0"
     "The Phlogistinator"                               "0"
     "The Holiday Punch"                                "0"
-    "The Beggar's Bazooka"                             "0"
     "The Cleaner's Carbine"                            "0"
     "Pretty Boy's Pocket Pistol"                       "0"
     "The Red-Tape Recorder"                            "0"
@@ -312,15 +311,13 @@
     "Promo Huo Long Heatmaker"                         "0"
     "Deflector"                                        "0"
 
-    // Blocked Items: (Total: 6)
+    // Blocked Items: (Total: 4)
     "High Five Taunt"                                  "0"
-    "The Familiar Fez"                                 "0"
-    "Ol' Snaggletooth"                                 "0"
     "Bombinomicon"                                     "0"
     "The Jingle Belt"                                  "0"
     "The Bootie Time"                                  "0"
 
-    // Allowed Hats: (Total: 385)
+    // Allowed Hats: (Total: 387)
     "Demoman's Fro"                                    "1"
     "Mining Light"                                     "1"
     "Football Helmet"                                  "1"
@@ -383,7 +380,9 @@
     "The Attendant"                                    "1"
     "Rimmed Raincatcher"                               "1"
     "The Milkman"                                      "1"
+    "The Familiar Fez"                                 "1"
     "The Grenadier's Softcap"                          "1"
+    "Ol' Snaggletooth"                                 "1"
     "Worms Gear"                                       "1"
     "Pugilist's Protector"                             "1"
     "Old Guadalajara"                                  "1"

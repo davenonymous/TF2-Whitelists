@@ -1,5 +1,5 @@
 // ETF2L Season 15, Full, all allowed
-// Updated: Thu, Jul 11 17:28:22 2013 +0200
+// Updated: Sat, Aug  3 15:11:46 2013 +0200
 //
 // Allowed weapons for Main classes:
 //  - The Kritzkrieg
