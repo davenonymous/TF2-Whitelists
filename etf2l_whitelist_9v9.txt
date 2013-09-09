@@ -1,5 +1,5 @@
 // ETF2L Highlander Season 5, Full, all allowed
-// Updated: Sat, Aug  3 15:11:49 2013 +0200
+// Updated: Mon, Sep  9 16:10:26 2013 +0200
 //
 // Blocked weapons for Main classes:
 //  - The Vita-Saw
@@ -317,7 +317,7 @@
     "The Jingle Belt"                                  "0"
     "The Bootie Time"                                  "0"
 
-    // Allowed Hats: (Total: 387)
+    // Allowed Hats: (Total: 396)
     "Demoman's Fro"                                    "1"
     "Mining Light"                                     "1"
     "Football Helmet"                                  "1"
@@ -705,8 +705,17 @@
     "Baron von Havenaplane"                            "1"
     "The Pampered Pyro"                                "1"
     "The Virtual Viewfinder"                           "1"
+    "tw_demobot_helmet"                                "1"
+    "tw_engineerbot_helmet"                            "1"
+    "tw_heavybot_helmet"                               "1"
+    "tw_medibot_hat"                                   "1"
+    "tw_pyrobot_helmet"                                "1"
+    "tw_scoutbot_hat"                                  "1"
+    "tw_sniperbot_helmet"                              "1"
+    "tw_soldierbot_helmet"                             "1"
+    "tw_spybot_hood"                                   "1"
 
-    // Misc Items: (Total: 636)
+    // Misc Items: (Total: 646)
     "Camera Beard"                                     "1"
     "Web Easteregg Medal"                              "1"
     "CheatDetectedMinor"                               "1"
@@ -1343,6 +1352,16 @@
     "The Bolshevik Biker"                              "1"
     "The Gabe Glasses"                                 "1"
     "The Founding Father"                              "1"
+    "tw_demobot_armor"                                 "1"
+    "tw_engineerbot_armor"                             "1"
+    "tw_heavybot_armor"                                "1"
+    "tw_medibot_chariot"                               "1"
+    "tw_pyrobot_armor"                                 "1"
+    "tw_scoutbot_armor"                                "1"
+    "tw_sniperbot_armor"                               "1"
+    "tw_soldierbot_armor"                              "1"
+    "tw_spybot_armor"                                  "1"
+    "tw_sentrybuster"                                  "1"
 
     // Action Items: (Total: 26)
     "Gift - 1 Player"                                  "1"

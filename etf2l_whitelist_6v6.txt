@@ -1,5 +1,5 @@
-// ETF2L Season 15, Full, all allowed
-// Updated: Sat, Aug  3 15:11:46 2013 +0200
+// ETF2L Season 16, Full, all allowed
+// Updated: Mon, Sep  9 16:10:23 2013 +0200
 //
 // Allowed weapons for Main classes:
 //  - The Kritzkrieg
@@ -10,6 +10,7 @@
 //  - The Crusader's Crossbow
 //  - The Boston Basher
 //  - The Overdose
+//  - The Winger
 //  - The Escape Plan
 //
 // Allowed weapons for Support classes:
@@ -25,7 +26,7 @@
 {
     "unlisted_items_default_to"                        "0"
 
-    // Allowed Weapons: (Total: 9)
+    // Allowed Weapons: (Total: 10)
     "The Kritzkrieg"                                   "1"
     "The Blutsauger"                                   "1"
     "The Ubersaw"                                      "1"
@@ -34,6 +35,7 @@
     "The Crusader's Crossbow"                          "1"
     "The Boston Basher"                                "1"
     "The Overdose"                                     "1"
+    "The Winger"                                       "1"
     "The Escape Plan"                                  "1"
 
     // Renamed Weapons: (Total: 25)
@@ -174,7 +176,7 @@
     "Festive Grenade Launcher"                         "1"
     "The Ham Shank"                                    "1"
 
-    // Blocked Weapons: (Total: 132)
+    // Blocked Weapons: (Total: 131)
     "The Axtinguisher"                                 "0"
     "The Flare Gun"                                    "0"
     "The Backburner"                                   "0"
@@ -258,7 +260,6 @@
     "The Mantreads"                                    "0"
     "The Disciplinary Action"                          "0"
     "The Soda Popper"                                  "0"
-    "The Winger"                                       "0"
     "The Atomizer"                                     "0"
     "The Postal Pummeler"                              "0"
     "The Enforcer"                                     "0"
@@ -317,7 +318,7 @@
     "The Infernal Orchestrina"                         "0"
     "The Burning Bongos"                               "0"
 
-    // Allowed Hats: (Total: 387)
+    // Allowed Hats: (Total: 396)
     "Demoman's Fro"                                    "1"
     "Mining Light"                                     "1"
     "Football Helmet"                                  "1"
@@ -705,8 +706,17 @@
     "Baron von Havenaplane"                            "1"
     "The Pampered Pyro"                                "1"
     "The Virtual Viewfinder"                           "1"
+    "tw_demobot_helmet"                                "1"
+    "tw_engineerbot_helmet"                            "1"
+    "tw_heavybot_helmet"                               "1"
+    "tw_medibot_hat"                                   "1"
+    "tw_pyrobot_helmet"                                "1"
+    "tw_scoutbot_hat"                                  "1"
+    "tw_sniperbot_helmet"                              "1"
+    "tw_soldierbot_helmet"                             "1"
+    "tw_spybot_hood"                                   "1"
 
-    // Misc Items: (Total: 633)
+    // Misc Items: (Total: 643)
     "Camera Beard"                                     "1"
     "Web Easteregg Medal"                              "1"
     "CheatDetectedMinor"                               "1"
@@ -1340,6 +1350,16 @@
     "The Bolshevik Biker"                              "1"
     "The Gabe Glasses"                                 "1"
     "The Founding Father"                              "1"
+    "tw_demobot_armor"                                 "1"
+    "tw_engineerbot_armor"                             "1"
+    "tw_heavybot_armor"                                "1"
+    "tw_medibot_chariot"                               "1"
+    "tw_pyrobot_armor"                                 "1"
+    "tw_scoutbot_armor"                                "1"
+    "tw_sniperbot_armor"                               "1"
+    "tw_soldierbot_armor"                              "1"
+    "tw_spybot_armor"                                  "1"
+    "tw_sentrybuster"                                  "1"
 
     // Action Items: (Total: 27)
     "High Five Taunt"                                  "1"
