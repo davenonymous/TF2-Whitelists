@@ -1,5 +1,5 @@
 // ETF2L Ultiduo
-// Updated: Mon, Sep  9 16:10:29 2013 +0200
+// Updated: Wed, Sep 11 08:36:25 2013 +0200
 //
 // Allowed weapons for Main classes:
 //  - The Blutsauger
