@@ -1,5 +1,5 @@
 // ETF2L Highlander Season 5, Full, all allowed
-// Updated: Wed, Sep 11 08:36:22 2013 +0200
+// Updated: Thu, Oct  3 10:30:50 2013 +0200
 //
 // Blocked weapons for Main classes:
 //  - The Vita-Saw
@@ -317,7 +317,7 @@
     "The Jingle Belt"                                  "0"
     "The Bootie Time"                                  "0"
 
-    // Allowed Hats: (Total: 396)
+    // Allowed Hats: (Total: 397)
     "Demoman's Fro"                                    "1"
     "Mining Light"                                     "1"
     "Football Helmet"                                  "1"
@@ -628,6 +628,7 @@
     "The Public Accessor"                              "1"
     "The Weather Master"                               "1"
     "The Bacteria Blocker"                             "1"
+    "The Grandmaster"                                  "1"
     "World Traveler"                                   "1"
     "Modest Metal Pile of Scrap"                       "1"
     "Letch's LED"                                      "1"
@@ -1292,7 +1293,7 @@
     "The Electric Badge-aloo"                          "1"
     "The Megapixel Beard"                              "1"
     "The HDMI Patch"                                   "1"
-    "Bolted Bombardier"                                "1"
+    "The Bolted Bombardier"                            "1"
     "The Titanium Towel"                               "1"
     "The Scrap Sack"                                   "1"
     "Teddy Robobelt"                                   "1"
