@@ -1,5 +1,5 @@
 // ETF2L Season 16, Full, all allowed
-// Updated: Thu, Oct  3 10:30:48 2013 +0200
+// Updated: Wed, Oct 23 13:30:07 2013 +0200
 //
 // Allowed weapons for Main classes:
 //  - The Kritzkrieg
@@ -326,7 +326,7 @@
     "The Infernal Orchestrina"                         "0"
     "The Burning Bongos"                               "0"
 
-    // Allowed Hats: (Total: 397)
+    // Allowed Hats: (Total: 404)
     "Demoman's Fro"                                    "1"
     "Mining Light"                                     "1"
     "Football Helmet"                                  "1"
@@ -724,8 +724,15 @@
     "tw_sniperbot_helmet"                              "1"
     "tw_soldierbot_helmet"                             "1"
     "tw_spybot_hood"                                   "1"
+    "The Bone Dome"                                    "1"
+    "Brim-Full Of Bullets"                             "1"
+    "The Cotton Head"                                  "1"
+    "Hong Kong Cone"                                   "1"
+    "Pirate Bandana"                                   "1"
+    "L'homme Burglerre"                                "1"
+    "The Slick Cut"                                    "1"
 
-    // Misc Items: (Total: 643)
+    // Misc Items: (Total: 661)
     "Camera Beard"                                     "1"
     "Web Easteregg Medal"                              "1"
     "CheatDetectedMinor"                               "1"
@@ -1369,6 +1376,24 @@
     "tw_soldierbot_armor"                              "1"
     "tw_spybot_armor"                                  "1"
     "tw_sentrybuster"                                  "1"
+    "The Air Raider"                                   "1"
+    "The Viking Braider"                               "1"
+    "The Cuban Bristle Crisis"                         "1"
+    "The Beep Boy"                                     "1"
+    "The Special Eyes"                                 "1"
+    "Trickster's Turnout Gear"                         "1"
+    "The Chronomancer"                                 "1"
+    "The Medical Mystery"                              "1"
+    "The Gold Digger"                                  "1"
+    "Pop-eyes"                                         "1"
+    "Weight Room Warmer"                               "1"
+    "The Hurt Locher"                                  "1"
+    "Li'l Snaggletooth"                                "1"
+    "Escapist"                                         "1"
+    "The Flapjack"                                     "1"
+    "A Brush with Death"                               "1"
+    "The Frenchman's Formals"                          "1"
+    "The Ward"                                         "1"
 
     // Action Items: (Total: 27)
     "High Five Taunt"                                  "1"
