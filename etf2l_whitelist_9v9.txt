@@ -21,7 +21,7 @@
 // Weapon sets are:     banned
 // Weapon skins are:    allowed
 // Action items are:    allowed
-// Noise Maker are:     allowed
+// Noise Maker are:     banned
 // Hats are:            allowed
 
 "item_whitelist"
@@ -345,11 +345,18 @@
     "Deflector"                                                            "0"
     "Gold Frying Pan"                                                      "0"
 
-    // Blocked Items: (Total: 4)
+    // Blocked Items: (Total: 11)
     "High Five Taunt"                                                      "0"
     "Bombinomicon"                                                         "0"
     "The Jingle Belt"                                                      "0"
     "The Bootie Time"                                                      "0"
+    "Noise Maker - Winter 2011"                                            "0"
+    "Pet Balloonicorn"                                                     "0"
+    "Autogrant Pyrovision Goggles"                                         "0"
+    "Pyrovision Goggles"                                                   "0"
+    "The Infernal Orchestrina"                                             "0"
+    "The Burning Bongos"                                                   "0"
+    "Pet Reindoonicorn"                                                    "0"
 
     // Allowed Hats: (Total: 447)
     "Demoman's Fro"                                                        "1"
@@ -800,7 +807,7 @@
     "The Raven's Visage"                                                   "1"
     "The Haunted Hat"                                                      "1"
 
-    // Misc Items: (Total: 765)
+    // Misc Items: (Total: 789)
     "Camera Beard"                                                         "1"
     "Web Easteregg Medal"                                                  "1"
     "CheatDetectedMinor"                                                   "1"
@@ -952,11 +959,6 @@
     "The Captain's Cocktails"                                              "1"
     "Pet Robro"                                                            "1"
     "The Teufort Tooth Kicker"                                             "1"
-    "Pet Balloonicorn"                                                     "1"
-    "Autogrant Pyrovision Goggles"                                         "1"
-    "Pyrovision Goggles"                                                   "1"
-    "The Infernal Orchestrina"                                             "1"
-    "The Burning Bongos"                                                   "1"
     "The Scrap Pack"                                                       "1"
     "The Texas Half-Pants"                                                 "1"
     "The Toss-Proof Towel"                                                 "1"
@@ -1041,7 +1043,6 @@
     "Aqua Flops"                                                           "1"
     "The Hunger Force"                                                     "1"
     "Smissmas Wreath"                                                      "1"
-    "Pet Reindoonicorn"                                                    "1"
     "The Prize Plushy"                                                     "1"
     "The Grizzled Growth"                                                  "1"
     "Tux"                                                                  "1"
@@ -1416,6 +1417,36 @@
     "ETF2L 6v6 Division 4 Participation Medal Season 16"                   "1"
     "ETF2L 6v6 Division 5 Participation Medal Season 16"                   "1"
     "ETF2L 6v6 Division 6 Participation Medal Season 16"                   "1"
+    "OWL 10 Premier Division First Place"                                  "1"
+    "OWL 10 Premier Division Second Place"                                 "1"
+    "OWL 10 Premier Division Third Place"                                  "1"
+    "OWL 10 Premier Division Participant"                                  "1"
+    "OWL 10 Division 2 First Place"                                        "1"
+    "OWL 10 Division 2 Second Place"                                       "1"
+    "OWL 10 Division 2 Third Place"                                        "1"
+    "OWL 10 Division 2 Participant"                                        "1"
+    "OWL 10 Division 3 First Place"                                        "1"
+    "OWL 10 Division 3 Second Place"                                       "1"
+    "OWL 10 Division 3 Third Place"                                        "1"
+    "OWL 10 Division 3 Participant"                                        "1"
+    "OWL 10 Division 4 First Place"                                        "1"
+    "OWL 10 Division 4 Second Place"                                       "1"
+    "OWL 10 Division 4 Third Place"                                        "1"
+    "OWL 10 Division 4 Participant"                                        "1"
+    "OWL 10 Division 5 First Place"                                        "1"
+    "OWL 10 Division 5 Second Place"                                       "1"
+    "OWL 10 Division 5 Third Place"                                        "1"
+    "OWL 10 Division 5 Participant"                                        "1"
+    "OWL 10 Division 6 First Place"                                        "1"
+    "OWL 10 Division 6 Second Place"                                       "1"
+    "OWL 10 Division 6 Third Place"                                        "1"
+    "OWL 10 Division 6 Participant"                                        "1"
+    "AU Highlander Community League First Place Season 1"                  "1"
+    "AU Highlander Community League Second Place Season 1"                 "1"
+    "AU Highlander Community League Third Place Season 1"                  "1"
+    "AU Highlander Community League Participant Season 1"                  "1"
+    "Heart of Gold"                                                        "1"
+    "Glitched Circuit Board"                                               "1"
     "The Electric Badge-aloo"                                              "1"
     "The Megapixel Beard"                                                  "1"
     "The HDMI Patch"                                                       "1"
@@ -1598,20 +1629,19 @@
     "Gift - 1 SummerKey 2013"                                              "1"
     "Battery Canteens"                                                     "1"
 
-    // Noise Maker: (Total: 14)
-    "Halloween Noise Maker - Black Cat"                                    "1"
-    "Halloween Noise Maker - Gremlin"                                      "1"
-    "Halloween Noise Maker - Werewolf"                                     "1"
-    "Halloween Noise Maker - Witch"                                        "1"
-    "Halloween Noise Maker - Banshee"                                      "1"
-    "Halloween Noise Maker - Crazy Laugh"                                  "1"
-    "Halloween Noise Maker - Stabby"                                       "1"
-    "Charity Noise Maker - Bell"                                           "1"
-    "Charity Noise Maker - Tingsha"                                        "1"
-    "Promotional Noise Maker - Koto"                                       "1"
-    "Promotional Noise Maker - Fireworks"                                  "1"
-    "Noise Maker - TF Birthday"                                            "1"
-    "Noise Maker - Vuvuzela"                                               "1"
-    "Noise Maker - Winter 2011"                                            "1"
+    // Noise Maker: (Total: 13)
+    "Halloween Noise Maker - Black Cat"                                    "0"
+    "Halloween Noise Maker - Gremlin"                                      "0"
+    "Halloween Noise Maker - Werewolf"                                     "0"
+    "Halloween Noise Maker - Witch"                                        "0"
+    "Halloween Noise Maker - Banshee"                                      "0"
+    "Halloween Noise Maker - Crazy Laugh"                                  "0"
+    "Halloween Noise Maker - Stabby"                                       "0"
+    "Charity Noise Maker - Bell"                                           "0"
+    "Charity Noise Maker - Tingsha"                                        "0"
+    "Promotional Noise Maker - Koto"                                       "0"
+    "Promotional Noise Maker - Fireworks"                                  "0"
+    "Noise Maker - TF Birthday"                                            "0"
+    "Noise Maker - Vuvuzela"                                               "0"
 
 }
