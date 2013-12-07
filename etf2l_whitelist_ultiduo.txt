@@ -349,7 +349,7 @@
     "The Burning Bongos"                                                   "0"
     "Pet Reindoonicorn"                                                    "0"
 
-    // Allowed Hats: (Total: 447)
+    // Allowed Hats: (Total: 455)
     "Demoman's Fro"                                                        "1"
     "Mining Light"                                                         "1"
     "Football Helmet"                                                      "1"
@@ -660,6 +660,14 @@
     "The Public Accessor"                                                  "1"
     "The Weather Master"                                                   "1"
     "The Bacteria Blocker"                                                 "1"
+    "MvM GateBot Light Scout"                                              "1"
+    "MvM GateBot Light Pyro"                                               "1"
+    "MvM GateBot Light Medic"                                              "1"
+    "MvM GateBot Light Demoman"                                            "1"
+    "MvM GateBot Light Sniper"                                             "1"
+    "MvM GateBot Light Soldier"                                            "1"
+    "MvM GateBot Light Spy"                                                "1"
+    "MvM GateBot Light Engineer"                                           "1"
     "The Grandmaster"                                                      "1"
     "World Traveler"                                                       "1"
     "Modest Metal Pile of Scrap"                                           "1"
@@ -798,7 +806,7 @@
     "The Raven's Visage"                                                   "1"
     "The Haunted Hat"                                                      "1"
 
-    // Misc Items: (Total: 789)
+    // Misc Items: (Total: 781)
     "Camera Beard"                                                         "1"
     "Web Easteregg Medal"                                                  "1"
     "CheatDetectedMinor"                                                   "1"
@@ -1047,15 +1055,7 @@
     "The Dapper Disguise"                                                  "1"
     "The Long Fall Loafers"                                                "1"
     "The Breather Bag"                                                     "1"
-    "MvM GateBot Light Scout"                                              "1"
-    "MvM GateBot Light Pyro"                                               "1"
-    "MvM GateBot Light Medic"                                              "1"
     "MvM GateBot Light Heavy"                                              "1"
-    "MvM GateBot Light Demoman"                                            "1"
-    "MvM GateBot Light Sniper"                                             "1"
-    "MvM GateBot Light Soldier"                                            "1"
-    "MvM GateBot Light Spy"                                                "1"
-    "MvM GateBot Light Engineer"                                           "1"
     "Tour of Duty Badge Advanced 3"                                        "1"
     "Something Special For Someone Special (Wearable)"                     "1"
     "Damaged Capacitor"                                                    "1"
