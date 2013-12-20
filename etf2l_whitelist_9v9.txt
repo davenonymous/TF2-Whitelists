@@ -12,6 +12,8 @@
 // Blocked weapons for Support classes:
 //  - Darwin's Danger Shield
 //  - The Enforcer
+//  - The Diamondback
+//  - The Short Circuit
 //  - The Pomson 6000
 //  - The Phlogistinator
 //  - The Cleaner's Carbine
@@ -28,7 +30,7 @@
 {
     "unlisted_items_default_to"                                            "0"
 
-    // Allowed Weapons: (Total: 115)
+    // Allowed Weapons: (Total: 113)
     "The Kritzkrieg"                                                       "1"
     "The Blutsauger"                                                       "1"
     "The Ubersaw"                                                          "1"
@@ -119,10 +121,8 @@
     "The Winger"                                                           "1"
     "The Atomizer"                                                         "1"
     "The Big Earner"                                                       "1"
-    "The Diamondback"                                                      "1"
     "The Machina"                                                          "1"
     "The Widowmaker"                                                       "1"
-    "The Short Circuit"                                                    "1"
     "The Eureka Effect"                                                    "1"
     "The Third Degree"                                                     "1"
     "The Manmelter"                                                        "1"
@@ -329,10 +329,12 @@
     "Festive Grenade Launcher"                                             "1"
     "The Ham Shank"                                                        "1"
 
-    // Blocked Weapons: (Total: 14)
+    // Blocked Weapons: (Total: 16)
     "The Vita-Saw"                                                         "0"
     "Darwin's Danger Shield"                                               "0"
     "The Enforcer"                                                         "0"
+    "The Diamondback"                                                      "0"
+    "The Short Circuit"                                                    "0"
     "The Pomson 6000"                                                      "0"
     "The Phlogistinator"                                                   "0"
     "The Holiday Punch"                                                    "0"
@@ -358,7 +360,7 @@
     "The Burning Bongos"                                                   "0"
     "Pet Reindoonicorn"                                                    "0"
 
-    // Allowed Hats: (Total: 455)
+    // Allowed Hats: (Total: 458)
     "Demoman's Fro"                                                        "1"
     "Mining Light"                                                         "1"
     "Football Helmet"                                                      "1"
@@ -678,6 +680,9 @@
     "MvM GateBot Light Spy"                                                "1"
     "MvM GateBot Light Engineer"                                           "1"
     "The Grandmaster"                                                      "1"
+    "The War on Smissmas Battle Hood"                                      "1"
+    "The Smissmass Caribou"                                                "1"
+    "Randolph the Blood-Nosed Caribou"                                     "1"
     "World Traveler"                                                       "1"
     "Modest Metal Pile of Scrap"                                           "1"
     "Letch's LED"                                                          "1"
@@ -815,7 +820,7 @@
     "The Raven's Visage"                                                   "1"
     "The Haunted Hat"                                                      "1"
 
-    // Misc Items: (Total: 781)
+    // Misc Items: (Total: 784)
     "Camera Beard"                                                         "1"
     "Web Easteregg Medal"                                                  "1"
     "CheatDetectedMinor"                                                   "1"
@@ -1066,6 +1071,9 @@
     "The Breather Bag"                                                     "1"
     "MvM GateBot Light Heavy"                                              "1"
     "Tour of Duty Badge Advanced 3"                                        "1"
+    "The Portable Smissmas Spirit Dispenser"                               "1"
+    "The War on Smissmas Battle Socks"                                     "1"
+    "The Sack Fulla Smissmas"                                              "1"
     "Something Special For Someone Special (Wearable)"                     "1"
     "Damaged Capacitor"                                                    "1"
     "Voodoo-Cursed Soul (Armory)"                                          "1"

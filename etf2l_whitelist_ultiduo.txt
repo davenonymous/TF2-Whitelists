@@ -349,7 +349,7 @@
     "The Burning Bongos"                                                   "0"
     "Pet Reindoonicorn"                                                    "0"
 
-    // Allowed Hats: (Total: 455)
+    // Allowed Hats: (Total: 458)
     "Demoman's Fro"                                                        "1"
     "Mining Light"                                                         "1"
     "Football Helmet"                                                      "1"
@@ -669,6 +669,9 @@
     "MvM GateBot Light Spy"                                                "1"
     "MvM GateBot Light Engineer"                                           "1"
     "The Grandmaster"                                                      "1"
+    "The War on Smissmas Battle Hood"                                      "1"
+    "The Smissmass Caribou"                                                "1"
+    "Randolph the Blood-Nosed Caribou"                                     "1"
     "World Traveler"                                                       "1"
     "Modest Metal Pile of Scrap"                                           "1"
     "Letch's LED"                                                          "1"
@@ -806,7 +809,7 @@
     "The Raven's Visage"                                                   "1"
     "The Haunted Hat"                                                      "1"
 
-    // Misc Items: (Total: 781)
+    // Misc Items: (Total: 784)
     "Camera Beard"                                                         "1"
     "Web Easteregg Medal"                                                  "1"
     "CheatDetectedMinor"                                                   "1"
@@ -1057,6 +1060,9 @@
     "The Breather Bag"                                                     "1"
     "MvM GateBot Light Heavy"                                              "1"
     "Tour of Duty Badge Advanced 3"                                        "1"
+    "The Portable Smissmas Spirit Dispenser"                               "1"
+    "The War on Smissmas Battle Socks"                                     "1"
+    "The Sack Fulla Smissmas"                                              "1"
     "Something Special For Someone Special (Wearable)"                     "1"
     "Damaged Capacitor"                                                    "1"
     "Voodoo-Cursed Soul (Armory)"                                          "1"
