@@ -76,7 +76,7 @@
     "Upgradeable TF_WEAPON_BUILDER_SPY"                                    "1"
     "Upgradeable TF_WEAPON_PDA_ENGINEER_BUILD"                             "1"
 
-    // Weapon Skins: (Total: 107)
+    // Weapon Skins: (Total: 108)
     "TTG Max Pistol"                                                       "1"
     "TTG Sam Revolver"                                                     "1"
     "Golden Wrench"                                                        "1"
@@ -184,8 +184,9 @@
     "Festive Holy Mackerel"                                                "1"
     "Festive Grenade Launcher"                                             "1"
     "The Ham Shank"                                                        "1"
+    "Festive Sapper"                                                       "1"
 
-    // Blocked Weapons: (Total: 144)
+    // Blocked Weapons: (Total: 152)
     "The Kritzkrieg"                                                       "0"
     "The Blutsauger"                                                       "0"
     "The Ubersaw"                                                          "0"
@@ -330,6 +331,14 @@
     "Festive Huntsman"                                                     "0"
     "Festive Ambassador"                                                   "0"
     "Gold Frying Pan"                                                      "0"
+    "Festive Force-a-Nature"                                               "0"
+    "Festive Crusader's Crossbow"                                          "0"
+    "Festive Flare Gun"                                                    "0"
+    "Festive Eyelander"                                                    "0"
+    "Festive Jarate"                                                       "0"
+    "Festive Gloves of Running Urgently"                                   "0"
+    "Festive Black Box"                                                    "0"
+    "Festive Wrangler"                                                     "0"
 
     // Blocked Items: (Total: 11)
     "High Five Taunt"                                                      "0"
@@ -344,7 +353,7 @@
     "The Burning Bongos"                                                   "0"
     "Pet Reindoonicorn"                                                    "0"
 
-    // Allowed Hats: (Total: 458)
+    // Allowed Hats: (Total: 470)
     "Demoman's Fro"                                                        "1"
     "Mining Light"                                                         "1"
     "Football Helmet"                                                      "1"
@@ -665,7 +674,7 @@
     "MvM GateBot Light Engineer"                                           "1"
     "The Grandmaster"                                                      "1"
     "The War on Smissmas Battle Hood"                                      "1"
-    "The Smissmass Caribou"                                                "1"
+    "The Smissmas Caribou"                                                 "1"
     "Randolph the Blood-Nosed Caribou"                                     "1"
     "World Traveler"                                                       "1"
     "Modest Metal Pile of Scrap"                                           "1"
@@ -803,8 +812,20 @@
     "The Magical Mercenary"                                                "1"
     "The Raven's Visage"                                                   "1"
     "The Haunted Hat"                                                      "1"
+    "Neckwear Headwear"                                                    "1"
+    "The Nunhood"                                                          "1"
+    "The Kiss King"                                                        "1"
+    "The Slo-Poke"                                                         "1"
+    "Minnesota Slick"                                                      "1"
+    "The Toy Soldier"                                                      "1"
+    "The Mann of Reason"                                                   "1"
+    "The Scout Shako"                                                      "1"
+    "The Toy Tailor"                                                       "1"
+    "The Polar Pullover"                                                   "1"
+    "Runner's Warm-Up"                                                     "1"
+    "Tartan Tyrolean"                                                      "1"
 
-    // Misc Items: (Total: 784)
+    // Misc Items: (Total: 804)
     "Camera Beard"                                                         "1"
     "Web Easteregg Medal"                                                  "1"
     "CheatDetectedMinor"                                                   "1"
@@ -1589,8 +1610,28 @@
     "Bozo's Brogues"                                                       "1"
     "The Cryptic Keepsake"                                                 "1"
     "The Abhorrent Appendages"                                             "1"
+    "The Blizzard Breather"                                                "1"
+    "The Sub Zero Suit"                                                    "1"
+    "The Dictator"                                                         "1"
+    "The Trail-Blazer"                                                     "1"
+    "Dead of Night"                                                        "1"
+    "The Snow Scoper"                                                      "1"
+    "The Angel of Death"                                                   "1"
+    "The Five-Month Shadow"                                                "1"
+    "The Mann Of The House"                                                "1"
+    "Chucklenuts"                                                          "1"
+    "Tiny Timber"                                                          "1"
+    "Face Full of Festive"                                                 "1"
+    "The Ruffled Ruprecht"                                                 "1"
+    "The Golden Garment"                                                   "1"
+    "The Little Drummer Mann"                                              "1"
+    "The Extra Layer"                                                      "1"
+    "The Dogfighter"                                                       "1"
+    "Antarctic Parka"                                                      "1"
+    "Highland High Heels"                                                  "1"
+    "Marshall's Mutton Chops"                                              "1"
 
-    // Action Items: (Total: 29)
+    // Action Items: (Total: 30)
     "Gift - 1 Player"                                                      "1"
     "Gift - 24 Players"                                                    "1"
     "Duel MiniGame"                                                        "1"
@@ -1619,6 +1660,7 @@
     "July 2013 Claim Check"                                                "1"
     "Gift - 23 SummerKeys 2013"                                            "1"
     "Gift - 1 SummerKey 2013"                                              "1"
+    "Self Gift - Stocking Stuffer 2013"                                    "1"
     "Battery Canteens"                                                     "1"
 
     // Noise Maker: (Total: 13)
