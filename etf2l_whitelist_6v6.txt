@@ -114,7 +114,7 @@
     "Upgradeable TF_WEAPON_BUILDER_SPY"                                    "1"
     "Upgradeable TF_WEAPON_PDA_ENGINEER_BUILD"                             "1"
 
-    // Weapon Skins: (Total: 118)
+    // Weapon Skins: (Total: 116)
     "TTG Max Pistol"                                                       "1"
     "TTG Sam Revolver"                                                     "1"
     "Golden Wrench"                                                        "1"
@@ -144,8 +144,6 @@
     "Festive Knife 2011"                                                   "1"
     "Festive Scattergun 2011"                                              "1"
     "The Black Rose"                                                       "1"
-    "The Lollichop"                                                        "1"
-    "The Rainblower"                                                       "1"
     "Silver Botkiller Sniper Rifle Mk.I"                                   "1"
     "Silver Botkiller Minigun Mk.I"                                        "1"
     "Silver Botkiller Knife Mk.I"                                          "1"
@@ -234,7 +232,7 @@
     "Festive Flare Gun"                                                    "1"
     "Festive Black Box"                                                    "1"
 
-    // Blocked Weapons: (Total: 123)
+    // Blocked Weapons: (Total: 125)
     "The Backburner"                                                       "0"
     "Natascha"                                                             "0"
     "The Sandvich"                                                         "0"
@@ -329,7 +327,9 @@
     "The Spy-cicle"                                                        "0"
     "The Holiday Punch"                                                    "0"
     "The Beggar's Bazooka"                                                 "0"
+    "The Lollichop"                                                        "0"
     "The Scorch Shot"                                                      "0"
+    "The Rainblower"                                                       "0"
     "The Cleaner's Carbine"                                                "0"
     "The Hitman's Heatmaker"                                               "0"
     "Baby Face's Blaster"                                                  "0"
