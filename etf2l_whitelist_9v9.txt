@@ -1,4 +1,4 @@
-// ETF2L Highlander Season 5, Full, all allowed
+// ETF2L Highlander Season 5
 //
 // Blocked weapons for Main classes:
 //  - The Vita-Saw
@@ -12,8 +12,6 @@
 // Blocked weapons for Support classes:
 //  - Darwin's Danger Shield
 //  - The Enforcer
-//  - The Diamondback
-//  - The Short Circuit
 //  - The Pomson 6000
 //  - The Phlogistinator
 //  - The Cleaner's Carbine
@@ -30,7 +28,7 @@
 {
     "unlisted_items_default_to"                                            "0"
 
-    // Allowed Weapons: (Total: 115)
+    // Allowed Weapons: (Total: 113)
     "The Kritzkrieg"                                                       "1"
     "The Blutsauger"                                                       "1"
     "The Ubersaw"                                                          "1"
@@ -121,8 +119,10 @@
     "The Winger"                                                           "1"
     "The Atomizer"                                                         "1"
     "The Big Earner"                                                       "1"
+    "The Diamondback"                                                      "1"
     "The Machina"                                                          "1"
     "The Widowmaker"                                                       "1"
+    "The Short Circuit"                                                    "1"
     "The Eureka Effect"                                                    "1"
     "The Third Degree"                                                     "1"
     "The Manmelter"                                                        "1"
@@ -136,11 +136,7 @@
     "The Escape Plan"                                                      "1"
     "The Flying Guillotine"                                                "1"
     "The Neon Annihilator"                                                 "1"
-    "Promo Flying Guillotine"                                              "1"
-    "Promo Neon Annihilator"                                               "1"
-    "The AWPer Hand"                                                       "1"
     "The Robo-Sandvich"                                                    "1"
-    "The Freedom Staff"                                                    "1"
     "The Loose Cannon"                                                     "1"
     "The Rescue Ranger"                                                    "1"
     "The Vaccinator"                                                       "1"
@@ -207,7 +203,7 @@
     "Upgradeable TF_WEAPON_BUILDER_SPY"                                    "1"
     "Upgradeable TF_WEAPON_PDA_ENGINEER_BUILD"                             "1"
 
-    // Weapon Skins: (Total: 129)
+    // Weapon Skins: (Total: 133)
     "TTG Max Pistol"                                                       "1"
     "TTG Sam Revolver"                                                     "1"
     "Golden Wrench"                                                        "1"
@@ -262,6 +258,10 @@
     "Gold Botkiller Flame Thrower Mk.I"                                    "1"
     "Gold Botkiller Scattergun Mk.I"                                       "1"
     "Gold Botkiller Rocket Launcher Mk.I"                                  "1"
+    "Promo Flying Guillotine"                                              "1"
+    "Promo Neon Annihilator"                                               "1"
+    "The AWPer Hand"                                                       "1"
+    "The Freedom Staff"                                                    "1"
     "Rust Botkiller Sniper Rifle Mk.I"                                     "1"
     "Rust Botkiller Minigun Mk.I"                                          "1"
     "Rust Botkiller Knife Mk.I"                                            "1"
@@ -338,12 +338,10 @@
     "Festive Black Box"                                                    "1"
     "Festive Wrangler"                                                     "1"
 
-    // Blocked Weapons: (Total: 16)
+    // Blocked Weapons: (Total: 14)
     "The Vita-Saw"                                                         "0"
     "Darwin's Danger Shield"                                               "0"
     "The Enforcer"                                                         "0"
-    "The Diamondback"                                                      "0"
-    "The Short Circuit"                                                    "0"
     "The Pomson 6000"                                                      "0"
     "The Phlogistinator"                                                   "0"
     "The Holiday Punch"                                                    "0"
