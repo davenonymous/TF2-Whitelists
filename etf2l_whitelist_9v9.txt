@@ -12,6 +12,8 @@
 // Blocked weapons for Support classes:
 //  - Darwin's Danger Shield
 //  - The Enforcer
+//  - The Diamondback
+//  - The Short Circuit
 //  - The Pomson 6000
 //  - The Phlogistinator
 //  - The Cleaner's Carbine
@@ -28,7 +30,7 @@
 {
     "unlisted_items_default_to"                                            "0"
 
-    // Allowed Weapons: (Total: 113)
+    // Allowed Weapons: (Total: 111)
     "The Kritzkrieg"                                                       "1"
     "The Blutsauger"                                                       "1"
     "The Ubersaw"                                                          "1"
@@ -119,10 +121,8 @@
     "The Winger"                                                           "1"
     "The Atomizer"                                                         "1"
     "The Big Earner"                                                       "1"
-    "The Diamondback"                                                      "1"
     "The Machina"                                                          "1"
     "The Widowmaker"                                                       "1"
-    "The Short Circuit"                                                    "1"
     "The Eureka Effect"                                                    "1"
     "The Third Degree"                                                     "1"
     "The Manmelter"                                                        "1"
@@ -338,10 +338,12 @@
     "Festive Black Box"                                                    "1"
     "Festive Wrangler"                                                     "1"
 
-    // Blocked Weapons: (Total: 14)
+    // Blocked Weapons: (Total: 16)
     "The Vita-Saw"                                                         "0"
     "Darwin's Danger Shield"                                               "0"
     "The Enforcer"                                                         "0"
+    "The Diamondback"                                                      "0"
+    "The Short Circuit"                                                    "0"
     "The Pomson 6000"                                                      "0"
     "The Phlogistinator"                                                   "0"
     "The Holiday Punch"                                                    "0"
