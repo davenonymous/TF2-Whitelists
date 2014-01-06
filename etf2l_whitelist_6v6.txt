@@ -1,9 +1,11 @@
-// ETF2L Season 16
+// ETF2L Season 17
 //
 // Allowed weapons for Main classes:
 //  - The Kritzkrieg
 //  - The Blutsauger
 //  - The Ubersaw
+//  - The Force-a-Nature
+//  - The Buff Banner
 //  - The Gunboats
 //  - The Pain Train
 //  - The Dalokohs Bar
@@ -11,9 +13,12 @@
 //  - The Amputator
 //  - The Crusader's Crossbow
 //  - The Boston Basher
+//  - The Concheror
 //  - The Overdose
 //  - The Winger
 //  - The Escape Plan
+//  - The Loose Cannon
+//  - Gold Frying Pan
 //
 // Allowed weapons for Support classes:
 //  - The Axtinguisher
@@ -22,8 +27,10 @@
 //  - L'Etranger
 //  - The Jag
 //  - Conniver's Kunai
+//  - The Diamondback
+//  - The Widowmaker
 //
-// Weapon sets are:     banned
+// Weapon sets are:     allowed
 // Weapon skins are:    allowed
 // Action items are:    allowed
 // Noise Maker are:     banned
@@ -33,12 +40,14 @@
 {
     "unlisted_items_default_to"                                            "0"
 
-    // Allowed Weapons: (Total: 19)
+    // Allowed Weapons: (Total: 26)
     "The Kritzkrieg"                                                       "1"
     "The Blutsauger"                                                       "1"
     "The Ubersaw"                                                          "1"
     "The Axtinguisher"                                                     "1"
     "The Flare Gun"                                                        "1"
+    "The Force-a-Nature"                                                   "1"
+    "The Buff Banner"                                                      "1"
     "The Gunboats"                                                         "1"
     "The Pain Train"                                                       "1"
     "The Dalokohs Bar"                                                     "1"
@@ -49,10 +58,15 @@
     "The Crusader's Crossbow"                                              "1"
     "The Boston Basher"                                                    "1"
     "The Jag"                                                              "1"
+    "The Concheror"                                                        "1"
     "Conniver's Kunai"                                                     "1"
     "The Overdose"                                                         "1"
     "The Winger"                                                           "1"
+    "The Diamondback"                                                      "1"
+    "The Widowmaker"                                                       "1"
     "The Escape Plan"                                                      "1"
+    "The Loose Cannon"                                                     "1"
+    "Gold Frying Pan"                                                      "1"
 
     // Default Weapons: (Total: 31)
     "TF_WEAPON_BAT"                                                        "1"
@@ -114,7 +128,7 @@
     "Upgradeable TF_WEAPON_BUILDER_SPY"                                    "1"
     "Upgradeable TF_WEAPON_PDA_ENGINEER_BUILD"                             "1"
 
-    // Weapon Skins: (Total: 116)
+    // Weapon Skins: (Total: 118)
     "TTG Max Pistol"                                                       "1"
     "TTG Sam Revolver"                                                     "1"
     "Golden Wrench"                                                        "1"
@@ -224,21 +238,22 @@
     "Gold Botkiller Rocket Launcher Mk.II"                                 "1"
     "Festive Holy Mackerel"                                                "1"
     "Festive Axtinguisher"                                                 "1"
+    "Festive Buff Banner"                                                  "1"
     "Festive Ubersaw"                                                      "1"
     "Festive Grenade Launcher"                                             "1"
     "The Ham Shank"                                                        "1"
+    "Festive Force-a-Nature"                                               "1"
     "Festive Crusader's Crossbow"                                          "1"
     "Festive Sapper"                                                       "1"
     "Festive Flare Gun"                                                    "1"
     "Festive Black Box"                                                    "1"
 
-    // Blocked Weapons: (Total: 125)
+    // Blocked Weapons: (Total: 116)
     "The Backburner"                                                       "0"
     "Natascha"                                                             "0"
     "The Sandvich"                                                         "0"
     "The Killing Gloves of Boxing"                                         "0"
     "The Sandman"                                                          "0"
-    "The Force-a-Nature"                                                   "0"
     "Bonk! Atomic Punch"                                                   "0"
     "The Huntsman"                                                         "0"
     "The Razorback"                                                        "0"
@@ -248,7 +263,6 @@
     "The Ambassador"                                                       "0"
     "The Direct Hit"                                                       "0"
     "The Equalizer"                                                        "0"
-    "The Buff Banner"                                                      "0"
     "The Scottish Resistance"                                              "0"
     "The Chargin' Targe"                                                   "0"
     "The Eyelander"                                                        "0"
@@ -285,7 +299,6 @@
     "Sharpened Volcano Fragment"                                           "0"
     "Sun-on-a-Stick"                                                       "0"
     "The Detonator"                                                        "0"
-    "The Concheror"                                                        "0"
     "The Fan O'War"                                                        "0"
     "The Half-Zatoichi"                                                    "0"
     "The Shahanshah"                                                       "0"
@@ -311,9 +324,7 @@
     "The Big Earner"                                                       "0"
     "The Maul"                                                             "0"
     "Nessie's Nine Iron"                                                   "0"
-    "The Diamondback"                                                      "0"
     "The Machina"                                                          "0"
-    "The Widowmaker"                                                       "0"
     "The Short Circuit"                                                    "0"
     "The Wanga Prick"                                                      "0"
     "The Pomson 6000"                                                      "0"
@@ -344,27 +355,22 @@
     "Promo Neon Annihilator"                                               "0"
     "Deflector"                                                            "0"
     "The Robo-Sandvich"                                                    "0"
-    "The Loose Cannon"                                                     "0"
     "The Rescue Ranger"                                                    "0"
     "The Vaccinator"                                                       "0"
-    "Festive Buff Banner"                                                  "0"
     "Festive Sandvich"                                                     "0"
     "Festive Frontier Justice"                                             "0"
     "Festive Huntsman"                                                     "0"
     "Festive Ambassador"                                                   "0"
-    "Gold Frying Pan"                                                      "0"
-    "Festive Force-a-Nature"                                               "0"
     "Festive Eyelander"                                                    "0"
     "Festive Jarate"                                                       "0"
     "Festive Gloves of Running Urgently"                                   "0"
     "Festive Wrangler"                                                     "0"
 
-    // Blocked Items: (Total: 11)
+    // Blocked Items: (Total: 10)
     "High Five Taunt"                                                      "0"
     "Bombinomicon"                                                         "0"
     "The Jingle Belt"                                                      "0"
     "The Bootie Time"                                                      "0"
-    "Noise Maker - Winter 2011"                                            "0"
     "Pet Balloonicorn"                                                     "0"
     "Autogrant Pyrovision Goggles"                                         "0"
     "Pyrovision Goggles"                                                   "0"
@@ -1682,7 +1688,7 @@
     "Self Gift - Stocking Stuffer 2013"                                    "1"
     "Battery Canteens"                                                     "1"
 
-    // Noise Maker: (Total: 13)
+    // Noise Maker: (Total: 14)
     "Halloween Noise Maker - Black Cat"                                    "0"
     "Halloween Noise Maker - Gremlin"                                      "0"
     "Halloween Noise Maker - Werewolf"                                     "0"
@@ -1696,5 +1702,6 @@
     "Promotional Noise Maker - Fireworks"                                  "0"
     "Noise Maker - TF Birthday"                                            "0"
     "Noise Maker - Vuvuzela"                                               "0"
+    "Noise Maker - Winter 2011"                                            "0"
 
 }
