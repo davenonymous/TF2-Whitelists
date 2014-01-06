@@ -85,7 +85,7 @@
     "Upgradeable TF_WEAPON_BUILDER_SPY"                                    "1"
     "Upgradeable TF_WEAPON_PDA_ENGINEER_BUILD"                             "1"
 
-    // Weapon Skins: (Total: 108)
+    // Weapon Skins: (Total: 109)
     "TTG Max Pistol"                                                       "1"
     "TTG Sam Revolver"                                                     "1"
     "Golden Wrench"                                                        "1"
@@ -193,9 +193,10 @@
     "Festive Ubersaw"                                                      "1"
     "Festive Grenade Launcher"                                             "1"
     "The Ham Shank"                                                        "1"
+    "Gold Frying Pan"                                                      "1"
     "Festive Sapper"                                                       "1"
 
-    // Blocked Weapons: (Total: 148)
+    // Blocked Weapons: (Total: 147)
     "The Kritzkrieg"                                                       "0"
     "The Axtinguisher"                                                     "0"
     "The Flare Gun"                                                        "0"
@@ -335,7 +336,6 @@
     "Festive Frontier Justice"                                             "0"
     "Festive Huntsman"                                                     "0"
     "Festive Ambassador"                                                   "0"
-    "Gold Frying Pan"                                                      "0"
     "Festive Force-a-Nature"                                               "0"
     "Festive Crusader's Crossbow"                                          "0"
     "Festive Flare Gun"                                                    "0"
