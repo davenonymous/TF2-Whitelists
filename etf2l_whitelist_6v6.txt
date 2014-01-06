@@ -18,7 +18,6 @@
 //  - The Winger
 //  - The Escape Plan
 //  - The Loose Cannon
-//  - Gold Frying Pan
 //
 // Allowed weapons for Support classes:
 //  - The Axtinguisher
@@ -40,7 +39,7 @@
 {
     "unlisted_items_default_to"                                            "0"
 
-    // Allowed Weapons: (Total: 26)
+    // Allowed Weapons: (Total: 25)
     "The Kritzkrieg"                                                       "1"
     "The Blutsauger"                                                       "1"
     "The Ubersaw"                                                          "1"
@@ -66,7 +65,6 @@
     "The Widowmaker"                                                       "1"
     "The Escape Plan"                                                      "1"
     "The Loose Cannon"                                                     "1"
-    "Gold Frying Pan"                                                      "1"
 
     // Default Weapons: (Total: 31)
     "TF_WEAPON_BAT"                                                        "1"
@@ -128,7 +126,7 @@
     "Upgradeable TF_WEAPON_BUILDER_SPY"                                    "1"
     "Upgradeable TF_WEAPON_PDA_ENGINEER_BUILD"                             "1"
 
-    // Weapon Skins: (Total: 118)
+    // Weapon Skins: (Total: 119)
     "TTG Max Pistol"                                                       "1"
     "TTG Sam Revolver"                                                     "1"
     "Golden Wrench"                                                        "1"
@@ -242,6 +240,7 @@
     "Festive Ubersaw"                                                      "1"
     "Festive Grenade Launcher"                                             "1"
     "The Ham Shank"                                                        "1"
+    "Gold Frying Pan"                                                      "1"
     "Festive Force-a-Nature"                                               "1"
     "Festive Crusader's Crossbow"                                          "1"
     "Festive Sapper"                                                       "1"
