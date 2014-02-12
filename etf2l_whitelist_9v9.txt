@@ -20,7 +20,6 @@
 //  - The Cleaner's Carbine
 //  - The Red-Tape Recorder
 //  - Promo Red-Tape Recorder
-//  - The Fortified Compound
 //
 // Weapon sets are:     banned
 // Weapon skins are:    allowed
@@ -205,7 +204,7 @@
     "Upgradeable TF_WEAPON_BUILDER_SPY"                                    "1"
     "Upgradeable TF_WEAPON_PDA_ENGINEER_BUILD"                             "1"
 
-    // Weapon Skins: (Total: 132)
+    // Weapon Skins: (Total: 133)
     "TTG Max Pistol"                                                       "1"
     "TTG Sam Revolver"                                                     "1"
     "Golden Wrench"                                                        "1"
@@ -338,8 +337,9 @@
     "Festive Eyelander"                                                    "1"
     "Festive Black Box"                                                    "1"
     "Festive Wrangler"                                                     "1"
+    "The Fortified Compound"                                               "1"
 
-    // Blocked Weapons: (Total: 18)
+    // Blocked Weapons: (Total: 17)
     "The Vita-Saw"                                                         "0"
     "Darwin's Danger Shield"                                               "0"
     "The Enforcer"                                                         "0"
@@ -357,7 +357,6 @@
     "Promo Red-Tape Recorder"                                              "0"
     "Promo Huo Long Heatmaker"                                             "0"
     "Deflector"                                                            "0"
-    "The Fortified Compound"                                               "0"
 
     // Blocked Items: (Total: 11)
     "High Five Taunt"                                                      "0"
