@@ -247,7 +247,7 @@
     "Festive Flare Gun"                                                    "1"
     "Festive Black Box"                                                    "1"
 
-    // Blocked Weapons: (Total: 116)
+    // Blocked Weapons: (Total: 117)
     "The Backburner"                                                       "0"
     "Natascha"                                                             "0"
     "The Sandvich"                                                         "0"
@@ -364,6 +364,7 @@
     "Festive Jarate"                                                       "0"
     "Festive Gloves of Running Urgently"                                   "0"
     "Festive Wrangler"                                                     "0"
+    "The Fortified Compound"                                               "0"
 
     // Blocked Items: (Total: 10)
     "High Five Taunt"                                                      "0"

@@ -187,7 +187,7 @@
     "Gold Frying Pan"                                                      "1"
     "Festive Sapper"                                                       "1"
 
-    // Blocked Weapons: (Total: 151)
+    // Blocked Weapons: (Total: 152)
     "The Kritzkrieg"                                                       "0"
     "The Blutsauger"                                                       "0"
     "The Ubersaw"                                                          "0"
@@ -339,6 +339,7 @@
     "Festive Gloves of Running Urgently"                                   "0"
     "Festive Black Box"                                                    "0"
     "Festive Wrangler"                                                     "0"
+    "The Fortified Compound"                                               "0"
 
     // Blocked Items: (Total: 11)
     "High Five Taunt"                                                      "0"
