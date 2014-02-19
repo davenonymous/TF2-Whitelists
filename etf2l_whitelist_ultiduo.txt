@@ -359,7 +359,7 @@
     "The Burning Bongos"                                                   "0"
     "Pet Reindoonicorn"                                                    "0"
 
-    // Allowed Hats: (Total: 484)
+    // Allowed Hats: (Total: 486)
     "Demoman's Fro"                                                        "1"
     "Mining Light"                                                         "1"
     "Football Helmet"                                                      "1"
@@ -683,6 +683,8 @@
     "Randolph the Blood-Nosed Caribou"                                     "1"
     "The Big Daddy"                                                        "1"
     "The First American"                                                   "1"
+    "The Baronial Bouncer"                                                 "1"
+    "The Dread Hiding Hood"                                                "1"
     "World Traveler"                                                       "1"
     "Modest Metal Pile of Scrap"                                           "1"
     "Letch's LED"                                                          "1"
@@ -845,7 +847,7 @@
     "The Deep Cover Operator"                                              "1"
     "Heer's Helmet"                                                        "1"
 
-    // Misc Items: (Total: 864)
+    // Misc Items: (Total: 866)
     "Camera Beard"                                                         "1"
     "Web Easteregg Medal"                                                  "1"
     "CheatDetectedMinor"                                                   "1"
@@ -1101,6 +1103,8 @@
     "The War on Smissmas Battle Socks"                                     "1"
     "The Sack Fulla Smissmas"                                              "1"
     "Mister Bubbles"                                                       "1"
+    "The Cutthroat's Cloak"                                                "1"
+    "The Garrett Badge"                                                    "1"
     "Something Special For Someone Special (Wearable)"                     "1"
     "Damaged Capacitor"                                                    "1"
     "Voodoo-Cursed Soul (Armory)"                                          "1"
