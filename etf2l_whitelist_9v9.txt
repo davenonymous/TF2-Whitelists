@@ -1,11 +1,12 @@
-// ETF2L Highlander Season 5
+// ETF2L Highlander Season 6
 //
 // Blocked weapons for Main classes:
+//  - Crit-a-Cola
 //  - The Vita-Saw
+//  - The Reserve Shooter
 //  - The Holiday Punch
+//  - Baby Face's Blaster
 //  - Pretty Boy's Pocket Pistol
-//  - The Huo Long Heatmaker
-//  - Promo Huo Long Heatmaker
 //  - Deflector
 //
 // Blocked weapons for Support classes:
@@ -31,7 +32,7 @@
 {
     "unlisted_items_default_to"                                            "0"
 
-    // Allowed Weapons: (Total: 111)
+    // Allowed Weapons: (Total: 109)
     "The Kritzkrieg"                                                       "1"
     "The Blutsauger"                                                       "1"
     "The Ubersaw"                                                          "1"
@@ -64,7 +65,6 @@
     "The Pain Train"                                                       "1"
     "The Southern Hospitality"                                             "1"
     "The Dalokohs Bar"                                                     "1"
-    "Crit-a-Cola"                                                          "1"
     "The Tribalman's Shiv"                                                 "1"
     "The Scotsman's Skullcutter"                                           "1"
     "The Powerjack"                                                        "1"
@@ -109,7 +109,6 @@
     "The Overdose"                                                         "1"
     "The Solemn Vow"                                                       "1"
     "The Liberty Launcher"                                                 "1"
-    "The Reserve Shooter"                                                  "1"
     "The Market Gardener"                                                  "1"
     "Tomislav"                                                             "1"
     "The Family Business"                                                  "1"
@@ -133,8 +132,8 @@
     "The Beggar's Bazooka"                                                 "1"
     "The Scorch Shot"                                                      "1"
     "The Hitman's Heatmaker"                                               "1"
-    "Baby Face's Blaster"                                                  "1"
     "The Escape Plan"                                                      "1"
+    "The Huo Long Heatmaker"                                               "1"
     "The Flying Guillotine"                                                "1"
     "The Neon Annihilator"                                                 "1"
     "The Robo-Sandvich"                                                    "1"
@@ -204,7 +203,7 @@
     "Upgradeable TF_WEAPON_BUILDER_SPY"                                    "1"
     "Upgradeable TF_WEAPON_PDA_ENGINEER_BUILD"                             "1"
 
-    // Weapon Skins: (Total: 133)
+    // Weapon Skins: (Total: 134)
     "TTG Max Pistol"                                                       "1"
     "TTG Sam Revolver"                                                     "1"
     "Golden Wrench"                                                        "1"
@@ -257,6 +256,7 @@
     "Gold Botkiller Flame Thrower Mk.I"                                    "1"
     "Gold Botkiller Scattergun Mk.I"                                       "1"
     "Gold Botkiller Rocket Launcher Mk.I"                                  "1"
+    "Promo Huo Long Heatmaker"                                             "1"
     "Promo Flying Guillotine"                                              "1"
     "Promo Neon Annihilator"                                               "1"
     "The AWPer Hand"                                                       "1"
@@ -339,9 +339,11 @@
     "Festive Wrangler"                                                     "1"
     "The Fortified Compound"                                               "1"
 
-    // Blocked Weapons: (Total: 17)
+    // Blocked Weapons: (Total: 18)
+    "Crit-a-Cola"                                                          "0"
     "The Vita-Saw"                                                         "0"
     "Darwin's Danger Shield"                                               "0"
+    "The Reserve Shooter"                                                  "0"
     "The Enforcer"                                                         "0"
     "The Diamondback"                                                      "0"
     "The Short Circuit"                                                    "0"
@@ -351,11 +353,10 @@
     "The Lollichop"                                                        "0"
     "The Rainblower"                                                       "0"
     "The Cleaner's Carbine"                                                "0"
+    "Baby Face's Blaster"                                                  "0"
     "Pretty Boy's Pocket Pistol"                                           "0"
     "The Red-Tape Recorder"                                                "0"
-    "The Huo Long Heatmaker"                                               "0"
     "Promo Red-Tape Recorder"                                              "0"
-    "Promo Huo Long Heatmaker"                                             "0"
     "Deflector"                                                            "0"
 
     // Blocked Items: (Total: 11)
@@ -695,7 +696,7 @@
     "Randolph the Blood-Nosed Caribou"                                     "1"
     "The Big Daddy"                                                        "1"
     "The First American"                                                   "1"
-    "The Baronial Bouncer"                                                 "1"
+    "The Gilded Guard"                                                     "1"
     "The Dread Hiding Hood"                                                "1"
     "World Traveler"                                                       "1"
     "Modest Metal Pile of Scrap"                                           "1"
@@ -1115,8 +1116,8 @@
     "The War on Smissmas Battle Socks"                                     "1"
     "The Sack Fulla Smissmas"                                              "1"
     "Mister Bubbles"                                                       "1"
-    "The Cutthroat's Cloak"                                                "1"
-    "The Garrett Badge"                                                    "1"
+    "The Criminal Cloak"                                                   "1"
+    "The Baronial Badge"                                                   "1"
     "Something Special For Someone Special (Wearable)"                     "1"
     "Damaged Capacitor"                                                    "1"
     "Voodoo-Cursed Soul (Armory)"                                          "1"
