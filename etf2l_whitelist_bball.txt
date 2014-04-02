@@ -842,7 +842,7 @@
     "The Deep Cover Operator"                                              "1"
     "Heer's Helmet"                                                        "1"
 
-    // Misc Items: (Total: 866)
+    // Misc Items: (Total: 868)
     "Camera Beard"                                                         "1"
     "Web Easteregg Medal"                                                  "1"
     "CheatDetectedMinor"                                                   "1"
@@ -1100,6 +1100,7 @@
     "Mister Bubbles"                                                       "1"
     "The Criminal Cloak"                                                   "1"
     "The Baronial Badge"                                                   "1"
+    "The Little Bear"                                                      "1"
     "Something Special For Someone Special (Wearable)"                     "1"
     "Damaged Capacitor"                                                    "1"
     "Voodoo-Cursed Soul (Armory)"                                          "1"
@@ -1508,6 +1509,7 @@
     "UGC 6vs6 Steel Participant Season 13"                                 "1"
     "UGC 6vs6 Iron Participant Season 13"                                  "1"
     "Tumblr Vs Reddit Participant Season 1"                                "1"
+    "InfoShow LAN Party 2014 Participant"                                  "1"
     "Glitched Circuit Board"                                               "1"
     "The Electric Badge-aloo"                                              "1"
     "The Megapixel Beard"                                                  "1"
