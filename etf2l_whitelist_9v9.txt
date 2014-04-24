@@ -372,7 +372,7 @@
     "The Burning Bongos"                                                   "0"
     "Pet Reindoonicorn"                                                    "0"
 
-    // Allowed Hats: (Total: 486)
+    // Allowed Hats: (Total: 487)
     "Demoman's Fro"                                                        "1"
     "Mining Light"                                                         "1"
     "Football Helmet"                                                      "1"
@@ -694,6 +694,7 @@
     "The War on Smissmas Battle Hood"                                      "1"
     "The Smissmas Caribou"                                                 "1"
     "Randolph the Blood-Nosed Caribou"                                     "1"
+    "Der Maschinensoldaten-Helm"                                           "1"
     "The Big Daddy"                                                        "1"
     "The First American"                                                   "1"
     "The Gilded Guard"                                                     "1"
@@ -860,7 +861,7 @@
     "The Deep Cover Operator"                                              "1"
     "Heer's Helmet"                                                        "1"
 
-    // Misc Items: (Total: 900)
+    // Misc Items: (Total: 901)
     "Camera Beard"                                                         "1"
     "Web Easteregg Medal"                                                  "1"
     "CheatDetectedMinor"                                                   "1"
@@ -1115,6 +1116,7 @@
     "The Portable Smissmas Spirit Dispenser"                               "1"
     "The War on Smissmas Battle Socks"                                     "1"
     "The Sack Fulla Smissmas"                                              "1"
+    "Die Regime-Panzerung"                                                 "1"
     "Mister Bubbles"                                                       "1"
     "The Criminal Cloak"                                                   "1"
     "The Baronial Badge"                                                   "1"
@@ -1762,7 +1764,7 @@
     "The Antarctic Researcher"                                             "1"
     "The Gaiter Guards"                                                    "1"
 
-    // Action Items: (Total: 30)
+    // Action Items: (Total: 29)
     "Gift - 1 Player"                                                      "1"
     "Gift - 24 Players"                                                    "1"
     "Duel MiniGame"                                                        "1"
@@ -1770,7 +1772,6 @@
     "Laugh Taunt"                                                          "1"
     "Meet the Medic Heroic Taunt"                                          "1"
     "Power Up Canteen (MvM)"                                               "1"
-    "Valve Store Shipment Box"                                             "1"
     "Halloween Giveaway Package 2011 (Cauldron)"                           "1"
     "Manniversary Giveaway Package"                                        "1"
     "Store Purchase Promotion Package"                                     "1"
