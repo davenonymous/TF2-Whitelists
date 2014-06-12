@@ -1815,10 +1815,11 @@
     "The Antarctic Researcher"                                             "1"
     "The Gaiter Guards"                                                    "1"
 
-    // Action Items: (Total: 28)
+    // Action Items: (Total: 29)
     "Gift - 1 Player"                                                      "1"
     "Gift - 24 Players"                                                    "1"
     "Duel MiniGame"                                                        "1"
+    "Replay Taunt"                                                         "1"
     "Laugh Taunt"                                                          "1"
     "Meet the Medic Heroic Taunt"                                          "1"
     "Power Up Canteen (MvM)"                                               "1"
