@@ -160,7 +160,7 @@
     "Upgradeable TF_WEAPON_BUILDER_SPY"                                    "1"
     "Upgradeable TF_WEAPON_PDA_ENGINEER_BUILD"                             "1"
 
-    // Weapon Skins: (Total: 124)
+    // Weapon Skins: (Total: 125)
     "TTG Max Pistol"                                                       "1"
     "TTG Sam Revolver"                                                     "1"
     "Golden Wrench"                                                        "1"
@@ -285,8 +285,9 @@
     "Festive Sapper"                                                       "1"
     "Festive Flare Gun"                                                    "1"
     "Festive Black Box"                                                    "1"
+    "The Snack Attack"                                                     "1"
 
-    // Blocked Weapons: (Total: 104)
+    // Blocked Weapons: (Total: 103)
     "The Backburner"                                                       "0"
     "Natascha"                                                             "0"
     "The Sandvich"                                                         "0"
@@ -386,7 +387,6 @@
     "The Tide Turner"                                                      "0"
     "The Bread Bite"                                                       "0"
     "The B.A.S.E. Jumper"                                                  "0"
-    "The Snack Attack"                                                     "0"
     "The Back Scatter"                                                     "0"
     "The Air Strike"                                                       "0"
     "The Self-Aware Beauty Mark"                                           "0"

@@ -9,11 +9,9 @@
 //  - Pretty Boy's Pocket Pistol
 //  - Deflector
 //  - The Tide Turner
-//  - The Bread Bite
 //  - The B.A.S.E. Jumper
 //  - The Back Scatter
 //  - The Air Strike
-//  - Mutated Milk
 //
 // Blocked weapons for Support classes:
 //  - Darwin's Danger Shield
@@ -28,8 +26,6 @@
 //  - The Red-Tape Recorder
 //  - Promo Red-Tape Recorder
 //  - The Classic
-//  - The Snack Attack
-//  - The Self-Aware Beauty Mark
 //
 // Weapon sets are:     banned
 // Weapon skins are:    allowed
@@ -212,7 +208,7 @@
     "Upgradeable TF_WEAPON_BUILDER_SPY"                                    "1"
     "Upgradeable TF_WEAPON_PDA_ENGINEER_BUILD"                             "1"
 
-    // Weapon Skins: (Total: 134)
+    // Weapon Skins: (Total: 138)
     "TTG Max Pistol"                                                       "1"
     "TTG Sam Revolver"                                                     "1"
     "Golden Wrench"                                                        "1"
@@ -347,8 +343,12 @@
     "Festive Black Box"                                                    "1"
     "Festive Wrangler"                                                     "1"
     "The Fortified Compound"                                               "1"
+    "The Bread Bite"                                                       "1"
+    "The Snack Attack"                                                     "1"
+    "The Self-Aware Beauty Mark"                                           "1"
+    "Mutated Milk"                                                         "1"
 
-    // Blocked Weapons: (Total: 27)
+    // Blocked Weapons: (Total: 23)
     "Crit-a-Cola"                                                          "0"
     "The Vita-Saw"                                                         "0"
     "Darwin's Danger Shield"                                               "0"
@@ -369,13 +369,9 @@
     "Deflector"                                                            "0"
     "The Classic"                                                          "0"
     "The Tide Turner"                                                      "0"
-    "The Bread Bite"                                                       "0"
     "The B.A.S.E. Jumper"                                                  "0"
-    "The Snack Attack"                                                     "0"
     "The Back Scatter"                                                     "0"
     "The Air Strike"                                                       "0"
-    "The Self-Aware Beauty Mark"                                           "0"
-    "Mutated Milk"                                                         "0"
 
     // Blocked Items: (Total: 11)
     "High Five Taunt"                                                      "0"
