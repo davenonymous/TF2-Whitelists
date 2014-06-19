@@ -8,6 +8,12 @@
 //  - Baby Face's Blaster
 //  - Pretty Boy's Pocket Pistol
 //  - Deflector
+//  - The Tide Turner
+//  - The Bread Bite
+//  - The B.A.S.E. Jumper
+//  - The Back Scatter
+//  - The Air Strike
+//  - Mutated Milk
 //
 // Blocked weapons for Support classes:
 //  - Darwin's Danger Shield
@@ -21,6 +27,9 @@
 //  - The Cleaner's Carbine
 //  - The Red-Tape Recorder
 //  - Promo Red-Tape Recorder
+//  - The Classic
+//  - The Snack Attack
+//  - The Self-Aware Beauty Mark
 //
 // Weapon sets are:     banned
 // Weapon skins are:    allowed
@@ -339,7 +348,7 @@
     "Festive Wrangler"                                                     "1"
     "The Fortified Compound"                                               "1"
 
-    // Blocked Weapons: (Total: 18)
+    // Blocked Weapons: (Total: 27)
     "Crit-a-Cola"                                                          "0"
     "The Vita-Saw"                                                         "0"
     "Darwin's Danger Shield"                                               "0"
@@ -358,6 +367,15 @@
     "The Red-Tape Recorder"                                                "0"
     "Promo Red-Tape Recorder"                                              "0"
     "Deflector"                                                            "0"
+    "The Classic"                                                          "0"
+    "The Tide Turner"                                                      "0"
+    "The Bread Bite"                                                       "0"
+    "The B.A.S.E. Jumper"                                                  "0"
+    "The Snack Attack"                                                     "0"
+    "The Back Scatter"                                                     "0"
+    "The Air Strike"                                                       "0"
+    "The Self-Aware Beauty Mark"                                           "0"
+    "Mutated Milk"                                                         "0"
 
     // Blocked Items: (Total: 11)
     "High Five Taunt"                                                      "0"
@@ -372,7 +390,7 @@
     "The Burning Bongos"                                                   "0"
     "Pet Reindoonicorn"                                                    "0"
 
-    // Allowed Hats: (Total: 487)
+    // Allowed Hats: (Total: 502)
     "Demoman's Fro"                                                        "1"
     "Mining Light"                                                         "1"
     "Football Helmet"                                                      "1"
@@ -699,6 +717,7 @@
     "The First American"                                                   "1"
     "The Gilded Guard"                                                     "1"
     "The Dread Hiding Hood"                                                "1"
+    "Towering Pillar of Summer Shades"                                     "1"
     "World Traveler"                                                       "1"
     "Modest Metal Pile of Scrap"                                           "1"
     "Letch's LED"                                                          "1"
@@ -860,8 +879,22 @@
     "The Sammy Cap"                                                        "1"
     "The Deep Cover Operator"                                              "1"
     "Heer's Helmet"                                                        "1"
+    "The Spook Specs"                                                      "1"
+    "The Razor Cut"                                                        "1"
+    "The Smoking Skid Lid"                                                 "1"
+    "The Aviator Assassin"                                                 "1"
+    "The Peacenik's Ponytail"                                              "1"
+    "The Merc's Mohawk"                                                    "1"
+    "Employee of the Mmmph"                                                "1"
+    "The Combustible Kabuto"                                               "1"
+    "The Danger"                                                           "1"
+    "The Frontier Djustice"                                                "1"
+    "Vive La France"                                                       "1"
+    "Tipped Lid"                                                           "1"
+    "The Pomade Prince"                                                    "1"
+    "The Allbrero"                                                         "1"
 
-    // Misc Items: (Total: 929)
+    // Misc Items: (Total: 979)
     "Camera Beard"                                                         "1"
     "Web Easteregg Medal"                                                  "1"
     "CheatDetectedMinor"                                                   "1"
@@ -1590,6 +1623,26 @@
     "Asiafortress Cup Division 3 2nd Place Season 7"                       "1"
     "Asiafortress Cup Division 3 3rd Place Season 7"                       "1"
     "Asiafortress Cup Division 3 Participant Season 7"                     "1"
+    "OWL 11 Premier Division First Place"                                  "1"
+    "OWL 11 Premier Division Second Place"                                 "1"
+    "OWL 11 Premier Division Third Place"                                  "1"
+    "OWL 11 Premier Division Participant"                                  "1"
+    "OWL 11 Division 2 First Place"                                        "1"
+    "OWL 11 Division 2 Second Place"                                       "1"
+    "OWL 11 Division 2 Third Place"                                        "1"
+    "OWL 11 Division 2 Participant"                                        "1"
+    "OWL 11 Division 3 First Place"                                        "1"
+    "OWL 11 Division 3 Second Place"                                       "1"
+    "OWL 11 Division 3 Third Place"                                        "1"
+    "OWL 11 Division 3 Participant"                                        "1"
+    "OWL 11 Division 4 First Place"                                        "1"
+    "OWL 11 Division 4 Second Place"                                       "1"
+    "OWL 11 Division 4 Third Place"                                        "1"
+    "OWL 11 Division 4 Participant"                                        "1"
+    "OWL 11 Division 5 First Place"                                        "1"
+    "OWL 11 Division 5 Second Place"                                       "1"
+    "OWL 11 Division 5 Third Place"                                        "1"
+    "OWL 11 Division 5 Participant"                                        "1"
     "Glitched Circuit Board"                                               "1"
     "The Electric Badge-aloo"                                              "1"
     "The Megapixel Beard"                                                  "1"
@@ -1791,14 +1844,41 @@
     "The Ticket Boy"                                                       "1"
     "The Antarctic Researcher"                                             "1"
     "The Gaiter Guards"                                                    "1"
+    "The Classified Coif"                                                  "1"
+    "The Rogue's Robe"                                                     "1"
+    "The Senguko Scorcher"                                                 "1"
+    "The Man in Slacks"                                                    "1"
+    "The Frickin' Sweet Ninja Hood"                                        "1"
+    "The Southie Shinobi"                                                  "1"
+    "The Red Socks"                                                        "1"
+    "The Bruiser's Bandanna"                                               "1"
+    "The Gas Guzzler"                                                      "1"
+    "The Lunatic's Leathers"                                               "1"
+    "Yuri's Revenge"                                                       "1"
+    "The Tools of the Trade"                                               "1"
+    "The Joe-on-the-Go"                                                    "1"
+    "The Sky Captain"                                                      "1"
+    "The Level Three Chin"                                                 "1"
+    "The Egghead's Overalls"                                               "1"
+    "The Lonesome Loafers"                                                 "1"
+    "Ze Ubermensch"                                                        "1"
+    "The Au Courant Assassin"                                              "1"
+    "The Endothermic Exowear"                                              "1"
+    "The Eye-Catcher"                                                      "1"
+    "The Medicine Manpurse"                                                "1"
+    "The Frymaster"                                                        "1"
+    "The Chronoscarf"                                                      "1"
+    "The Scoper's Smoke"                                                   "1"
+    "The Triggerman's Tacticals"                                           "1"
+    "The Paisley Pro"                                                      "1"
+    "The Argyle Ace"                                                       "1"
+    "Seeing Double"                                                        "1"
+    "Six Pack Abs"                                                         "1"
 
-    // Action Items: (Total: 29)
+    // Action Items: (Total: 28)
     "Gift - 1 Player"                                                      "1"
     "Gift - 24 Players"                                                    "1"
     "Duel MiniGame"                                                        "1"
-    "Replay Taunt"                                                         "1"
-    "Laugh Taunt"                                                          "1"
-    "Meet the Medic Heroic Taunt"                                          "1"
     "Power Up Canteen (MvM)"                                               "1"
     "Halloween Giveaway Package 2011 (Cauldron)"                           "1"
     "Manniversary Giveaway Package"                                        "1"
@@ -1807,11 +1887,12 @@
     "Companion Square Promo Package"                                       "1"
     "Steam Translation Package"                                            "1"
     "Portal 2 Soundtrack Promo Package"                                    "1"
-    "The Shred Alert"                                                      "1"
     "Random Droppable Paints Package"                                      "1"
     "Pallet of Crates"                                                     "1"
     "Halloween Spellbook"                                                  "1"
     "Basic Spellbook"                                                      "1"
+    "Summer Starter Kit"                                                   "1"
+    "Summer Adventure Pack"                                                "1"
     "Secret Diary"                                                         "1"
     "Pile Of Ash"                                                          "1"
     "Pile Of Curses"                                                       "1"
@@ -1821,6 +1902,7 @@
     "Gift - 23 SummerKeys 2013"                                            "1"
     "Gift - 1 SummerKey 2013"                                              "1"
     "Self Gift - Stocking Stuffer 2013"                                    "1"
+    "Self Gift - Mutated Bread Box"                                        "1"
     "Battery Canteens"                                                     "1"
 
     // Noise Maker: (Total: 13)
