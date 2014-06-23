@@ -392,7 +392,7 @@
     "The Self-Aware Beauty Mark"                                           "0"
     "Mutated Milk"                                                         "0"
 
-    // Blocked Items: (Total: 10)
+    // Blocked Items: (Total: 11)
     "High Five Taunt"                                                      "0"
     "Bombinomicon"                                                         "0"
     "The Jingle Belt"                                                      "0"
@@ -403,6 +403,7 @@
     "The Infernal Orchestrina"                                             "0"
     "The Burning Bongos"                                                   "0"
     "Pet Reindoonicorn"                                                    "0"
+    "Conga Taunt"                                                          "0"
 
     // Allowed Hats: (Total: 502)
     "Demoman's Fro"                                                        "1"
@@ -1889,7 +1890,7 @@
     "Seeing Double"                                                        "1"
     "Six Pack Abs"                                                         "1"
 
-    // Action Items: (Total: 47)
+    // Action Items: (Total: 46)
     "Gift - 1 Player"                                                      "1"
     "Gift - 24 Players"                                                    "1"
     "Duel MiniGame"                                                        "1"
@@ -1921,7 +1922,6 @@
     "Rancho Relaxo Taunt"                                                  "1"
     "I See You Taunt"                                                      "1"
     "Battin' a Thousand Taunt"                                             "1"
-    "Conga Taunt"                                                          "1"
     "Deep Fried Desire Taunt"                                              "1"
     "Oblooterated Taunt"                                                   "1"
     "Summer Starter Kit"                                                   "1"

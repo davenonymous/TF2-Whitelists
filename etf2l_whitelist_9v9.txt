@@ -8,10 +8,7 @@
 //  - Baby Face's Blaster
 //  - Pretty Boy's Pocket Pistol
 //  - Deflector
-//  - The Tide Turner
-//  - The B.A.S.E. Jumper
 //  - The Back Scatter
-//  - The Air Strike
 //
 // Blocked weapons for Support classes:
 //  - Darwin's Danger Shield
@@ -25,7 +22,6 @@
 //  - The Cleaner's Carbine
 //  - The Red-Tape Recorder
 //  - Promo Red-Tape Recorder
-//  - The Classic
 //
 // Weapon sets are:     banned
 // Weapon skins are:    allowed
@@ -37,7 +33,7 @@
 {
     "unlisted_items_default_to"                                            "0"
 
-    // Allowed Weapons: (Total: 109)
+    // Allowed Weapons: (Total: 113)
     "The Kritzkrieg"                                                       "1"
     "The Blutsauger"                                                       "1"
     "The Ubersaw"                                                          "1"
@@ -147,6 +143,10 @@
     "The Vaccinator"                                                       "1"
     "Festive Jarate"                                                       "1"
     "Festive Gloves of Running Urgently"                                   "1"
+    "The Classic"                                                          "1"
+    "The Tide Turner"                                                      "1"
+    "The B.A.S.E. Jumper"                                                  "1"
+    "The Air Strike"                                                       "1"
 
     // Default Weapons: (Total: 31)
     "TF_WEAPON_BAT"                                                        "1"
@@ -348,7 +348,7 @@
     "The Self-Aware Beauty Mark"                                           "1"
     "Mutated Milk"                                                         "1"
 
-    // Blocked Weapons: (Total: 23)
+    // Blocked Weapons: (Total: 19)
     "Crit-a-Cola"                                                          "0"
     "The Vita-Saw"                                                         "0"
     "Darwin's Danger Shield"                                               "0"
@@ -367,13 +367,9 @@
     "The Red-Tape Recorder"                                                "0"
     "Promo Red-Tape Recorder"                                              "0"
     "Deflector"                                                            "0"
-    "The Classic"                                                          "0"
-    "The Tide Turner"                                                      "0"
-    "The B.A.S.E. Jumper"                                                  "0"
     "The Back Scatter"                                                     "0"
-    "The Air Strike"                                                       "0"
 
-    // Blocked Items: (Total: 11)
+    // Blocked Items: (Total: 12)
     "High Five Taunt"                                                      "0"
     "Bombinomicon"                                                         "0"
     "The Jingle Belt"                                                      "0"
@@ -385,6 +381,7 @@
     "The Infernal Orchestrina"                                             "0"
     "The Burning Bongos"                                                   "0"
     "Pet Reindoonicorn"                                                    "0"
+    "Conga Taunt"                                                          "0"
 
     // Allowed Hats: (Total: 502)
     "Demoman's Fro"                                                        "1"
@@ -1871,7 +1868,7 @@
     "Seeing Double"                                                        "1"
     "Six Pack Abs"                                                         "1"
 
-    // Action Items: (Total: 47)
+    // Action Items: (Total: 46)
     "Gift - 1 Player"                                                      "1"
     "Gift - 24 Players"                                                    "1"
     "Duel MiniGame"                                                        "1"
@@ -1903,7 +1900,6 @@
     "Rancho Relaxo Taunt"                                                  "1"
     "I See You Taunt"                                                      "1"
     "Battin' a Thousand Taunt"                                             "1"
-    "Conga Taunt"                                                          "1"
     "Deep Fried Desire Taunt"                                              "1"
     "Oblooterated Taunt"                                                   "1"
     "Summer Starter Kit"                                                   "1"
