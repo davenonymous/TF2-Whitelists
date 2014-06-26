@@ -1838,7 +1838,7 @@
     "The Gaiter Guards"                                                    "1"
     "The Classified Coif"                                                  "1"
     "The Rogue's Robe"                                                     "1"
-    "The Senguko Scorcher"                                                 "1"
+    "The Sengoku Scorcher"                                                 "1"
     "The Man in Slacks"                                                    "1"
     "The Frickin' Sweet Ninja Hood"                                        "1"
     "The Southie Shinobi"                                                  "1"
