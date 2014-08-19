@@ -909,7 +909,7 @@
     "The Pomade Prince"                                                    "1"
     "The Allbrero"                                                         "1"
 
-    // Misc Items: (Total: 1004)
+    // Misc Items: (Total: 1005)
     "Camera Beard"                                                         "1"
     "Web Easteregg Medal"                                                  "1"
     "CheatDetectedMinor"                                                   "1"
@@ -1914,6 +1914,7 @@
     "The Argyle Ace"                                                       "1"
     "Seeing Double"                                                        "1"
     "Six Pack Abs"                                                         "1"
+    "The Spycrab"                                                          "1"
 
     // Action Items: (Total: 46)
     "Gift - 1 Player"                                                      "1"
