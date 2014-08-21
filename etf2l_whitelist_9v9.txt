@@ -382,7 +382,7 @@
     "Pet Reindoonicorn"                                                    "0"
     "Conga Taunt"                                                          "0"
 
-    // Allowed Hats: (Total: 502)
+    // Allowed Hats: (Total: 499)
     "Demoman's Fro"                                                        "1"
     "Mining Light"                                                         "1"
     "Football Helmet"                                                      "1"
@@ -498,7 +498,6 @@
     "Treasure Hat 2"                                                       "1"
     "Treasure Hat 3"                                                       "1"
     "Industrial Festivizer"                                                "1"
-    "Exquisite Rack"                                                       "1"
     "Defiant Spartan"                                                      "1"
     "A Rather Festive Tree"                                                "1"
     "Prince Tavish's Crown"                                                "1"
@@ -585,7 +584,6 @@
     "The Counterfeit Billycock"                                            "1"
     "The Outdoorsman"                                                      "1"
     "The Tavish DeGroot Experience"                                        "1"
-    "The Pencil Pusher"                                                    "1"
     "The Buccaneer's Bicorne"                                              "1"
     "The Salty Dog"                                                        "1"
     "The Little Buddy"                                                     "1"
@@ -676,7 +674,6 @@
     "Tough Stuff Muffs"                                                    "1"
     "The Barnstormer"                                                      "1"
     "The Carl"                                                             "1"
-    "Antlers"                                                              "1"
     "Mann Co. Online Cap"                                                  "1"
     "The Last Straw"                                                       "1"
     "The Wilson Weave"                                                     "1"
@@ -886,7 +883,7 @@
     "The Pomade Prince"                                                    "1"
     "The Allbrero"                                                         "1"
 
-    // Misc Items: (Total: 1005)
+    // Misc Items: (Total: 1008)
     "Camera Beard"                                                         "1"
     "Web Easteregg Medal"                                                  "1"
     "CheatDetectedMinor"                                                   "1"
@@ -911,6 +908,7 @@
     "KF Pyro Mask"                                                         "1"
     "KF Pyro Tie"                                                          "1"
     "Le Party Phantom"                                                     "1"
+    "Exquisite Rack"                                                       "1"
     "Friendly Item"                                                        "1"
     "MNC Mascot Outfit"                                                    "1"
     "Spy Oni Mask"                                                         "1"
@@ -986,6 +984,7 @@
     "The Brainiac Goggles"                                                 "1"
     "Dr. Grordbort's Copper Crest"                                         "1"
     "The Moonman Backpack"                                                 "1"
+    "The Pencil Pusher"                                                    "1"
     "The Builder's Blueprints"                                             "1"
     "A Whiff of the Old Brimstone"                                         "1"
     "The Crocodile Smile"                                                  "1"
@@ -1122,6 +1121,7 @@
     "Aqua Flops"                                                           "1"
     "The Hunger Force"                                                     "1"
     "Smissmas Wreath"                                                      "1"
+    "Antlers"                                                              "1"
     "The Prize Plushy"                                                     "1"
     "The Grizzled Growth"                                                  "1"
     "Tux"                                                                  "1"
