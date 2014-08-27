@@ -405,7 +405,7 @@
     "Pet Reindoonicorn"                                                    "0"
     "Conga Taunt"                                                          "0"
 
-    // Allowed Hats: (Total: 499)
+    // Allowed Hats: (Total: 500)
     "Demoman's Fro"                                                        "1"
     "Mining Light"                                                         "1"
     "Football Helmet"                                                      "1"
@@ -905,6 +905,7 @@
     "Tipped Lid"                                                           "1"
     "The Pomade Prince"                                                    "1"
     "The Allbrero"                                                         "1"
+    "Horace"                                                               "1"
 
     // Misc Items: (Total: 1008)
     "Camera Beard"                                                         "1"
