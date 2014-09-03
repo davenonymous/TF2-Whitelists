@@ -14,7 +14,6 @@
 //  - The Amputator
 //  - The Crusader's Crossbow
 //  - Warrior's Spirit
-//  - The Buffalo Steak Sandvich
 //  - The Boston Basher
 //  - Sun-on-a-Stick
 //  - The Concheror
@@ -66,7 +65,7 @@
 {
     "unlisted_items_default_to"                                            "0"
 
-    // Allowed Weapons: (Total: 52)
+    // Allowed Weapons: (Total: 51)
     "The Kritzkrieg"                                                       "1"
     "The Blutsauger"                                                       "1"
     "The Ubersaw"                                                          "1"
@@ -92,7 +91,6 @@
     "The Amputator"                                                        "1"
     "The Crusader's Crossbow"                                              "1"
     "Warrior's Spirit"                                                     "1"
-    "The Buffalo Steak Sandvich"                                           "1"
     "The Boston Basher"                                                    "1"
     "The Back Scratcher"                                                   "1"
     "The Jag"                                                              "1"
@@ -308,7 +306,7 @@
     "Festive Black Box"                                                    "1"
     "The Snack Attack"                                                     "1"
 
-    // Blocked Weapons: (Total: 92)
+    // Blocked Weapons: (Total: 93)
     "Natascha"                                                             "0"
     "The Sandvich"                                                         "0"
     "The Killing Gloves of Boxing"                                         "0"
@@ -340,6 +338,7 @@
     "The Horseless Headless Horseman's Headtaker"                          "0"
     "The Ullapool Caber"                                                   "0"
     "The Loch-n-Load"                                                      "0"
+    "The Buffalo Steak Sandvich"                                           "0"
     "The Brass Beast"                                                      "0"
     "The Candy Cane"                                                       "0"
     "The Claidheamohmor"                                                   "0"
