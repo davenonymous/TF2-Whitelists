@@ -21,6 +21,7 @@
 //  - The Cleaner's Carbine
 //  - The Red-Tape Recorder
 //  - Promo Red-Tape Recorder
+//  - The Nostromo Napalmer
 //
 // Weapon sets are:     banned
 // Weapon skins are:    allowed
@@ -348,7 +349,7 @@
     "The Self-Aware Beauty Mark"                                           "1"
     "Mutated Milk"                                                         "1"
 
-    // Blocked Weapons: (Total: 18)
+    // Blocked Weapons: (Total: 19)
     "Crit-a-Cola"                                                          "0"
     "The Vita-Saw"                                                         "0"
     "Darwin's Danger Shield"                                               "0"
@@ -367,6 +368,7 @@
     "The Red-Tape Recorder"                                                "0"
     "Promo Red-Tape Recorder"                                              "0"
     "Deflector"                                                            "0"
+    "The Nostromo Napalmer"                                                "0"
 
     // Blocked Items: (Total: 12)
     "High Five Taunt"                                                      "0"
@@ -382,7 +384,7 @@
     "Pet Reindoonicorn"                                                    "0"
     "Conga Taunt"                                                          "0"
 
-    // Allowed Hats: (Total: 499)
+    // Allowed Hats: (Total: 501)
     "Demoman's Fro"                                                        "1"
     "Football Helmet"                                                      "1"
     "Prussian Pickelhaube"                                                 "1"
@@ -882,8 +884,10 @@
     "The Pomade Prince"                                                    "1"
     "The Allbrero"                                                         "1"
     "Horace"                                                               "1"
+    "The Alien Cranium"                                                    "1"
+    "The MK 50"                                                            "1"
 
-    // Misc Items: (Total: 1086)
+    // Misc Items: (Total: 1088)
     "Mining Light"                                                         "1"
     "Camera Beard"                                                         "1"
     "Web Easteregg Medal"                                                  "1"
@@ -1970,6 +1974,8 @@
     "Seeing Double"                                                        "1"
     "Six Pack Abs"                                                         "1"
     "The Spycrab"                                                          "1"
+    "The Biomech Backpack"                                                 "1"
+    "The Xeno Suit"                                                        "1"
 
     // Action Items: (Total: 46)
     "Gift - 1 Player"                                                      "1"

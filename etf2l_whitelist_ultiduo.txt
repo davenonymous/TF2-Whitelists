@@ -197,7 +197,7 @@
     "Festive Sapper"                                                       "1"
     "The Snack Attack"                                                     "1"
 
-    // Blocked Weapons: (Total: 156)
+    // Blocked Weapons: (Total: 157)
     "The Kritzkrieg"                                                       "0"
     "The Axtinguisher"                                                     "0"
     "The Flare Gun"                                                        "0"
@@ -354,6 +354,7 @@
     "The Air Strike"                                                       "0"
     "The Self-Aware Beauty Mark"                                           "0"
     "Mutated Milk"                                                         "0"
+    "The Nostromo Napalmer"                                                "0"
 
     // Blocked Items: (Total: 11)
     "High Five Taunt"                                                      "0"
@@ -368,7 +369,7 @@
     "The Burning Bongos"                                                   "0"
     "Pet Reindoonicorn"                                                    "0"
 
-    // Allowed Hats: (Total: 499)
+    // Allowed Hats: (Total: 501)
     "Demoman's Fro"                                                        "1"
     "Football Helmet"                                                      "1"
     "Prussian Pickelhaube"                                                 "1"
@@ -868,8 +869,10 @@
     "The Pomade Prince"                                                    "1"
     "The Allbrero"                                                         "1"
     "Horace"                                                               "1"
+    "The Alien Cranium"                                                    "1"
+    "The MK 50"                                                            "1"
 
-    // Misc Items: (Total: 1086)
+    // Misc Items: (Total: 1088)
     "Mining Light"                                                         "1"
     "Camera Beard"                                                         "1"
     "Web Easteregg Medal"                                                  "1"
@@ -1956,6 +1959,8 @@
     "Seeing Double"                                                        "1"
     "Six Pack Abs"                                                         "1"
     "The Spycrab"                                                          "1"
+    "The Biomech Backpack"                                                 "1"
+    "The Xeno Suit"                                                        "1"
 
     // Action Items: (Total: 47)
     "Gift - 1 Player"                                                      "1"
