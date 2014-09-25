@@ -364,7 +364,7 @@
     "The Burning Bongos"                                                   "0"
     "Pet Reindoonicorn"                                                    "0"
 
-    // Allowed Hats: (Total: 501)
+    // Allowed Hats: (Total: 503)
     "Demoman's Fro"                                                        "1"
     "Football Helmet"                                                      "1"
     "Prussian Pickelhaube"                                                 "1"
@@ -866,8 +866,10 @@
     "Horace"                                                               "1"
     "The Alien Cranium"                                                    "1"
     "The MK 50"                                                            "1"
+    "The Mishap Mercenary"                                                 "1"
+    "Thirst Blood"                                                         "1"
 
-    // Misc Items: (Total: 1088)
+    // Misc Items: (Total: 1099)
     "Mining Light"                                                         "1"
     "Camera Beard"                                                         "1"
     "Web Easteregg Medal"                                                  "1"
@@ -1722,6 +1724,10 @@
     "ETF2L Highlander Open 2nd Place Medal Season 1"                       "1"
     "ETF2L Highlander Open 3rd Place Medal Season 1"                       "1"
     "ETF2L Highlander Open Participant Medal Season 1"                     "1"
+    "BETA LAN 1st Place Medal 2014"                                        "1"
+    "BETA LAN 2nd Place Medal 2014"                                        "1"
+    "BETA LAN 3rd Place Medal 2014"                                        "1"
+    "BETA LAN Participant Medal 2014"                                      "1"
     "Glitched Circuit Board"                                               "1"
     "The Electric Badge-aloo"                                              "1"
     "The Megapixel Beard"                                                  "1"
@@ -1956,6 +1962,13 @@
     "The Spycrab"                                                          "1"
     "The Biomech Backpack"                                                 "1"
     "The Xeno Suit"                                                        "1"
+    "The Lady Killer"                                                      "1"
+    "The Lone Survivor"                                                    "1"
+    "Poacher's Safari Jacket"                                              "1"
+    "Mann of the Seven Sees"                                               "1"
+    "Hillbilly Speed-Bump"                                                 "1"
+    "The Unshaved Bear"                                                    "1"
+    "Pocket Heavy"                                                         "1"
 
     // Action Items: (Total: 47)
     "Gift - 1 Player"                                                      "1"
