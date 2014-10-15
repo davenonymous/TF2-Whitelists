@@ -889,7 +889,7 @@
     "The Mishap Mercenary"                                                 "1"
     "Thirst Blood"                                                         "1"
 
-    // Misc Items: (Total: 1099)
+    // Misc Items: (Total: 1100)
     "Mining Light"                                                         "1"
     "Camera Beard"                                                         "1"
     "Web Easteregg Medal"                                                  "1"
@@ -1748,6 +1748,7 @@
     "BETA LAN 2nd Place Medal 2014"                                        "1"
     "BETA LAN 3rd Place Medal 2014"                                        "1"
     "BETA LAN Participant Medal 2014"                                      "1"
+    "Florida LAN Medal 2014"                                               "1"
     "Glitched Circuit Board"                                               "1"
     "The Electric Badge-aloo"                                              "1"
     "The Megapixel Beard"                                                  "1"
