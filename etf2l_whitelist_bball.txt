@@ -1971,7 +1971,7 @@
     "The Unshaved Bear"                                                    "1"
     "Pocket Heavy"                                                         "1"
 
-    // Action Items: (Total: 47)
+    // Action Items: (Total: 48)
     "Gift - 1 Player"                                                      "1"
     "Gift - 24 Players"                                                    "1"
     "Duel MiniGame"                                                        "1"
@@ -2006,6 +2006,7 @@
     "Conga Taunt"                                                          "1"
     "Deep Fried Desire Taunt"                                              "1"
     "Oblooterated Taunt"                                                   "1"
+    "TF_WEAPON_SPELLBOOK"                                                  "1"
     "Summer Starter Kit"                                                   "1"
     "Summer Adventure Pack"                                                "1"
     "Secret Diary"                                                         "1"
