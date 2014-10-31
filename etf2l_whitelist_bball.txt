@@ -869,7 +869,7 @@
     "The MK 50"                                                            "1"
     "The Mishap Mercenary"                                                 "1"
     "Thirst Blood"                                                         "1"
-    "The Deadliest Catch"                                                  "1"
+    "The Dadliest Catch"                                                   "1"
     "Transylvanian Toupe"                                                  "1"
     "Nugget Noggin"                                                        "1"
     "Head Hunter"                                                          "1"
