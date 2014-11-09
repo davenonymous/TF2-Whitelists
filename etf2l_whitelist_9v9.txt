@@ -880,7 +880,7 @@
     "Employee of the Mmmph"                                                "1"
     "The Combustible Kabuto"                                               "1"
     "The Danger"                                                           "1"
-    "The Frontier Djustice"                                                "1"
+    "The Frontier Justice"                                                "1"
     "Vive La France"                                                       "1"
     "Tipped Lid"                                                           "1"
     "The Pomade Prince"                                                    "1"
