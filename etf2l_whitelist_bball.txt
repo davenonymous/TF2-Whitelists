@@ -883,7 +883,7 @@
     "Battle Bird"                                                          "1"
     "Minsk Beef"                                                           "1"
 
-    // Misc Items: (Total: 1138)
+    // Misc Items: (Total: 1139)
     "Mining Light"                                                         "1"
     "Camera Beard"                                                         "1"
     "Web Easteregg Medal"                                                  "1"
@@ -1147,6 +1147,7 @@
     "The Criminal Cloak"                                                   "1"
     "The Baronial Badge"                                                   "1"
     "The Little Bear"                                                      "1"
+    "The Nabler"                                                           "1"
     "Something Special For Someone Special (Wearable)"                     "1"
     "Damaged Capacitor"                                                    "1"
     "Voodoo-Cursed Soul (Armory)"                                          "1"
