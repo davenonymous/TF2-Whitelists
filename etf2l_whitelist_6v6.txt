@@ -178,7 +178,7 @@
     "Upgradeable TF_WEAPON_BUILDER_SPY"                                    "1"
     "Upgradeable TF_WEAPON_PDA_ENGINEER_BUILD"                             "1"
 
-    // Weapon Skins: (Total: 126)
+    // Weapon Skins: (Total: 128)
     "TTG Max Pistol"                                                       "1"
     "TTG Sam Revolver"                                                     "1"
     "Golden Wrench"                                                        "1"
@@ -305,8 +305,10 @@
     "Festive Flare Gun"                                                    "1"
     "Festive Black Box"                                                    "1"
     "The Snack Attack"                                                     "1"
+    "Necro Smasher"                                                        "1"
+    "The Nostromo Napalmer"                                                "1"
 
-    // Blocked Weapons: (Total: 95)
+    // Blocked Weapons: (Total: 93)
     "Natascha"                                                             "0"
     "The Sandvich"                                                         "0"
     "The Killing Gloves of Boxing"                                         "0"
@@ -400,10 +402,8 @@
     "The Air Strike"                                                       "0"
     "The Self-Aware Beauty Mark"                                           "0"
     "Mutated Milk"                                                         "0"
-    "Necro Smasher"                                                        "0"
-    "The Nostromo Napalmer"                                                "0"
 
-    // Blocked Items: (Total: 11)
+    // Blocked Items: (Total: 14)
     "High Five Taunt"                                                      "0"
     "Bombinomicon"                                                         "0"
     "The Jingle Belt"                                                      "0"
@@ -414,6 +414,9 @@
     "The Infernal Orchestrina"                                             "0"
     "The Burning Bongos"                                                   "0"
     "Pet Reindoonicorn"                                                    "0"
+    "Square Dance Taunt"                                                   "0"
+    "RPS Taunt"                                                            "0"
+    "Skullcracker Taunt"                                                   "0"
     "Conga Taunt"                                                          "0"
 
     // Allowed Hats: (Total: 516)
@@ -2075,7 +2078,7 @@
     "Immobile Suit"                                                        "1"
     "Cursed Cruise"                                                        "1"
 
-    // Action Items: (Total: 59)
+    // Action Items: (Total: 56)
     "Gift - 1 Player"                                                      "1"
     "Gift - 24 Players"                                                    "1"
     "Duel MiniGame"                                                        "1"
@@ -2095,12 +2098,9 @@
     "Pallet of Crates"                                                     "1"
     "Halloween Spellbook"                                                  "1"
     "Basic Spellbook"                                                      "1"
-    "Square Dance Taunt"                                                   "1"
     "Flippin' Awesome Taunt"                                               "1"
     "Buy A Life Taunt"                                                     "1"
     "Results Are In Taunt"                                                 "1"
-    "RPS Taunt"                                                            "1"
-    "Skullcracker Taunt"                                                   "1"
     "Party Trick Taunt"                                                    "1"
     "Fresh Brewed Victory Taunt"                                           "1"
     "Spent Well Spirits Taunt"                                             "1"

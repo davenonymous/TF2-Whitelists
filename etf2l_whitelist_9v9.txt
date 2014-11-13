@@ -8,7 +8,6 @@
 //  - Baby Face's Blaster
 //  - Pretty Boy's Pocket Pistol
 //  - Deflector
-//  - Necro Smasher
 //
 // Blocked weapons for Support classes:
 //  - Darwin's Danger Shield
@@ -22,7 +21,6 @@
 //  - The Cleaner's Carbine
 //  - The Red-Tape Recorder
 //  - Promo Red-Tape Recorder
-//  - The Nostromo Napalmer
 //
 // Weapon sets are:     banned
 // Weapon skins are:    allowed
@@ -210,7 +208,7 @@
     "Upgradeable TF_WEAPON_BUILDER_SPY"                                    "1"
     "Upgradeable TF_WEAPON_PDA_ENGINEER_BUILD"                             "1"
 
-    // Weapon Skins: (Total: 138)
+    // Weapon Skins: (Total: 140)
     "TTG Max Pistol"                                                       "1"
     "TTG Sam Revolver"                                                     "1"
     "Golden Wrench"                                                        "1"
@@ -349,8 +347,10 @@
     "The Snack Attack"                                                     "1"
     "The Self-Aware Beauty Mark"                                           "1"
     "Mutated Milk"                                                         "1"
+    "Necro Smasher"                                                        "1"
+    "The Nostromo Napalmer"                                                "1"
 
-    // Blocked Weapons: (Total: 20)
+    // Blocked Weapons: (Total: 18)
     "Crit-a-Cola"                                                          "0"
     "The Vita-Saw"                                                         "0"
     "Darwin's Danger Shield"                                               "0"
@@ -369,8 +369,6 @@
     "The Red-Tape Recorder"                                                "0"
     "Promo Red-Tape Recorder"                                              "0"
     "Deflector"                                                            "0"
-    "Necro Smasher"                                                        "0"
-    "The Nostromo Napalmer"                                                "0"
 
     // Blocked Items: (Total: 12)
     "High Five Taunt"                                                      "0"

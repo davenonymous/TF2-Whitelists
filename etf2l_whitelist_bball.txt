@@ -76,7 +76,7 @@
     "Upgradeable TF_WEAPON_BUILDER_SPY"                                    "1"
     "Upgradeable TF_WEAPON_PDA_ENGINEER_BUILD"                             "1"
 
-    // Weapon Skins: (Total: 110)
+    // Weapon Skins: (Total: 112)
     "TTG Max Pistol"                                                       "1"
     "TTG Sam Revolver"                                                     "1"
     "Golden Wrench"                                                        "1"
@@ -187,8 +187,10 @@
     "Gold Frying Pan"                                                      "1"
     "Festive Sapper"                                                       "1"
     "The Snack Attack"                                                     "1"
+    "Necro Smasher"                                                        "1"
+    "The Nostromo Napalmer"                                                "1"
 
-    // Blocked Weapons: (Total: 162)
+    // Blocked Weapons: (Total: 160)
     "The Kritzkrieg"                                                       "0"
     "The Blutsauger"                                                       "0"
     "The Ubersaw"                                                          "0"
@@ -349,8 +351,6 @@
     "The Air Strike"                                                       "0"
     "The Self-Aware Beauty Mark"                                           "0"
     "Mutated Milk"                                                         "0"
-    "Necro Smasher"                                                        "0"
-    "The Nostromo Napalmer"                                                "0"
 
     // Blocked Items: (Total: 11)
     "High Five Taunt"                                                      "0"
