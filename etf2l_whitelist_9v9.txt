@@ -8,6 +8,7 @@
 //  - Baby Face's Blaster
 //  - Pretty Boy's Pocket Pistol
 //  - Deflector
+//  - The B.A.S.E. Jumper
 //
 // Blocked weapons for Support classes:
 //  - Darwin's Danger Shield
@@ -32,7 +33,7 @@
 {
     "unlisted_items_default_to"                                            "0"
 
-    // Allowed Weapons: (Total: 114)
+    // Allowed Weapons: (Total: 113)
     "The Kritzkrieg"                                                       "1"
     "The Blutsauger"                                                       "1"
     "The Ubersaw"                                                          "1"
@@ -144,7 +145,6 @@
     "Festive Gloves of Running Urgently"                                   "1"
     "The Classic"                                                          "1"
     "The Tide Turner"                                                      "1"
-    "The B.A.S.E. Jumper"                                                  "1"
     "The Back Scatter"                                                     "1"
     "The Air Strike"                                                       "1"
 
@@ -350,7 +350,7 @@
     "Necro Smasher"                                                        "1"
     "The Nostromo Napalmer"                                                "1"
 
-    // Blocked Weapons: (Total: 18)
+    // Blocked Weapons: (Total: 19)
     "Crit-a-Cola"                                                          "0"
     "The Vita-Saw"                                                         "0"
     "Darwin's Danger Shield"                                               "0"
@@ -369,8 +369,9 @@
     "The Red-Tape Recorder"                                                "0"
     "Promo Red-Tape Recorder"                                              "0"
     "Deflector"                                                            "0"
+    "The B.A.S.E. Jumper"                                                  "0"
 
-    // Blocked Items: (Total: 12)
+    // Blocked Items: (Total: 16)
     "High Five Taunt"                                                      "0"
     "Bombinomicon"                                                         "0"
     "The Jingle Belt"                                                      "0"
@@ -382,6 +383,10 @@
     "The Infernal Orchestrina"                                             "0"
     "The Burning Bongos"                                                   "0"
     "Pet Reindoonicorn"                                                    "0"
+    "Square Dance Taunt"                                                   "0"
+    "RPS Taunt"                                                            "0"
+    "Skullcracker Taunt"                                                   "0"
+    "Rancho Relaxo Taunt"                                                  "0"
     "Conga Taunt"                                                          "0"
 
     // Allowed Hats: (Total: 516)
@@ -2043,7 +2048,7 @@
     "Immobile Suit"                                                        "1"
     "Cursed Cruise"                                                        "1"
 
-    // Action Items: (Total: 59)
+    // Action Items: (Total: 55)
     "Gift - 1 Player"                                                      "1"
     "Gift - 24 Players"                                                    "1"
     "Duel MiniGame"                                                        "1"
@@ -2063,16 +2068,12 @@
     "Pallet of Crates"                                                     "1"
     "Halloween Spellbook"                                                  "1"
     "Basic Spellbook"                                                      "1"
-    "Square Dance Taunt"                                                   "1"
     "Flippin' Awesome Taunt"                                               "1"
     "Buy A Life Taunt"                                                     "1"
     "Results Are In Taunt"                                                 "1"
-    "RPS Taunt"                                                            "1"
-    "Skullcracker Taunt"                                                   "1"
     "Party Trick Taunt"                                                    "1"
     "Fresh Brewed Victory Taunt"                                           "1"
     "Spent Well Spirits Taunt"                                             "1"
-    "Rancho Relaxo Taunt"                                                  "1"
     "I See You Taunt"                                                      "1"
     "Battin' a Thousand Taunt"                                             "1"
     "Deep Fried Desire Taunt"                                              "1"

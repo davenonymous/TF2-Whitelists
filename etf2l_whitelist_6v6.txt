@@ -403,7 +403,7 @@
     "The Self-Aware Beauty Mark"                                           "0"
     "Mutated Milk"                                                         "0"
 
-    // Blocked Items: (Total: 14)
+    // Blocked Items: (Total: 15)
     "High Five Taunt"                                                      "0"
     "Bombinomicon"                                                         "0"
     "The Jingle Belt"                                                      "0"
@@ -417,6 +417,7 @@
     "Square Dance Taunt"                                                   "0"
     "RPS Taunt"                                                            "0"
     "Skullcracker Taunt"                                                   "0"
+    "Rancho Relaxo Taunt"                                                  "0"
     "Conga Taunt"                                                          "0"
 
     // Allowed Hats: (Total: 516)
@@ -2078,7 +2079,7 @@
     "Immobile Suit"                                                        "1"
     "Cursed Cruise"                                                        "1"
 
-    // Action Items: (Total: 56)
+    // Action Items: (Total: 55)
     "Gift - 1 Player"                                                      "1"
     "Gift - 24 Players"                                                    "1"
     "Duel MiniGame"                                                        "1"
@@ -2104,7 +2105,6 @@
     "Party Trick Taunt"                                                    "1"
     "Fresh Brewed Victory Taunt"                                           "1"
     "Spent Well Spirits Taunt"                                             "1"
-    "Rancho Relaxo Taunt"                                                  "1"
     "I See You Taunt"                                                      "1"
     "Battin' a Thousand Taunt"                                             "1"
     "Deep Fried Desire Taunt"                                              "1"
