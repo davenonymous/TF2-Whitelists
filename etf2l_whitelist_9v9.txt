@@ -371,8 +371,9 @@
     "Deflector"                                                            "0"
     "The B.A.S.E. Jumper"                                                  "0"
 
-    // Blocked Items: (Total: 16)
+    // Blocked Items: (Total: 25)
     "High Five Taunt"                                                      "0"
+    "Meet the Medic Heroic Taunt"                                          "0"
     "Bombinomicon"                                                         "0"
     "The Jingle Belt"                                                      "0"
     "The Bootie Time"                                                      "0"
@@ -384,10 +385,18 @@
     "The Burning Bongos"                                                   "0"
     "Pet Reindoonicorn"                                                    "0"
     "Square Dance Taunt"                                                   "0"
+    "Buy A Life Taunt"                                                     "0"
+    "Results Are In Taunt"                                                 "0"
     "RPS Taunt"                                                            "0"
     "Skullcracker Taunt"                                                   "0"
+    "Party Trick Taunt"                                                    "0"
+    "Fresh Brewed Victory Taunt"                                           "0"
+    "Spent Well Spirits Taunt"                                             "0"
     "Rancho Relaxo Taunt"                                                  "0"
+    "I See You Taunt"                                                      "0"
     "Conga Taunt"                                                          "0"
+    "Deep Fried Desire Taunt"                                              "0"
+    "Oblooterated Taunt"                                                   "0"
 
     // Allowed Hats: (Total: 516)
     "Demoman's Fro"                                                        "1"
@@ -2065,13 +2074,12 @@
     "Immobile Suit"                                                        "1"
     "Cursed Cruise"                                                        "1"
 
-    // Action Items: (Total: 55)
+    // Action Items: (Total: 46)
     "Gift - 1 Player"                                                      "1"
     "Gift - 24 Players"                                                    "1"
     "Duel MiniGame"                                                        "1"
     "Replay Taunt"                                                         "1"
     "Laugh Taunt"                                                          "1"
-    "Meet the Medic Heroic Taunt"                                          "1"
     "Power Up Canteen (MvM)"                                               "1"
     "Halloween Giveaway Package 2011 (Cauldron)"                           "1"
     "Manniversary Giveaway Package"                                        "1"
@@ -2086,15 +2094,7 @@
     "Halloween Spellbook"                                                  "1"
     "Basic Spellbook"                                                      "1"
     "Flippin' Awesome Taunt"                                               "1"
-    "Buy A Life Taunt"                                                     "1"
-    "Results Are In Taunt"                                                 "1"
-    "Party Trick Taunt"                                                    "1"
-    "Fresh Brewed Victory Taunt"                                           "1"
-    "Spent Well Spirits Taunt"                                             "1"
-    "I See You Taunt"                                                      "1"
     "Battin' a Thousand Taunt"                                             "1"
-    "Deep Fried Desire Taunt"                                              "1"
-    "Oblooterated Taunt"                                                   "1"
     "TF_WEAPON_SPELLBOOK"                                                  "1"
     "Summer Starter Kit"                                                   "1"
     "Summer Adventure Pack"                                                "1"
