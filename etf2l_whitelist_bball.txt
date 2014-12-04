@@ -365,7 +365,7 @@
     "The Burning Bongos"                                                   "0"
     "Pet Reindoonicorn"                                                    "0"
 
-    // Allowed Hats: (Total: 516)
+    // Allowed Hats: (Total: 518)
     "Demoman's Fro"                                                        "1"
     "Football Helmet"                                                      "1"
     "Prussian Pickelhaube"                                                 "1"
@@ -882,8 +882,10 @@
     "Hellhunter's Headpiece"                                               "1"
     "Battle Bird"                                                          "1"
     "Minsk Beef"                                                           "1"
+    "Crown of the Old Kingdom"                                             "1"
+    "Brimstone"                                                            "1"
 
-    // Misc Items: (Total: 1156)
+    // Misc Items: (Total: 1158)
     "Mining Light"                                                         "1"
     "Camera Beard"                                                         "1"
     "Web Easteregg Medal"                                                  "1"
@@ -2040,6 +2042,8 @@
     "Bull Locks"                                                           "1"
     "Immobile Suit"                                                        "1"
     "Cursed Cruise"                                                        "1"
+    "Jungle Booty"                                                         "1"
+    "Tomb Readers"                                                         "1"
 
     // Action Items: (Total: 60)
     "Gift - 1 Player"                                                      "1"
