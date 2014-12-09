@@ -308,7 +308,7 @@
     "Necro Smasher"                                                        "1"
     "The Nostromo Napalmer"                                                "1"
 
-    // Blocked Weapons: (Total: 93)
+    // Blocked Weapons: (Total: 94)
     "Natascha"                                                             "0"
     "The Sandvich"                                                         "0"
     "The Killing Gloves of Boxing"                                         "0"
@@ -402,6 +402,7 @@
     "The Air Strike"                                                       "0"
     "The Self-Aware Beauty Mark"                                           "0"
     "Mutated Milk"                                                         "0"
+    "The Crossing Guard"                                                   "0"
 
     // Blocked Items: (Total: 23)
     "High Five Taunt"                                                      "0"
@@ -428,7 +429,7 @@
     "Deep Fried Desire Taunt"                                              "0"
     "Oblooterated Taunt"                                                   "0"
 
-    // Allowed Hats: (Total: 518)
+    // Allowed Hats: (Total: 525)
     "Demoman's Fro"                                                        "1"
     "Football Helmet"                                                      "1"
     "Prussian Pickelhaube"                                                 "1"
@@ -945,10 +946,17 @@
     "Hellhunter's Headpiece"                                               "1"
     "Battle Bird"                                                          "1"
     "Minsk Beef"                                                           "1"
+    "EOTL_Brisk-weather Beanie"                                            "1"
+    "EOTL_Flat_cap"                                                        "1"
+    "EOTL_FURCAP"                                                          "1"
+    "EOTL_summerhat"                                                       "1"
+    "EOTL_soldier_garrison"                                                "1"
+    "EOTL_hiphunter_hat"                                                   "1"
+    "EOTL_soldierhat"                                                      "1"
     "Crown of the Old Kingdom"                                             "1"
     "Brimstone"                                                            "1"
 
-    // Misc Items: (Total: 1158)
+    // Misc Items: (Total: 1172)
     "Mining Light"                                                         "1"
     "Camera Beard"                                                         "1"
     "Web Easteregg Medal"                                                  "1"
@@ -2105,10 +2113,24 @@
     "Bull Locks"                                                           "1"
     "Immobile Suit"                                                        "1"
     "Cursed Cruise"                                                        "1"
+    "EOTL_Skier"                                                           "1"
+    "EOTL_Insulated_innovator"                                             "1"
+    "EOTL_blinks_breeches"                                                 "1"
+    "EOTL_demo_dynamite"                                                   "1"
+    "EOTL_winter_pants"                                                    "1"
+    "EOTL_pyro_sweater"                                                    "1"
+    "EOTL_hiphunter_jacket"                                                "1"
+    "EOTL_hiphunter_boots"                                                 "1"
+    "EOTL_thermal_sleeves"                                                 "1"
+    "EOTL_beard"                                                           "1"
+    "EOTL_demopants"                                                       "1"
+    "EOTL_Ursa Major"                                                      "1"
+    "EOTL_sheavyshirt"                                                     "1"
+    "EOTL_Coldfront Curbstompers"                                          "1"
     "Jungle Booty"                                                         "1"
     "Tomb Readers"                                                         "1"
 
-    // Action Items: (Total: 47)
+    // Action Items: (Total: 52)
     "Gift - 1 Player"                                                      "1"
     "Gift - 24 Players"                                                    "1"
     "Duel MiniGame"                                                        "1"
@@ -2154,10 +2176,15 @@
     "Halloween 2014 Demo Crate"                                            "1"
     "Halloween Giveaway Cauldron 2014 (Base)"                              "1"
     "Halloween Giveaway Cauldron 2014 (Achievement)"                       "1"
+    "Gift - 23 EOTL Keys"                                                  "1"
+    "Gift - 1 EOTL Key"                                                    "1"
+    "Gift - 23 Duck Tokens"                                                "1"
+    "Gift - 1 Duck Token"                                                  "1"
     "Battery Canteens"                                                     "1"
     "Kritz Or Treat Canteen"                                               "1"
+    "Pool Party Taunt"                                                     "1"
 
-    // Noise Maker: (Total: 14)
+    // Noise Maker: (Total: 15)
     "Halloween Noise Maker - Black Cat"                                    "0"
     "Halloween Noise Maker - Gremlin"                                      "0"
     "Halloween Noise Maker - Werewolf"                                     "0"
@@ -2172,5 +2199,6 @@
     "Noise Maker - TF Birthday"                                            "0"
     "Noise Maker - Vuvuzela"                                               "0"
     "Noise Maker - Winter 2011"                                            "0"
+    "Duck Badge"                                                           "0"
 
 }
