@@ -927,7 +927,7 @@
     "Crown of the Old Kingdom"                                             "1"
     "Brimstone"                                                            "1"
 
-    // Misc Items: (Total: 1172)
+    // Misc Items: (Total: 1173)
     "Mining Light"                                                         "1"
     "Camera Beard"                                                         "1"
     "Web Easteregg Medal"                                                  "1"
@@ -2100,6 +2100,7 @@
     "EOTL_Coldfront Curbstompers"                                          "1"
     "Jungle Booty"                                                         "1"
     "Tomb Readers"                                                         "1"
+    "eotl_winter_coat"                                                     "1"
 
     // Action Items: (Total: 51)
     "Gift - 1 Player"                                                      "1"
