@@ -28,6 +28,7 @@
 //  - The Escape Plan
 //  - The Huo Long Heatmaker
 //  - The Loose Cannon
+//  - The Crossing Guard
 //
 // Allowed weapons for Support classes:
 //  - The Axtinguisher
@@ -65,7 +66,7 @@
 {
     "unlisted_items_default_to"                                            "0"
 
-    // Allowed Weapons: (Total: 51)
+    // Allowed Weapons: (Total: 52)
     "The Kritzkrieg"                                                       "1"
     "The Blutsauger"                                                       "1"
     "The Ubersaw"                                                          "1"
@@ -117,6 +118,7 @@
     "The Neon Annihilator"                                                 "1"
     "The Loose Cannon"                                                     "1"
     "The Classic"                                                          "1"
+    "The Crossing Guard"                                                   "1"
 
     // Default Weapons: (Total: 31)
     "TF_WEAPON_BAT"                                                        "1"
@@ -308,7 +310,7 @@
     "Necro Smasher"                                                        "1"
     "The Nostromo Napalmer"                                                "1"
 
-    // Blocked Weapons: (Total: 94)
+    // Blocked Weapons: (Total: 93)
     "Natascha"                                                             "0"
     "The Sandvich"                                                         "0"
     "The Killing Gloves of Boxing"                                         "0"
@@ -402,9 +404,8 @@
     "The Air Strike"                                                       "0"
     "The Self-Aware Beauty Mark"                                           "0"
     "Mutated Milk"                                                         "0"
-    "The Crossing Guard"                                                   "0"
 
-    // Blocked Items: (Total: 25)
+    // Blocked Items: (Total: 17)
     "High Five Taunt"                                                      "0"
     "Bombinomicon"                                                         "0"
     "The Jingle Belt"                                                      "0"
@@ -417,19 +418,11 @@
     "Pet Reindoonicorn"                                                    "0"
     "Square Dance Taunt"                                                   "0"
     "Flippin' Awesome Taunt"                                               "0"
-    "Buy A Life Taunt"                                                     "0"
-    "Results Are In Taunt"                                                 "0"
     "RPS Taunt"                                                            "0"
     "Skullcracker Taunt"                                                   "0"
-    "Party Trick Taunt"                                                    "0"
-    "Fresh Brewed Victory Taunt"                                           "0"
-    "Spent Well Spirits Taunt"                                             "0"
     "Rancho Relaxo Taunt"                                                  "0"
-    "I See You Taunt"                                                      "0"
-    "Battin' a Thousand Taunt"                                             "0"
     "Conga Taunt"                                                          "0"
-    "Deep Fried Desire Taunt"                                              "0"
-    "Oblooterated Taunt"                                                   "0"
+    "Pool Party Taunt"                                                     "0"
 
     // Allowed Hats: (Total: 525)
     "Demoman's Fro"                                                        "1"
@@ -2133,7 +2126,7 @@
     "Tomb Readers"                                                         "1"
     "eotl_winter_coat"                                                     "1"
 
-    // Action Items: (Total: 50)
+    // Action Items: (Total: 58)
     "Gift - 1 Player"                                                      "1"
     "Gift - 24 Players"                                                    "1"
     "Duel MiniGame"                                                        "1"
@@ -2153,6 +2146,15 @@
     "Pallet of Crates"                                                     "1"
     "Halloween Spellbook"                                                  "1"
     "Basic Spellbook"                                                      "1"
+    "Buy A Life Taunt"                                                     "1"
+    "Results Are In Taunt"                                                 "1"
+    "Party Trick Taunt"                                                    "1"
+    "Fresh Brewed Victory Taunt"                                           "1"
+    "Spent Well Spirits Taunt"                                             "1"
+    "I See You Taunt"                                                      "1"
+    "Battin' a Thousand Taunt"                                             "1"
+    "Deep Fried Desire Taunt"                                              "1"
+    "Oblooterated Taunt"                                                   "1"
     "TF_WEAPON_SPELLBOOK"                                                  "1"
     "Summer Starter Kit"                                                   "1"
     "Summer Adventure Pack"                                                "1"
@@ -2183,7 +2185,6 @@
     "Gift - 1 Duck Token"                                                  "1"
     "Battery Canteens"                                                     "1"
     "Kritz Or Treat Canteen"                                               "1"
-    "Pool Party Taunt"                                                     "1"
 
     // Noise Maker: (Total: 15)
     "Halloween Noise Maker - Black Cat"                                    "0"
