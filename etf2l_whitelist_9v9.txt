@@ -373,7 +373,7 @@
     "The B.A.S.E. Jumper"                                                  "0"
     "The Crossing Guard"                                                   "0"
 
-    // Blocked Items: (Total: 25)
+    // Blocked Items: (Total: 27)
     "High Five Taunt"                                                      "0"
     "Meet the Medic Heroic Taunt"                                          "0"
     "Bombinomicon"                                                         "0"
@@ -387,6 +387,7 @@
     "The Burning Bongos"                                                   "0"
     "Pet Reindoonicorn"                                                    "0"
     "Square Dance Taunt"                                                   "0"
+    "Flippin' Awesome Taunt"                                               "0"
     "Buy A Life Taunt"                                                     "0"
     "Results Are In Taunt"                                                 "0"
     "RPS Taunt"                                                            "0"
@@ -396,6 +397,7 @@
     "Spent Well Spirits Taunt"                                             "0"
     "Rancho Relaxo Taunt"                                                  "0"
     "I See You Taunt"                                                      "0"
+    "Battin' a Thousand Taunt"                                             "0"
     "Conga Taunt"                                                          "0"
     "Deep Fried Desire Taunt"                                              "0"
     "Oblooterated Taunt"                                                   "0"
@@ -2102,7 +2104,7 @@
     "Tomb Readers"                                                         "1"
     "eotl_winter_coat"                                                     "1"
 
-    // Action Items: (Total: 51)
+    // Action Items: (Total: 49)
     "Gift - 1 Player"                                                      "1"
     "Gift - 24 Players"                                                    "1"
     "Duel MiniGame"                                                        "1"
@@ -2121,8 +2123,6 @@
     "Pallet of Crates"                                                     "1"
     "Halloween Spellbook"                                                  "1"
     "Basic Spellbook"                                                      "1"
-    "Flippin' Awesome Taunt"                                               "1"
-    "Battin' a Thousand Taunt"                                             "1"
     "TF_WEAPON_SPELLBOOK"                                                  "1"
     "Summer Starter Kit"                                                   "1"
     "Summer Adventure Pack"                                                "1"
