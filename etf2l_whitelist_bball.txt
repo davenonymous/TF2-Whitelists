@@ -893,7 +893,7 @@
     "Crown of the Old Kingdom"                                             "1"
     "Brimstone"                                                            "1"
 
-    // Misc Items: (Total: 1173)
+    // Misc Items: (Total: 1174)
     "Mining Light"                                                         "1"
     "Camera Beard"                                                         "1"
     "Web Easteregg Medal"                                                  "1"
@@ -2064,6 +2064,7 @@
     "EOTL_Ursa Major"                                                      "1"
     "EOTL_sheavyshirt"                                                     "1"
     "EOTL_Coldfront Curbstompers"                                          "1"
+    "End of the Line Community Update Medal"                               "1"
     "Jungle Booty"                                                         "1"
     "Tomb Readers"                                                         "1"
     "eotl_winter_coat"                                                     "1"
