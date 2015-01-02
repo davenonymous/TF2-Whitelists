@@ -180,7 +180,7 @@
     "Upgradeable TF_WEAPON_BUILDER_SPY"                                    "1"
     "Upgradeable TF_WEAPON_PDA_ENGINEER_BUILD"                             "1"
 
-    // Weapon Skins: (Total: 128)
+    // Weapon Skins: (Total: 133)
     "TTG Max Pistol"                                                       "1"
     "TTG Sam Revolver"                                                     "1"
     "Golden Wrench"                                                        "1"
@@ -308,9 +308,14 @@
     "Festive Black Box"                                                    "1"
     "The Snack Attack"                                                     "1"
     "Necro Smasher"                                                        "1"
+    "Festive Shotgun 2014"                                                 "1"
+    "Festive Revolver 2014"                                                "1"
+    "Festive Bonesaw 2014"                                                 "1"
+    "Festive Backburner 2014"                                              "1"
+    "Festive SMG 2014"                                                     "1"
     "The Nostromo Napalmer"                                                "1"
 
-    // Blocked Weapons: (Total: 111)
+    // Blocked Weapons: (Total: 106)
     "Natascha"                                                             "0"
     "The Sandvich"                                                         "0"
     "The Killing Gloves of Boxing"                                         "0"
@@ -412,13 +417,8 @@
     "Powerup Warlock"                                                      "0"
     "Powerup Precision"                                                    "0"
     "Powerup Agility"                                                      "0"
-    "Festive Shotgun 2014"                                                 "0"
-    "Festive Revolver 2014"                                                "0"
-    "Festive Bonesaw 2014"                                                 "0"
     "Festive Targe 2014"                                                   "0"
     "Festive Bonk 2014"                                                    "0"
-    "Festive Backburner 2014"                                              "0"
-    "Festive SMG 2014"                                                     "0"
     "The Quickiebomb Launcher"                                             "0"
     "The Iron Bomber"                                                      "0"
     "Panic Attack Shotgun"                                                 "0"
