@@ -1,15 +1,18 @@
-// ETF2L Season 19
+// ETF2L Season 20
 //
 // Allowed weapons for Main classes:
 //  - The Kritzkrieg
 //  - The Blutsauger
 //  - The Ubersaw
 //  - The Force-a-Nature
+//  - The Direct Hit
 //  - The Buff Banner
+//  - The Scottish Resistance
 //  - The Gunboats
 //  - The Pain Train
 //  - The Dalokohs Bar
 //  - The Scotsman's Skullcutter
+//  - The Shortstop
 //  - The Black Box
 //  - The Amputator
 //  - The Crusader's Crossbow
@@ -21,14 +24,18 @@
 //  - The Half-Zatoichi
 //  - Ali Baba's Wee Booties
 //  - The Overdose
+//  - The Liberty Launcher
 //  - Tomislav
 //  - The Family Business
 //  - The Eviction Notice
+//  - The Cow Mangler 5000
 //  - The Winger
 //  - The Escape Plan
 //  - The Huo Long Heatmaker
 //  - The Loose Cannon
 //  - The Crossing Guard
+//  - The Quickiebomb Launcher
+//  - The Iron Bomber
 //
 // Allowed weapons for Support classes:
 //  - The Axtinguisher
@@ -36,6 +43,8 @@
 //  - The Backburner
 //  - The Razorback
 //  - The Cloak and Dagger
+//  - The Ambassador
+//  - The Frontier Justice
 //  - The Homewrecker
 //  - The Southern Hospitality
 //  - The Tribalman's Shiv
@@ -46,12 +55,14 @@
 //  - The Back Scratcher
 //  - The Jag
 //  - Sharpened Volcano Fragment
+//  - The Detonator
 //  - Conniver's Kunai
 //  - The Shahanshah
 //  - The Big Earner
 //  - The Diamondback
 //  - The Widowmaker
 //  - The Third Degree
+//  - The Scorch Shot
 //  - The Red-Tape Recorder
 //  - The Neon Annihilator
 //  - The Classic
@@ -66,7 +77,7 @@
 {
     "unlisted_items_default_to"                                            "0"
 
-    // Allowed Weapons: (Total: 52)
+    // Allowed Weapons: (Total: 63)
     "The Kritzkrieg"                                                       "1"
     "The Blutsauger"                                                       "1"
     "The Ubersaw"                                                          "1"
@@ -76,8 +87,12 @@
     "The Force-a-Nature"                                                   "1"
     "The Razorback"                                                        "1"
     "The Cloak and Dagger"                                                 "1"
+    "The Ambassador"                                                       "1"
+    "The Direct Hit"                                                       "1"
     "The Buff Banner"                                                      "1"
+    "The Scottish Resistance"                                              "1"
     "The Gunboats"                                                         "1"
+    "The Frontier Justice"                                                 "1"
     "The Homewrecker"                                                      "1"
     "The Pain Train"                                                       "1"
     "The Southern Hospitality"                                             "1"
@@ -85,6 +100,7 @@
     "The Tribalman's Shiv"                                                 "1"
     "The Scotsman's Skullcutter"                                           "1"
     "The Degreaser"                                                        "1"
+    "The Shortstop"                                                        "1"
     "L'Etranger"                                                           "1"
     "Your Eternal Reward"                                                  "1"
     "The Black Box"                                                        "1"
@@ -97,6 +113,7 @@
     "The Jag"                                                              "1"
     "Sharpened Volcano Fragment"                                           "1"
     "Sun-on-a-Stick"                                                       "1"
+    "The Detonator"                                                        "1"
     "The Concheror"                                                        "1"
     "The Fan O'War"                                                        "1"
     "Conniver's Kunai"                                                     "1"
@@ -104,14 +121,17 @@
     "The Shahanshah"                                                       "1"
     "Ali Baba's Wee Booties"                                               "1"
     "The Overdose"                                                         "1"
+    "The Liberty Launcher"                                                 "1"
     "Tomislav"                                                             "1"
     "The Family Business"                                                  "1"
     "The Eviction Notice"                                                  "1"
+    "The Cow Mangler 5000"                                                 "1"
     "The Winger"                                                           "1"
     "The Big Earner"                                                       "1"
     "The Diamondback"                                                      "1"
     "The Widowmaker"                                                       "1"
     "The Third Degree"                                                     "1"
+    "The Scorch Shot"                                                      "1"
     "The Escape Plan"                                                      "1"
     "The Red-Tape Recorder"                                                "1"
     "The Huo Long Heatmaker"                                               "1"
@@ -119,6 +139,8 @@
     "The Loose Cannon"                                                     "1"
     "The Classic"                                                          "1"
     "The Crossing Guard"                                                   "1"
+    "The Quickiebomb Launcher"                                             "1"
+    "The Iron Bomber"                                                      "1"
 
     // Default Weapons: (Total: 31)
     "TF_WEAPON_BAT"                                                        "1"
@@ -180,7 +202,7 @@
     "Upgradeable TF_WEAPON_BUILDER_SPY"                                    "1"
     "Upgradeable TF_WEAPON_PDA_ENGINEER_BUILD"                             "1"
 
-    // Weapon Skins: (Total: 133)
+    // Weapon Skins: (Total: 135)
     "TTG Max Pistol"                                                       "1"
     "TTG Sam Revolver"                                                     "1"
     "Golden Wrench"                                                        "1"
@@ -298,6 +320,8 @@
     "Festive Axtinguisher"                                                 "1"
     "Festive Buff Banner"                                                  "1"
     "Festive Ubersaw"                                                      "1"
+    "Festive Frontier Justice"                                             "1"
+    "Festive Ambassador"                                                   "1"
     "Festive Grenade Launcher"                                             "1"
     "The Ham Shank"                                                        "1"
     "Gold Frying Pan"                                                      "1"
@@ -315,7 +339,7 @@
     "Festive SMG 2014"                                                     "1"
     "The Nostromo Napalmer"                                                "1"
 
-    // Blocked Weapons: (Total: 106)
+    // Blocked Weapons: (Total: 93)
     "Natascha"                                                             "0"
     "The Sandvich"                                                         "0"
     "The Killing Gloves of Boxing"                                         "0"
@@ -324,19 +348,14 @@
     "The Huntsman"                                                         "0"
     "Jarate"                                                               "0"
     "The Dead Ringer"                                                      "0"
-    "The Ambassador"                                                       "0"
-    "The Direct Hit"                                                       "0"
     "The Equalizer"                                                        "0"
-    "The Scottish Resistance"                                              "0"
     "The Chargin' Targe"                                                   "0"
     "The Eyelander"                                                        "0"
     "The Wrangler"                                                         "0"
-    "The Frontier Justice"                                                 "0"
     "The Gunslinger"                                                       "0"
     "Crit-a-Cola"                                                          "0"
     "The Vita-Saw"                                                         "0"
     "The Powerjack"                                                        "0"
-    "The Shortstop"                                                        "0"
     "Mad Milk"                                                             "0"
     "The Battalion's Backup"                                               "0"
     "The Sydney Sleeper"                                                   "0"
@@ -352,16 +371,13 @@
     "The Candy Cane"                                                       "0"
     "The Claidheamohmor"                                                   "0"
     "Fists of Steel"                                                       "0"
-    "The Detonator"                                                        "0"
     "The Bazaar Bargain"                                                   "0"
     "The Persian Persuader"                                                "0"
     "The Splendid Screen"                                                  "0"
     "The Quick-Fix"                                                        "0"
     "The Solemn Vow"                                                       "0"
-    "The Liberty Launcher"                                                 "0"
     "The Reserve Shooter"                                                  "0"
     "The Market Gardener"                                                  "0"
-    "The Cow Mangler 5000"                                                 "0"
     "The Righteous Bison"                                                  "0"
     "The Mantreads"                                                        "0"
     "The Disciplinary Action"                                              "0"
@@ -381,7 +397,6 @@
     "The Holiday Punch"                                                    "0"
     "The Beggar's Bazooka"                                                 "0"
     "The Lollichop"                                                        "0"
-    "The Scorch Shot"                                                      "0"
     "The Rainblower"                                                       "0"
     "The Cleaner's Carbine"                                                "0"
     "The Hitman's Heatmaker"                                               "0"
@@ -394,9 +409,7 @@
     "The Rescue Ranger"                                                    "0"
     "The Vaccinator"                                                       "0"
     "Festive Sandvich"                                                     "0"
-    "Festive Frontier Justice"                                             "0"
     "Festive Huntsman"                                                     "0"
-    "Festive Ambassador"                                                   "0"
     "Festive Eyelander"                                                    "0"
     "Festive Jarate"                                                       "0"
     "Festive Gloves of Running Urgently"                                   "0"
@@ -419,8 +432,6 @@
     "Powerup Agility"                                                      "0"
     "Festive Targe 2014"                                                   "0"
     "Festive Bonk 2014"                                                    "0"
-    "The Quickiebomb Launcher"                                             "0"
-    "The Iron Bomber"                                                      "0"
     "Panic Attack Shotgun"                                                 "0"
 
     // Blocked Items: (Total: 17)
