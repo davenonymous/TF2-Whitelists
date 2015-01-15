@@ -908,7 +908,7 @@
     "EOTL_soldier_garrison"                                                "1"
     "EOTL_hiphunter_hat"                                                   "1"
     "EOTL_soldierhat"                                                      "1"
-    "Crown of the Old Kingdom"                                             "1"
+    "The Crown of the Old Kingdom"                                         "1"
     "Brimstone"                                                            "1"
     "dec2014 Marauders Mask"                                               "1"
     "dec2014 CoPilot_2014"                                                 "1"
@@ -921,7 +921,7 @@
     "dec2014 Surgeon's Shako"                                              "1"
     "dec2014 Comforter"                                                    "1"
 
-    // Misc Items: (Total: 1225)
+    // Misc Items: (Total: 1229)
     "Mining Light"                                                         "1"
     "Camera Beard"                                                         "1"
     "Web Easteregg Medal"                                                  "1"
@@ -1831,6 +1831,7 @@
     "FBTF Cup 6v6 Vic Basten 2nd Place Season 3"                           "1"
     "FBTF Cup 6v6 Vic Basten 3rd Place Season 3"                           "1"
     "FBTF Cup 6v6 Vic Basten Participant Season 3"                         "1"
+    "Asymmetric Accolade"                                                  "1"
     "Glitched Circuit Board"                                               "1"
     "The Electric Badge-aloo"                                              "1"
     "The Megapixel Beard"                                                  "1"
@@ -2125,8 +2126,10 @@
     "EOTL_sheavyshirt"                                                     "1"
     "EOTL_Coldfront Curbstompers"                                          "1"
     "End of the Line Community Update Medal"                               "1"
+    "The Bootenkhamuns"                                                    "1"
     "Jungle Booty"                                                         "1"
-    "Tomb Readers"                                                         "1"
+    "Orion's Belt"                                                         "1"
+    "The Tomb Readers"                                                     "1"
     "dec2014 Truands Tunic"                                                "1"
     "dec2014 Fools Footwear"                                               "1"
     "dec2014 Pyromancer's Raiments"                                        "1"
@@ -2147,6 +2150,7 @@
     "dec2014 Stealthy Scarf"                                               "1"
     "dec2014 Thermal Insulation Layer"                                     "1"
     "dec2014 Pocket Momma"                                                 "1"
+    "The Pocket Raiders"                                                   "1"
 
     // Action Items: (Total: 66)
     "Gift - 1 Player"                                                      "1"
