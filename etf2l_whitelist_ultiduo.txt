@@ -389,7 +389,7 @@
     "The Burning Bongos"                                                   "0"
     "Pet Reindoonicorn"                                                    "0"
 
-    // Allowed Hats: (Total: 535)
+    // Allowed Hats: (Total: 534)
     "Demoman's Fro"                                                        "1"
     "Football Helmet"                                                      "1"
     "Prussian Pickelhaube"                                                 "1"
@@ -914,7 +914,6 @@
     "EOTL_hiphunter_hat"                                                   "1"
     "EOTL_soldierhat"                                                      "1"
     "The Crown of the Old Kingdom"                                         "1"
-    "Brimstone"                                                            "1"
     "dec2014 Marauders Mask"                                               "1"
     "dec2014 CoPilot_2014"                                                 "1"
     "dec2014 Skullcap"                                                     "1"
@@ -926,7 +925,7 @@
     "dec2014 Surgeon's Shako"                                              "1"
     "dec2014 Comforter"                                                    "1"
 
-    // Misc Items: (Total: 1245)
+    // Misc Items: (Total: 1246)
     "Mining Light"                                                         "1"
     "Camera Beard"                                                         "1"
     "Web Easteregg Medal"                                                  "1"
@@ -2151,6 +2150,7 @@
     "Jungle Booty"                                                         "1"
     "Orion's Belt"                                                         "1"
     "The Tomb Readers"                                                     "1"
+    "Brimstone"                                                            "1"
     "dec2014 Truands Tunic"                                                "1"
     "dec2014 Fools Footwear"                                               "1"
     "dec2014 Pyromancer's Raiments"                                        "1"
