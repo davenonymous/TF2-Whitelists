@@ -15,6 +15,7 @@
 //
 // Blocked weapons for Support classes:
 //  - Darwin's Danger Shield
+//  - The Bazaar Bargain
 //  - The Enforcer
 //  - The Diamondback
 //  - The Short Circuit
@@ -42,7 +43,7 @@
 {
     "unlisted_items_default_to"                                            "0"
 
-    // Allowed Weapons: (Total: 116)
+    // Allowed Weapons: (Total: 115)
     "The Kritzkrieg"                                                       "1"
     "The Blutsauger"                                                       "1"
     "The Ubersaw"                                                          "1"
@@ -111,7 +112,6 @@
     "Conniver's Kunai"                                                     "1"
     "The Half-Zatoichi"                                                    "1"
     "The Shahanshah"                                                       "1"
-    "The Bazaar Bargain"                                                   "1"
     "The Persian Persuader"                                                "1"
     "Ali Baba's Wee Booties"                                               "1"
     "The Splendid Screen"                                                  "1"
@@ -369,10 +369,11 @@
     "Festive SMG 2014"                                                     "1"
     "The Nostromo Napalmer"                                                "1"
 
-    // Blocked Weapons: (Total: 28)
+    // Blocked Weapons: (Total: 29)
     "Crit-a-Cola"                                                          "0"
     "The Vita-Saw"                                                         "0"
     "Darwin's Danger Shield"                                               "0"
+    "The Bazaar Bargain"                                                   "0"
     "The Reserve Shooter"                                                  "0"
     "The Enforcer"                                                         "0"
     "The Diamondback"                                                      "0"
