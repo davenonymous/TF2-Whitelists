@@ -1,4 +1,4 @@
-// ETF2L Highlander Season 6
+// ETF2L Experimental HL Cup
 //
 // Blocked weapons for Main classes:
 //  - Crit-a-Cola
