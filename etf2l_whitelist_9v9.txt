@@ -32,6 +32,7 @@
 //  - Powerup Warlock
 //  - Powerup Precision
 //  - Powerup Agility
+//  - Powerup Knockout
 //
 // Weapon sets are:     banned
 // Weapon skins are:    allowed
@@ -369,7 +370,7 @@
     "Festive SMG 2014"                                                     "1"
     "The Nostromo Napalmer"                                                "1"
 
-    // Blocked Weapons: (Total: 29)
+    // Blocked Weapons: (Total: 30)
     "Crit-a-Cola"                                                          "0"
     "The Vita-Saw"                                                         "0"
     "Darwin's Danger Shield"                                               "0"
@@ -399,6 +400,7 @@
     "Powerup Precision"                                                    "0"
     "Powerup Agility"                                                      "0"
     "Panic Attack Shotgun"                                                 "0"
+    "Powerup Knockout"                                                     "0"
 
     // Blocked Items: (Total: 27)
     "High Five Taunt"                                                      "0"
@@ -965,7 +967,7 @@
     "dec2014 Surgeon's Shako"                                              "1"
     "dec2014 Comforter"                                                    "1"
 
-    // Misc Items: (Total: 1266)
+    // Misc Items: (Total: 1271)
     "Mining Light"                                                         "1"
     "Camera Beard"                                                         "1"
     "Web Easteregg Medal"                                                  "1"
@@ -1912,6 +1914,11 @@
     "OWL 12 Division 5 Second Place"                                       "1"
     "OWL 12 Division 5 Third Place"                                        "1"
     "OWL 12 Division 5 Participant"                                        "1"
+    "OSL.tf First Place Cup #1"                                            "1"
+    "OSL.tf Second Place Cup #1"                                           "1"
+    "OSL.tf Third Place Cup #1"                                            "1"
+    "OSL.tf Participant Cup #1"                                            "1"
+    "Florida LAN Medal 2015"                                               "1"
     "Glitched Circuit Board"                                               "1"
     "The Electric Badge-aloo"                                              "1"
     "The Megapixel Beard"                                                  "1"
@@ -2233,7 +2240,7 @@
     "dec2014 Pocket Momma"                                                 "1"
     "The Pocket Raiders"                                                   "1"
 
-    // Action Items: (Total: 50)
+    // Action Items: (Total: 53)
     "Gift - 1 Player"                                                      "1"
     "Gift - 24 Players"                                                    "1"
     "Duel MiniGame"                                                        "1"
@@ -2284,6 +2291,9 @@
     "Battery Canteens"                                                     "1"
     "Kritz Or Treat Canteen"                                               "1"
     "Pool Party Taunt"                                                     "1"
+    "Taunt: The Boston Breakdance"                                         "1"
+    "Taunt: The Killer Solo"                                               "1"
+    "Taunt: Most Wanted"                                                   "1"
 
     // Noise Maker: (Total: 14)
     "Halloween Noise Maker - Black Cat"                                    "0"

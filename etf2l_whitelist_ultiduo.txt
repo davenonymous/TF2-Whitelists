@@ -204,7 +204,7 @@
     "Festive SMG 2014"                                                     "1"
     "The Nostromo Napalmer"                                                "1"
 
-    // Blocked Weapons: (Total: 170)
+    // Blocked Weapons: (Total: 171)
     "The Kritzkrieg"                                                       "0"
     "The Axtinguisher"                                                     "0"
     "The Flare Gun"                                                        "0"
@@ -375,6 +375,7 @@
     "The Quickiebomb Launcher"                                             "0"
     "The Iron Bomber"                                                      "0"
     "Panic Attack Shotgun"                                                 "0"
+    "Powerup Knockout"                                                     "0"
 
     // Blocked Items: (Total: 11)
     "High Five Taunt"                                                      "0"
@@ -925,7 +926,7 @@
     "dec2014 Surgeon's Shako"                                              "1"
     "dec2014 Comforter"                                                    "1"
 
-    // Misc Items: (Total: 1266)
+    // Misc Items: (Total: 1271)
     "Mining Light"                                                         "1"
     "Camera Beard"                                                         "1"
     "Web Easteregg Medal"                                                  "1"
@@ -1872,6 +1873,11 @@
     "OWL 12 Division 5 Second Place"                                       "1"
     "OWL 12 Division 5 Third Place"                                        "1"
     "OWL 12 Division 5 Participant"                                        "1"
+    "OSL.tf First Place Cup #1"                                            "1"
+    "OSL.tf Second Place Cup #1"                                           "1"
+    "OSL.tf Third Place Cup #1"                                            "1"
+    "OSL.tf Participant Cup #1"                                            "1"
+    "Florida LAN Medal 2015"                                               "1"
     "Glitched Circuit Board"                                               "1"
     "The Electric Badge-aloo"                                              "1"
     "The Megapixel Beard"                                                  "1"
@@ -2193,7 +2199,7 @@
     "dec2014 Pocket Momma"                                                 "1"
     "The Pocket Raiders"                                                   "1"
 
-    // Action Items: (Total: 66)
+    // Action Items: (Total: 69)
     "Gift - 1 Player"                                                      "1"
     "Gift - 24 Players"                                                    "1"
     "Duel MiniGame"                                                        "1"
@@ -2260,6 +2266,9 @@
     "Battery Canteens"                                                     "1"
     "Kritz Or Treat Canteen"                                               "1"
     "Pool Party Taunt"                                                     "1"
+    "Taunt: The Boston Breakdance"                                         "1"
+    "Taunt: The Killer Solo"                                               "1"
+    "Taunt: Most Wanted"                                                   "1"
 
     // Noise Maker: (Total: 14)
     "Halloween Noise Maker - Black Cat"                                    "0"
