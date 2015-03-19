@@ -1,14 +1,11 @@
-// ETF2L Experimental HL Cup
+// ETF2L HL Season 8
 //
 // Blocked weapons for Main classes:
 //  - Crit-a-Cola
 //  - The Vita-Saw
 //  - The Reserve Shooter
-//  - The Beggar's Bazooka
 //  - Baby Face's Blaster
 //  - Pretty Boy's Pocket Pistol
-//  - The Flying Guillotine
-//  - Promo Flying Guillotine
 //  - Deflector
 //  - The B.A.S.E. Jumper
 //  - Panic Attack Shotgun
@@ -44,7 +41,7 @@
 {
     "unlisted_items_default_to"                                            "0"
 
-    // Allowed Weapons: (Total: 115)
+    // Allowed Weapons: (Total: 117)
     "The Kritzkrieg"                                                       "1"
     "The Blutsauger"                                                       "1"
     "The Ubersaw"                                                          "1"
@@ -142,11 +139,13 @@
     "The Wrap Assassin"                                                    "1"
     "The Spy-cicle"                                                        "1"
     "The Holiday Punch"                                                    "1"
+    "The Beggar's Bazooka"                                                 "1"
     "The Scorch Shot"                                                      "1"
     "The Cleaner's Carbine"                                                "1"
     "The Hitman's Heatmaker"                                               "1"
     "The Escape Plan"                                                      "1"
     "The Huo Long Heatmaker"                                               "1"
+    "The Flying Guillotine"                                                "1"
     "The Neon Annihilator"                                                 "1"
     "The Robo-Sandvich"                                                    "1"
     "The Loose Cannon"                                                     "1"
@@ -221,7 +220,7 @@
     "Upgradeable TF_WEAPON_BUILDER_SPY"                                    "1"
     "Upgradeable TF_WEAPON_PDA_ENGINEER_BUILD"                             "1"
 
-    // Weapon Skins: (Total: 147)
+    // Weapon Skins: (Total: 148)
     "TTG Max Pistol"                                                       "1"
     "TTG Sam Revolver"                                                     "1"
     "Golden Wrench"                                                        "1"
@@ -275,6 +274,7 @@
     "Gold Botkiller Scattergun Mk.I"                                       "1"
     "Gold Botkiller Rocket Launcher Mk.I"                                  "1"
     "Promo Huo Long Heatmaker"                                             "1"
+    "Promo Flying Guillotine"                                              "1"
     "Promo Neon Annihilator"                                               "1"
     "The AWPer Hand"                                                       "1"
     "The Freedom Staff"                                                    "1"
@@ -370,7 +370,7 @@
     "Festive SMG 2014"                                                     "1"
     "The Nostromo Napalmer"                                                "1"
 
-    // Blocked Weapons: (Total: 30)
+    // Blocked Weapons: (Total: 27)
     "Crit-a-Cola"                                                          "0"
     "The Vita-Saw"                                                         "0"
     "Darwin's Danger Shield"                                               "0"
@@ -380,15 +380,12 @@
     "The Diamondback"                                                      "0"
     "The Short Circuit"                                                    "0"
     "The Pomson 6000"                                                      "0"
-    "The Beggar's Bazooka"                                                 "0"
     "The Lollichop"                                                        "0"
     "The Rainblower"                                                       "0"
     "Baby Face's Blaster"                                                  "0"
     "Pretty Boy's Pocket Pistol"                                           "0"
     "The Red-Tape Recorder"                                                "0"
-    "The Flying Guillotine"                                                "0"
     "Promo Red-Tape Recorder"                                              "0"
-    "Promo Flying Guillotine"                                              "0"
     "Deflector"                                                            "0"
     "The B.A.S.E. Jumper"                                                  "0"
     "Powerup Strength"                                                     "0"
@@ -402,9 +399,8 @@
     "Panic Attack Shotgun"                                                 "0"
     "Powerup Knockout"                                                     "0"
 
-    // Blocked Items: (Total: 27)
+    // Blocked Items: (Total: 18)
     "High Five Taunt"                                                      "0"
-    "Meet the Medic Heroic Taunt"                                          "0"
     "Bombinomicon"                                                         "0"
     "The Jingle Belt"                                                      "0"
     "The Bootie Time"                                                      "0"
@@ -417,19 +413,11 @@
     "Pet Reindoonicorn"                                                    "0"
     "Square Dance Taunt"                                                   "0"
     "Flippin' Awesome Taunt"                                               "0"
-    "Buy A Life Taunt"                                                     "0"
-    "Results Are In Taunt"                                                 "0"
     "RPS Taunt"                                                            "0"
     "Skullcracker Taunt"                                                   "0"
-    "Party Trick Taunt"                                                    "0"
-    "Fresh Brewed Victory Taunt"                                           "0"
-    "Spent Well Spirits Taunt"                                             "0"
     "Rancho Relaxo Taunt"                                                  "0"
-    "I See You Taunt"                                                      "0"
-    "Battin' a Thousand Taunt"                                             "0"
     "Conga Taunt"                                                          "0"
-    "Deep Fried Desire Taunt"                                              "0"
-    "Oblooterated Taunt"                                                   "0"
+    "Pool Party Taunt"                                                     "0"
 
     // Allowed Hats: (Total: 534)
     "Demoman's Fro"                                                        "1"
@@ -2298,12 +2286,13 @@
     "dec2014 Pocket Momma"                                                 "1"
     "The Pocket Raiders"                                                   "1"
 
-    // Action Items: (Total: 53)
+    // Action Items: (Total: 62)
     "Gift - 1 Player"                                                      "1"
     "Gift - 24 Players"                                                    "1"
     "Duel MiniGame"                                                        "1"
     "Replay Taunt"                                                         "1"
     "Laugh Taunt"                                                          "1"
+    "Meet the Medic Heroic Taunt"                                          "1"
     "Power Up Canteen (MvM)"                                               "1"
     "Halloween Giveaway Package 2011 (Cauldron)"                           "1"
     "Manniversary Giveaway Package"                                        "1"
@@ -2317,6 +2306,15 @@
     "Pallet of Crates"                                                     "1"
     "Halloween Spellbook"                                                  "1"
     "Basic Spellbook"                                                      "1"
+    "Buy A Life Taunt"                                                     "1"
+    "Results Are In Taunt"                                                 "1"
+    "Party Trick Taunt"                                                    "1"
+    "Fresh Brewed Victory Taunt"                                           "1"
+    "Spent Well Spirits Taunt"                                             "1"
+    "I See You Taunt"                                                      "1"
+    "Battin' a Thousand Taunt"                                             "1"
+    "Deep Fried Desire Taunt"                                              "1"
+    "Oblooterated Taunt"                                                   "1"
     "TF_WEAPON_SPELLBOOK"                                                  "1"
     "TF_WEAPON_GRAPPLINGHOOK"                                              "1"
     "Summer Starter Kit"                                                   "1"
@@ -2348,7 +2346,6 @@
     "Gift - 1 Duck Token"                                                  "1"
     "Battery Canteens"                                                     "1"
     "Kritz Or Treat Canteen"                                               "1"
-    "Pool Party Taunt"                                                     "1"
     "Taunt: The Boston Breakdance"                                         "1"
     "Taunt: The Killer Solo"                                               "1"
     "Taunt: Most Wanted"                                                   "1"
