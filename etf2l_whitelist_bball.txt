@@ -921,7 +921,7 @@
     "dec2014 Surgeon's Shako"                                              "1"
     "dec2014 Comforter"                                                    "1"
 
-    // Misc Items: (Total: 1329)
+    // Misc Items: (Total: 1333)
     "Mining Light"                                                         "1"
     "Camera Beard"                                                         "1"
     "Web Easteregg Medal"                                                  "1"
@@ -1931,6 +1931,10 @@
     "UGC 4vs4 Silver Participant Season 3"                                 "1"
     "UGC 4vs4 Steel Participant Season 3"                                  "1"
     "UGC 4vs4 Iron Participant Season 3"                                   "1"
+    "Gamers Assembly Gold Medal 2015"                                      "1"
+    "Gamers Assembly Silver Medal 2015"                                    "1"
+    "Gamers Assembly Bronze Medal 2015"                                    "1"
+    "Gamers Assembly Participant Badge 2015"                               "1"
     "Glitched Circuit Board"                                               "1"
     "The Electric Badge-aloo"                                              "1"
     "The Megapixel Beard"                                                  "1"
