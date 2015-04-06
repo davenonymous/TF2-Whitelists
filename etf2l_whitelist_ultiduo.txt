@@ -3,8 +3,10 @@
 // Allowed weapons for Main classes:
 //  - The Blutsauger
 //  - The Ubersaw
+//  - The Crusader's Crossbow
 //  - The Disciplinary Action
 //  - The Original
+//  - The Escape Plan
 //
 // Allowed weapons for Support classes:
 //   - None
@@ -19,11 +21,13 @@
 {
     "unlisted_items_default_to"                                            "0"
 
-    // Allowed Weapons: (Total: 4)
+    // Allowed Weapons: (Total: 6)
     "The Blutsauger"                                                       "1"
     "The Ubersaw"                                                          "1"
+    "The Crusader's Crossbow"                                              "1"
     "The Disciplinary Action"                                              "1"
     "The Original"                                                         "1"
+    "The Escape Plan"                                                      "1"
 
     // Default Weapons: (Total: 31)
     "TF_WEAPON_BAT"                                                        "1"
@@ -85,7 +89,7 @@
     "Upgradeable TF_WEAPON_BUILDER_SPY"                                    "1"
     "Upgradeable TF_WEAPON_PDA_ENGINEER_BUILD"                             "1"
 
-    // Weapon Skins: (Total: 117)
+    // Weapon Skins: (Total: 118)
     "TTG Max Pistol"                                                       "1"
     "TTG Sam Revolver"                                                     "1"
     "Golden Wrench"                                                        "1"
@@ -194,6 +198,7 @@
     "Festive Grenade Launcher"                                             "1"
     "The Ham Shank"                                                        "1"
     "Gold Frying Pan"                                                      "1"
+    "Festive Crusader's Crossbow"                                          "1"
     "Festive Sapper"                                                       "1"
     "The Snack Attack"                                                     "1"
     "Necro Smasher"                                                        "1"
@@ -204,7 +209,7 @@
     "Festive SMG 2014"                                                     "1"
     "The Nostromo Napalmer"                                                "1"
 
-    // Blocked Weapons: (Total: 171)
+    // Blocked Weapons: (Total: 168)
     "The Kritzkrieg"                                                       "0"
     "The Axtinguisher"                                                     "0"
     "The Flare Gun"                                                        "0"
@@ -255,7 +260,6 @@
     "Stickybomb Jumper"                                                    "0"
     "The Horseless Headless Horseman's Headtaker"                          "0"
     "The Amputator"                                                        "0"
-    "The Crusader's Crossbow"                                              "0"
     "The Ullapool Caber"                                                   "0"
     "The Loch-n-Load"                                                      "0"
     "Warrior's Spirit"                                                     "0"
@@ -324,7 +328,6 @@
     "The Hitman's Heatmaker"                                               "0"
     "Baby Face's Blaster"                                                  "0"
     "Pretty Boy's Pocket Pistol"                                           "0"
-    "The Escape Plan"                                                      "0"
     "The Red-Tape Recorder"                                                "0"
     "The Huo Long Heatmaker"                                               "0"
     "The Flying Guillotine"                                                "0"
@@ -345,7 +348,6 @@
     "Festive Huntsman"                                                     "0"
     "Festive Ambassador"                                                   "0"
     "Festive Force-a-Nature"                                               "0"
-    "Festive Crusader's Crossbow"                                          "0"
     "Festive Flare Gun"                                                    "0"
     "Festive Eyelander"                                                    "0"
     "Festive Jarate"                                                       "0"
@@ -377,8 +379,10 @@
     "Panic Attack Shotgun"                                                 "0"
     "Powerup Knockout"                                                     "0"
 
-    // Blocked Items: (Total: 11)
+    // Blocked Items: (Total: 31)
     "High Five Taunt"                                                      "0"
+    "Replay Taunt"                                                         "0"
+    "Laugh Taunt"                                                          "0"
     "Bombinomicon"                                                         "0"
     "The Jingle Belt"                                                      "0"
     "The Bootie Time"                                                      "0"
@@ -389,6 +393,24 @@
     "The Infernal Orchestrina"                                             "0"
     "The Burning Bongos"                                                   "0"
     "Pet Reindoonicorn"                                                    "0"
+    "The Shred Alert"                                                      "0"
+    "Square Dance Taunt"                                                   "0"
+    "Flippin' Awesome Taunt"                                               "0"
+    "Buy A Life Taunt"                                                     "0"
+    "RPS Taunt"                                                            "0"
+    "Skullcracker Taunt"                                                   "0"
+    "Party Trick Taunt"                                                    "0"
+    "Spent Well Spirits Taunt"                                             "0"
+    "Rancho Relaxo Taunt"                                                  "0"
+    "I See You Taunt"                                                      "0"
+    "Battin' a Thousand Taunt"                                             "0"
+    "Conga Taunt"                                                          "0"
+    "Deep Fried Desire Taunt"                                              "0"
+    "Oblooterated Taunt"                                                   "0"
+    "Pool Party Taunt"                                                     "0"
+    "Taunt: The Boston Breakdance"                                         "0"
+    "Taunt: The Killer Solo"                                               "0"
+    "Taunt: Most Wanted"                                                   "0"
 
     // Allowed Hats: (Total: 534)
     "Demoman's Fro"                                                        "1"
@@ -2261,12 +2283,10 @@
     "dec2014 Pocket Momma"                                                 "1"
     "The Pocket Raiders"                                                   "1"
 
-    // Action Items: (Total: 69)
+    // Action Items: (Total: 49)
     "Gift - 1 Player"                                                      "1"
     "Gift - 24 Players"                                                    "1"
     "Duel MiniGame"                                                        "1"
-    "Replay Taunt"                                                         "1"
-    "Laugh Taunt"                                                          "1"
     "Meet the Medic Heroic Taunt"                                          "1"
     "Power Up Canteen (MvM)"                                               "1"
     "Halloween Giveaway Package 2011 (Cauldron)"                           "1"
@@ -2276,26 +2296,12 @@
     "Companion Square Promo Package"                                       "1"
     "Steam Translation Package"                                            "1"
     "Portal 2 Soundtrack Promo Package"                                    "1"
-    "The Shred Alert"                                                      "1"
     "Random Droppable Paints Package"                                      "1"
     "Pallet of Crates"                                                     "1"
     "Halloween Spellbook"                                                  "1"
     "Basic Spellbook"                                                      "1"
-    "Square Dance Taunt"                                                   "1"
-    "Flippin' Awesome Taunt"                                               "1"
-    "Buy A Life Taunt"                                                     "1"
     "Results Are In Taunt"                                                 "1"
-    "RPS Taunt"                                                            "1"
-    "Skullcracker Taunt"                                                   "1"
-    "Party Trick Taunt"                                                    "1"
     "Fresh Brewed Victory Taunt"                                           "1"
-    "Spent Well Spirits Taunt"                                             "1"
-    "Rancho Relaxo Taunt"                                                  "1"
-    "I See You Taunt"                                                      "1"
-    "Battin' a Thousand Taunt"                                             "1"
-    "Conga Taunt"                                                          "1"
-    "Deep Fried Desire Taunt"                                              "1"
-    "Oblooterated Taunt"                                                   "1"
     "TF_WEAPON_SPELLBOOK"                                                  "1"
     "TF_WEAPON_GRAPPLINGHOOK"                                              "1"
     "Summer Starter Kit"                                                   "1"
@@ -2327,10 +2333,6 @@
     "Gift - 1 Duck Token"                                                  "1"
     "Battery Canteens"                                                     "1"
     "Kritz Or Treat Canteen"                                               "1"
-    "Pool Party Taunt"                                                     "1"
-    "Taunt: The Boston Breakdance"                                         "1"
-    "Taunt: The Killer Solo"                                               "1"
-    "Taunt: Most Wanted"                                                   "1"
 
     // Noise Maker: (Total: 14)
     "Halloween Noise Maker - Black Cat"                                    "0"
