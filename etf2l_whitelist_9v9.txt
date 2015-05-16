@@ -3,10 +3,10 @@
 // Blocked weapons for Main classes:
 //  - Crit-a-Cola
 //  - The Vita-Saw
+//  - The Reserve Shooter
 //  - Baby Face's Blaster
 //  - Pretty Boy's Pocket Pistol
 //  - Deflector
-//  - Panic Attack Shotgun
 //
 // Blocked weapons for Support classes:
 //  - Darwin's Danger Shield
@@ -115,7 +115,6 @@
     "The Overdose"                                                         "1"
     "The Solemn Vow"                                                       "1"
     "The Liberty Launcher"                                                 "1"
-    "The Reserve Shooter"                                                  "1"
     "The Market Gardener"                                                  "1"
     "Tomislav"                                                             "1"
     "The Family Business"                                                  "1"
@@ -159,6 +158,7 @@
     "The Air Strike"                                                       "1"
     "The Quickiebomb Launcher"                                             "1"
     "The Iron Bomber"                                                      "1"
+    "Panic Attack Shotgun"                                                 "1"
 
     // Default Weapons: (Total: 31)
     "TF_WEAPON_BAT"                                                        "1"
@@ -375,6 +375,7 @@
     "The Vita-Saw"                                                         "0"
     "Darwin's Danger Shield"                                               "0"
     "The Bazaar Bargain"                                                   "0"
+    "The Reserve Shooter"                                                  "0"
     "The Enforcer"                                                         "0"
     "The Diamondback"                                                      "0"
     "The Short Circuit"                                                    "0"
@@ -394,7 +395,6 @@
     "Powerup Warlock"                                                      "0"
     "Powerup Precision"                                                    "0"
     "Powerup Agility"                                                      "0"
-    "Panic Attack Shotgun"                                                 "0"
     "Powerup Knockout"                                                     "0"
 
     // Blocked Items: (Total: 18)
