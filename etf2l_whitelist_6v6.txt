@@ -442,6 +442,9 @@
     "Panic Attack Shotgun"                                                 "0"
     "Powerup Knockout"                                                     "0"
 
+    // Blocked Items: (Total: 1)
+    "Pyrovision Goggles"                                                   "0"
+
     // Allowed Hats: (Total: 534)
     "Demoman's Fro"                                                        "1"
     "Football Helmet"                                                      "1"
@@ -978,7 +981,7 @@
     "dec2014 Surgeon's Shako"                                              "1"
     "dec2014 Comforter"                                                    "1"
 
-    // Misc Items: (Total: 1385)
+    // Misc Items: (Total: 1384)
     "Mining Light"                                                         "1"
     "Camera Beard"                                                         "1"
     "Web Easteregg Medal"                                                  "1"
@@ -1138,7 +1141,6 @@
     "The Teufort Tooth Kicker"                                             "1"
     "Pet Balloonicorn"                                                     "1"
     "Autogrant Pyrovision Goggles"                                         "1"
-    "Pyrovision Goggles"                                                   "1"
     "The Infernal Orchestrina"                                             "1"
     "The Burning Bongos"                                                   "1"
     "The Scrap Pack"                                                       "1"
