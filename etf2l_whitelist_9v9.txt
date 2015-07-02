@@ -7,27 +7,111 @@
 //  - Baby Face's Blaster
 //  - Pretty Boy's Pocket Pistol
 //  - Deflector
+//  - concealedkiller_scattergun_nightterror
+//  - concealedkiller_shotgun_backwoodsboomstick
+//  - concealedkiller_minigun_kingofthejungle
+//  - concealedkiller_rocketlauncher_woodlandwarrior
+//  - concealedkiller_medigun_maskedmender
+//  - concealedkiller_stickybomblauncher_suddenflurry
+//  - concealedkiller_medigun_wrappedreviver
+//  - concealedkiller_stickybomblauncher_carpetbomber
+//  - concealedkiller_pistol_redrockroscoe
+//  - concealedkiller_rocketlauncher_sandcannon
+//  - craftsmann_scattergun_tartantorpedo
+//  - craftsmann_shotgun_rusticruiner
+//  - craftsmann_pistol_homemadeheater
+//  - craftsmann_minigun_ironwood
+//  - craftsmann_scattergun_countrycrusher
+//  - craftsmann_stickybomblauncher_blastedbombardier
+//  - craftsmann_medigun_reclaimedreanimator
+//  - craftsmann_minigun_antiqueannihilator
+//  - craftsmann_rocketlauncher_americanpastoral
+//  - craftsmann_scattergun_backcountryblaster
+//  - teufort_minigun_warroom
+//  - teufort_pistol_hickoryholepuncher
+//  - teufort_scattergun_sprucedeuce
+//  - teufort_stickybomblauncher_rooftopwrangler
+//  - teufort_medigun_civilservant
+//  - teufort_minigun_citizenpain
+//  - teufort_pistol_localhero
+//  - teufort_rocketlauncher_smalltownbringdown
+//  - teufort_shotgun_civicduty
+//  - powerhouse_stickybomblauncher_liquidasset
+//  - powerhouse_pistol_blackdahlia
+//  - powerhouse_shotgun_lightningrod
+//  - powerhouse_stickybomblauncher_pinkelephant
+//  - powerhouse_medigun_sparkoflife
+//  - powerhouse_rocketlauncher_shellshocker
+//  - powerhouse_scattergun_currentevent
+//  - powerhouse_minigun_brickhouse
+//  - powerhouse_pistol_sandstonespecial
+//  - powerhouse_rocketlauncher_aquamarine
+//  - template_civilian_medigun
+//  - template_civilian_minigun
+//  - template_civilian_pistol
+//  - template_civilian_rocketlauncher
+//  - template_civilian_scattergun
+//  - template_civilian_shotgun
+//  - template_civilian_stickybomb_launcher
+//  - template_commando_medigun
+//  - template_commando_minigun
+//  - template_commando_pistol
+//  - template_commando_rocketlauncher
+//  - template_commando_scattergun
+//  - template_commando_shotgun
+//  - template_commando_stickybomb_launcher
+//  - template_elite_medigun
+//  - template_elite_minigun
+//  - template_elite_pistol
+//  - template_elite_rocketlauncher
+//  - template_elite_scattergun
+//  - template_elite_shotgun
+//  - template_elite_stickybomb_launcher
 //
-// Blocked weapons for Support classes:
-//  - Darwin's Danger Shield
-//  - The Bazaar Bargain
-//  - The Enforcer
-//  - The Diamondback
-//  - The Short Circuit
-//  - The Pomson 6000
-//  - The Lollichop
-//  - The Rainblower
-//  - The Red-Tape Recorder
-//  - Promo Red-Tape Recorder
-//  - Powerup Strength
-//  - Powerup Haste
-//  - Powerup Regen
-//  - Powerup Resist
-//  - Powerup Vampire
-//  - Powerup Warlock
-//  - Powerup Precision
-//  - Powerup Agility
-//  - Powerup Knockout
+// Allowed weapons for Support classes:
+//  - The Axtinguisher
+//  - The Flare Gun
+//  - The Backburner
+//  - The Huntsman
+//  - The Razorback
+//  - Jarate
+//  - The Dead Ringer
+//  - The Cloak and Dagger
+//  - The Ambassador
+//  - The Wrangler
+//  - The Frontier Justice
+//  - The Gunslinger
+//  - The Homewrecker
+//  - The Southern Hospitality
+//  - The Tribalman's Shiv
+//  - The Powerjack
+//  - The Degreaser
+//  - L'Etranger
+//  - Your Eternal Reward
+//  - The Sydney Sleeper
+//  - The Bushwacka
+//  - The Back Scratcher
+//  - The Jag
+//  - Sharpened Volcano Fragment
+//  - The Detonator
+//  - Conniver's Kunai
+//  - The Shahanshah
+//  - The Big Earner
+//  - The Machina
+//  - The Widowmaker
+//  - The Eureka Effect
+//  - The Third Degree
+//  - The Phlogistinator
+//  - The Manmelter
+//  - The Cozy Camper
+//  - The Spy-cicle
+//  - The Scorch Shot
+//  - The Cleaner's Carbine
+//  - The Hitman's Heatmaker
+//  - The Neon Annihilator
+//  - The Rescue Ranger
+//  - Festive Jarate
+//  - The Classic
 //
 // Weapon sets are:     banned
 // Weapon skins are:    allowed
@@ -370,7 +454,7 @@
     "Festive SMG 2014"                                                     "1"
     "The Nostromo Napalmer"                                                "1"
 
-    // Blocked Weapons: (Total: 25)
+    // Blocked Weapons: (Total: 118)
     "Crit-a-Cola"                                                          "0"
     "The Vita-Saw"                                                         "0"
     "Darwin's Danger Shield"                                               "0"
@@ -396,6 +480,99 @@
     "Powerup Precision"                                                    "0"
     "Powerup Agility"                                                      "0"
     "Powerup Knockout"                                                     "0"
+    "concealedkiller_sniperrifle_nightowl"                                 "0"
+    "concealedkiller_smg_woodsywidowmaker"                                 "0"
+    "concealedkiller_scattergun_nightterror"                               "0"
+    "concealedkiller_shotgun_backwoodsboomstick"                           "0"
+    "concealedkiller_minigun_kingofthejungle"                              "0"
+    "concealedkiller_flamethrower_forestfire"                              "0"
+    "concealedkiller_rocketlauncher_woodlandwarrior"                       "0"
+    "concealedkiller_sniperrifle_purplerange"                              "0"
+    "concealedkiller_medigun_maskedmender"                                 "0"
+    "concealedkiller_stickybomblauncher_suddenflurry"                      "0"
+    "concealedkiller_medigun_wrappedreviver"                               "0"
+    "concealedkiller_revolver_psychedelicslugger"                          "0"
+    "concealedkiller_stickybomblauncher_carpetbomber"                      "0"
+    "concealedkiller_pistol_redrockroscoe"                                 "0"
+    "concealedkiller_rocketlauncher_sandcannon"                            "0"
+    "craftsmann_scattergun_tartantorpedo"                                  "0"
+    "craftsmann_shotgun_rusticruiner"                                      "0"
+    "craftsmann_flamethrower_barnburner"                                   "0"
+    "craftsmann_pistol_homemadeheater"                                     "0"
+    "craftsmann_sniperrifle_lumberfromdownunder"                           "0"
+    "craftsmann_minigun_ironwood"                                          "0"
+    "craftsmann_scattergun_countrycrusher"                                 "0"
+    "craftsmann_smg_plaidpotshotter"                                       "0"
+    "craftsmann_sniperrifle_shotinthedark"                                 "0"
+    "craftsmann_stickybomblauncher_blastedbombardier"                      "0"
+    "craftsmann_medigun_reclaimedreanimator"                               "0"
+    "craftsmann_minigun_antiqueannihilator"                                "0"
+    "craftsmann_revolver_oldcountry"                                       "0"
+    "craftsmann_rocketlauncher_americanpastoral"                           "0"
+    "craftsmann_scattergun_backcountryblaster"                             "0"
+    "teufort_flamethrower_bovineblazemaker"                                "0"
+    "teufort_minigun_warroom"                                              "0"
+    "teufort_smg_treadplatetormenter"                                      "0"
+    "teufort_sniperrifle_bogtrotter"                                       "0"
+    "teufort_flamethrower_earthskyandfire"                                 "0"
+    "teufort_pistol_hickoryholepuncher"                                    "0"
+    "teufort_scattergun_sprucedeuce"                                       "0"
+    "teufort_smg_teamsprayer"                                              "0"
+    "teufort_stickybomblauncher_rooftopwrangler"                           "0"
+    "teufort_medigun_civilservant"                                         "0"
+    "teufort_minigun_citizenpain"                                          "0"
+    "teufort_pistol_localhero"                                             "0"
+    "teufort_revolver_mayor"                                               "0"
+    "teufort_rocketlauncher_smalltownbringdown"                            "0"
+    "teufort_shotgun_civicduty"                                            "0"
+    "powerhouse_stickybomblauncher_liquidasset"                            "0"
+    "powerhouse_pistol_blackdahlia"                                        "0"
+    "powerhouse_shotgun_lightningrod"                                      "0"
+    "powerhouse_stickybomblauncher_pinkelephant"                           "0"
+    "powerhouse_flamethrower_flashfryer"                                   "0"
+    "powerhouse_medigun_sparkoflife"                                       "0"
+    "powerhouse_revolver_deadreckoner"                                     "0"
+    "powerhouse_rocketlauncher_shellshocker"                               "0"
+    "powerhouse_scattergun_currentevent"                                   "0"
+    "powerhouse_flamethrower_turbinetorcher"                               "0"
+    "powerhouse_minigun_brickhouse"                                        "0"
+    "powerhouse_pistol_sandstonespecial"                                   "0"
+    "powerhouse_rocketlauncher_aquamarine"                                 "0"
+    "powerhouse_smg_lowprofile"                                            "0"
+    "powerhouse_sniperrifle_thunderbolt"                                   "0"
+    "template_civilian_flamethrower"                                       "0"
+    "template_civilian_medigun"                                            "0"
+    "template_civilian_minigun"                                            "0"
+    "template_civilian_pistol"                                             "0"
+    "template_civilian_revolver"                                           "0"
+    "template_civilian_rocketlauncher"                                     "0"
+    "template_civilian_scattergun"                                         "0"
+    "template_civilian_shotgun"                                            "0"
+    "template_civilian_sniperrifle"                                        "0"
+    "template_civilian_smg"                                                "0"
+    "template_civilian_stickybomb_launcher"                                "0"
+    "template_commando_flamethrower"                                       "0"
+    "template_commando_medigun"                                            "0"
+    "template_commando_minigun"                                            "0"
+    "template_commando_pistol"                                             "0"
+    "template_commando_revolver"                                           "0"
+    "template_commando_rocketlauncher"                                     "0"
+    "template_commando_scattergun"                                         "0"
+    "template_commando_shotgun"                                            "0"
+    "template_commando_sniperrifle"                                        "0"
+    "template_commando_smg"                                                "0"
+    "template_commando_stickybomb_launcher"                                "0"
+    "template_elite_flamethrower"                                          "0"
+    "template_elite_medigun"                                               "0"
+    "template_elite_minigun"                                               "0"
+    "template_elite_pistol"                                                "0"
+    "template_elite_revolver"                                              "0"
+    "template_elite_rocketlauncher"                                        "0"
+    "template_elite_scattergun"                                            "0"
+    "template_elite_shotgun"                                               "0"
+    "template_elite_sniperrifle"                                           "0"
+    "template_elite_smg"                                                   "0"
+    "template_elite_stickybomb_launcher"                                   "0"
 
     // Blocked Items: (Total: 18)
     "High Five Taunt"                                                      "0"
@@ -2363,7 +2540,7 @@
     "dec2014 Pocket Momma"                                                 "1"
     "The Pocket Raiders"                                                   "1"
 
-    // Action Items: (Total: 62)
+    // Action Items: (Total: 65)
     "Gift - 1 Player"                                                      "1"
     "Gift - 24 Players"                                                    "1"
     "Duel MiniGame"                                                        "1"
@@ -2394,6 +2571,7 @@
     "Oblooterated Taunt"                                                   "1"
     "TF_WEAPON_SPELLBOOK"                                                  "1"
     "TF_WEAPON_GRAPPLINGHOOK"                                              "1"
+    "Taunt: Kazotsky Kick"                                                 "1"
     "Summer Starter Kit"                                                   "1"
     "Summer Adventure Pack"                                                "1"
     "Secret Diary"                                                         "1"
@@ -2426,6 +2604,8 @@
     "Taunt: The Boston Breakdance"                                         "1"
     "Taunt: The Killer Solo"                                               "1"
     "Taunt: Most Wanted"                                                   "1"
+    "Taunt: The Boxtrot"                                                   "1"
+    "Taunt: The Proletariat Showoff"                                       "1"
 
     // Noise Maker: (Total: 14)
     "Halloween Noise Maker - Black Cat"                                    "0"
