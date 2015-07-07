@@ -46,72 +46,48 @@
 //  - powerhouse_minigun_brickhouse
 //  - powerhouse_pistol_sandstonespecial
 //  - powerhouse_rocketlauncher_aquamarine
-//  - template_civilian_medigun
-//  - template_civilian_minigun
-//  - template_civilian_pistol
-//  - template_civilian_rocketlauncher
-//  - template_civilian_scattergun
-//  - template_civilian_shotgun
-//  - template_civilian_stickybomb_launcher
-//  - template_commando_medigun
-//  - template_commando_minigun
-//  - template_commando_pistol
-//  - template_commando_rocketlauncher
-//  - template_commando_scattergun
-//  - template_commando_shotgun
-//  - template_commando_stickybomb_launcher
-//  - template_elite_medigun
-//  - template_elite_minigun
-//  - template_elite_pistol
-//  - template_elite_rocketlauncher
-//  - template_elite_scattergun
-//  - template_elite_shotgun
-//  - template_elite_stickybomb_launcher
 //
-// Allowed weapons for Support classes:
-//  - The Axtinguisher
-//  - The Flare Gun
-//  - The Backburner
-//  - The Huntsman
-//  - The Razorback
-//  - Jarate
-//  - The Dead Ringer
-//  - The Cloak and Dagger
-//  - The Ambassador
-//  - The Wrangler
-//  - The Frontier Justice
-//  - The Gunslinger
-//  - The Homewrecker
-//  - The Southern Hospitality
-//  - The Tribalman's Shiv
-//  - The Powerjack
-//  - The Degreaser
-//  - L'Etranger
-//  - Your Eternal Reward
-//  - The Sydney Sleeper
-//  - The Bushwacka
-//  - The Back Scratcher
-//  - The Jag
-//  - Sharpened Volcano Fragment
-//  - The Detonator
-//  - Conniver's Kunai
-//  - The Shahanshah
-//  - The Big Earner
-//  - The Machina
-//  - The Widowmaker
-//  - The Eureka Effect
-//  - The Third Degree
-//  - The Phlogistinator
-//  - The Manmelter
-//  - The Cozy Camper
-//  - The Spy-cicle
-//  - The Scorch Shot
-//  - The Cleaner's Carbine
-//  - The Hitman's Heatmaker
-//  - The Neon Annihilator
-//  - The Rescue Ranger
-//  - Festive Jarate
-//  - The Classic
+// Blocked weapons for Support classes:
+//  - Darwin's Danger Shield
+//  - The Bazaar Bargain
+//  - The Enforcer
+//  - The Diamondback
+//  - The Short Circuit
+//  - The Pomson 6000
+//  - The Lollichop
+//  - The Rainblower
+//  - The Red-Tape Recorder
+//  - Promo Red-Tape Recorder
+//  - Powerup Strength
+//  - Powerup Haste
+//  - Powerup Regen
+//  - Powerup Resist
+//  - Powerup Vampire
+//  - Powerup Warlock
+//  - Powerup Precision
+//  - Powerup Agility
+//  - Powerup Knockout
+//  - concealedkiller_sniperrifle_nightowl
+//  - concealedkiller_smg_woodsywidowmaker
+//  - concealedkiller_flamethrower_forestfire
+//  - concealedkiller_sniperrifle_purplerange
+//  - concealedkiller_revolver_psychedelicslugger
+//  - craftsmann_flamethrower_barnburner
+//  - craftsmann_sniperrifle_lumberfromdownunder
+//  - craftsmann_smg_plaidpotshotter
+//  - craftsmann_sniperrifle_shotinthedark
+//  - craftsmann_revolver_oldcountry
+//  - teufort_flamethrower_bovineblazemaker
+//  - teufort_smg_treadplatetormenter
+//  - teufort_sniperrifle_bogtrotter
+//  - teufort_flamethrower_earthskyandfire
+//  - teufort_smg_teamsprayer
+//  - teufort_revolver_mayor
+//  - powerhouse_flamethrower_flashfryer
+//  - powerhouse_revolver_deadreckoner
+//  - powerhouse_flamethrower_turbinetorcher
+//  - powerhouse_smg_lowprofile
+//  - powerhouse_sniperrifle_thunderbolt
 //
 // Weapon sets are:     banned
 // Weapon skins are:    allowed
@@ -454,7 +430,7 @@
     "Festive SMG 2014"                                                     "1"
     "The Nostromo Napalmer"                                                "1"
 
-    // Blocked Weapons: (Total: 118)
+    // Blocked Weapons: (Total: 85)
     "Crit-a-Cola"                                                          "0"
     "The Vita-Saw"                                                         "0"
     "Darwin's Danger Shield"                                               "0"
@@ -540,39 +516,6 @@
     "powerhouse_rocketlauncher_aquamarine"                                 "0"
     "powerhouse_smg_lowprofile"                                            "0"
     "powerhouse_sniperrifle_thunderbolt"                                   "0"
-    "template_civilian_flamethrower"                                       "0"
-    "template_civilian_medigun"                                            "0"
-    "template_civilian_minigun"                                            "0"
-    "template_civilian_pistol"                                             "0"
-    "template_civilian_revolver"                                           "0"
-    "template_civilian_rocketlauncher"                                     "0"
-    "template_civilian_scattergun"                                         "0"
-    "template_civilian_shotgun"                                            "0"
-    "template_civilian_sniperrifle"                                        "0"
-    "template_civilian_smg"                                                "0"
-    "template_civilian_stickybomb_launcher"                                "0"
-    "template_commando_flamethrower"                                       "0"
-    "template_commando_medigun"                                            "0"
-    "template_commando_minigun"                                            "0"
-    "template_commando_pistol"                                             "0"
-    "template_commando_revolver"                                           "0"
-    "template_commando_rocketlauncher"                                     "0"
-    "template_commando_scattergun"                                         "0"
-    "template_commando_shotgun"                                            "0"
-    "template_commando_sniperrifle"                                        "0"
-    "template_commando_smg"                                                "0"
-    "template_commando_stickybomb_launcher"                                "0"
-    "template_elite_flamethrower"                                          "0"
-    "template_elite_medigun"                                               "0"
-    "template_elite_minigun"                                               "0"
-    "template_elite_pistol"                                                "0"
-    "template_elite_revolver"                                              "0"
-    "template_elite_rocketlauncher"                                        "0"
-    "template_elite_scattergun"                                            "0"
-    "template_elite_shotgun"                                               "0"
-    "template_elite_sniperrifle"                                           "0"
-    "template_elite_smg"                                                   "0"
-    "template_elite_stickybomb_launcher"                                   "0"
 
     // Blocked Items: (Total: 18)
     "High Five Taunt"                                                      "0"
