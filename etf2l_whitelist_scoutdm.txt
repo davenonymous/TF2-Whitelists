@@ -970,7 +970,7 @@
     "dec2014 Surgeon's Shako"                                              "1"
     "dec2014 Comforter"                                                    "1"
 
-    // Misc Items: (Total: 1436)
+    // Misc Items: (Total: 1444)
     "Mining Light"                                                         "1"
     "Camera Beard"                                                         "1"
     "Web Easteregg Medal"                                                  "1"
@@ -2087,6 +2087,14 @@
     "ETF2L 6v6 Open Bronze Medal Season 21"                                "1"
     "ETF2L 6v6 Open Playoff Medal Season 21"                               "1"
     "ETF2L 6v6 Open Participation Medal Season 21"                         "1"
+    "Arms Race I 1st Place"                                                "1"
+    "Arms Race I 2nd Place"                                                "1"
+    "Arms Race I 3rd Place"                                                "1"
+    "Arms Race I Participant"                                              "1"
+    "Arms Race II 1st Place"                                               "1"
+    "Arms Race II 2nd Place"                                               "1"
+    "Arms Race II 3rd Place"                                               "1"
+    "Arms Race II Participant"                                             "1"
     "Glitched Circuit Board"                                               "1"
     "The Electric Badge-aloo"                                              "1"
     "The Megapixel Beard"                                                  "1"
