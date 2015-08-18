@@ -537,7 +537,7 @@
     "Conga Taunt"                                                          "0"
     "Pool Party Taunt"                                                     "0"
 
-    // Allowed Hats: (Total: 534)
+    // Allowed Hats: (Total: 535)
     "Demoman's Fro"                                                        "1"
     "Football Helmet"                                                      "1"
     "Prussian Pickelhaube"                                                 "1"
@@ -861,6 +861,7 @@
     "The Gilded Guard"                                                     "1"
     "The Dread Hiding Hood"                                                "1"
     "Towering Pillar of Summer Shades"                                     "1"
+    "The Finder's Fee"                                                     "1"
     "World Traveler"                                                       "1"
     "Modest Metal Pile of Scrap"                                           "1"
     "Letch's LED"                                                          "1"
