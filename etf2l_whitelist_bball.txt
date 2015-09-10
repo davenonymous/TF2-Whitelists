@@ -991,7 +991,7 @@
     "Potassium Bonnett"                                                    "1"
     "White Russian"                                                        "1"
 
-    // Misc Items: (Total: 1462)
+    // Misc Items: (Total: 1467)
     "Mining Light"                                                         "1"
     "Camera Beard"                                                         "1"
     "Web Easteregg Medal"                                                  "1"
@@ -2127,6 +2127,11 @@
     "OWL 14 Division 5 Second Place"                                       "1"
     "OWL 14 Division 5 Third Place"                                        "1"
     "OWL 14 Division 5 Participant"                                        "1"
+    "DeutschLAN 1st Place 2015"                                            "1"
+    "DeutschLAN 2nd Place 2015"                                            "1"
+    "DeutschLAN 3rd Place 2015"                                            "1"
+    "DeutschLAN Participant 2015"                                          "1"
+    "DeutschLAN Supporter 2015"                                            "1"
     "Glitched Circuit Board"                                               "1"
     "The Electric Badge-aloo"                                              "1"
     "The Megapixel Beard"                                                  "1"
