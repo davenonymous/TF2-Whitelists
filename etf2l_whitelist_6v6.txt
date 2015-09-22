@@ -17,6 +17,7 @@
 //  - The Dalokohs Bar
 //  - The Scotsman's Skullcutter
 //  - The Shortstop
+//  - The Battalion's Backup
 //  - The Black Box
 //  - Rocket Jumper
 //  - Stickybomb Jumper
@@ -34,11 +35,13 @@
 //  - The Splendid Screen
 //  - The Overdose
 //  - The Liberty Launcher
+//  - The Market Gardener
 //  - Tomislav
 //  - The Family Business
 //  - The Eviction Notice
 //  - The Cow Mangler 5000
 //  - The Righteous Bison
+//  - The Mantreads
 //  - The Winger
 //  - The Holiday Punch
 //  - Baby Face's Blaster
@@ -100,7 +103,7 @@
 {
     "unlisted_items_default_to"                                            "0"
 
-    // Allowed Weapons: (Total: 86)
+    // Allowed Weapons: (Total: 89)
     "The Kritzkrieg"                                                       "1"
     "The Blutsauger"                                                       "1"
     "The Ubersaw"                                                          "1"
@@ -133,6 +136,7 @@
     "The Shortstop"                                                        "1"
     "L'Etranger"                                                           "1"
     "Your Eternal Reward"                                                  "1"
+    "The Battalion's Backup"                                               "1"
     "The Black Box"                                                        "1"
     "The Bushwacka"                                                        "1"
     "Rocket Jumper"                                                        "1"
@@ -158,11 +162,13 @@
     "The Splendid Screen"                                                  "1"
     "The Overdose"                                                         "1"
     "The Liberty Launcher"                                                 "1"
+    "The Market Gardener"                                                  "1"
     "Tomislav"                                                             "1"
     "The Family Business"                                                  "1"
     "The Eviction Notice"                                                  "1"
     "The Cow Mangler 5000"                                                 "1"
     "The Righteous Bison"                                                  "1"
+    "The Mantreads"                                                        "1"
     "The Winger"                                                           "1"
     "The Enforcer"                                                         "1"
     "The Big Earner"                                                       "1"
@@ -394,7 +400,7 @@
     "Festive SMG 2014"                                                     "1"
     "The Nostromo Napalmer"                                                "1"
 
-    // Blocked Weapons: (Total: 122)
+    // Blocked Weapons: (Total: 119)
     "Natascha"                                                             "0"
     "The Sandvich"                                                         "0"
     "The Sandman"                                                          "0"
@@ -405,7 +411,6 @@
     "Crit-a-Cola"                                                          "0"
     "The Vita-Saw"                                                         "0"
     "Mad Milk"                                                             "0"
-    "The Battalion's Backup"                                               "0"
     "The Sydney Sleeper"                                                   "0"
     "Darwin's Danger Shield"                                               "0"
     "Gloves of Running Urgently"                                           "0"
@@ -418,8 +423,6 @@
     "The Quick-Fix"                                                        "0"
     "The Solemn Vow"                                                       "0"
     "The Reserve Shooter"                                                  "0"
-    "The Market Gardener"                                                  "0"
-    "The Mantreads"                                                        "0"
     "The Disciplinary Action"                                              "0"
     "The Soda Popper"                                                      "0"
     "The Atomizer"                                                         "0"
