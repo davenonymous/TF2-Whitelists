@@ -400,7 +400,7 @@
     "Festive SMG 2014"                                                     "1"
     "The Nostromo Napalmer"                                                "1"
 
-    // Blocked Weapons: (Total: 119)
+    // Blocked Weapons: (Total: 123)
     "Natascha"                                                             "0"
     "The Sandvich"                                                         "0"
     "The Sandman"                                                          "0"
@@ -520,11 +520,15 @@
     "powerhouse_rocketlauncher_aquamarine"                                 "0"
     "powerhouse_smg_lowprofile"                                            "0"
     "powerhouse_sniperrifle_thunderbolt"                                   "0"
+    "Shooting Star"                                                        "0"
+    "The C.A.P.P.E.R"                                                      "0"
+    "Batsaber"                                                             "0"
+    "The Giger Counter"                                                    "0"
 
     // Blocked Items: (Total: 1)
     "Pyrovision Goggles"                                                   "0"
 
-    // Allowed Hats: (Total: 544)
+    // Allowed Hats: (Total: 548)
     "Demoman's Fro"                                                        "1"
     "Football Helmet"                                                      "1"
     "Prussian Pickelhaube"                                                 "1"
@@ -1069,8 +1073,12 @@
     "Captain Cardbeard Cutthroat"                                          "1"
     "Potassium Bonnett"                                                    "1"
     "White Russian"                                                        "1"
+    "Phononaut"                                                            "1"
+    "Sucker Slug"                                                          "1"
+    "Universal Translator"                                                 "1"
+    "A Head Full of Hot Air"                                               "1"
 
-    // Misc Items: (Total: 1499)
+    // Misc Items: (Total: 1512)
     "Mining Light"                                                         "1"
     "Camera Beard"                                                         "1"
     "Web Easteregg Medal"                                                  "1"
@@ -2570,8 +2578,21 @@
     "Wild West Waistcoat"                                                  "1"
     "Flak Jack"                                                            "1"
     "El Duderino"                                                          "1"
+    "Captain Space Mann"                                                   "1"
+    "Corona Australis"                                                     "1"
+    "Final Frontiersman"                                                   "1"
+    "Starduster"                                                           "1"
+    "The Graylien"                                                         "1"
+    "Phobos Filter"                                                        "1"
+    "Life Support System"                                                  "1"
+    "Rocket Operator"                                                      "1"
+    "Cadet Visor"                                                          "1"
+    "Jupiter Jetpack"                                                      "1"
+    "The Space Diver"                                                      "1"
+    "Space Hamster Hammy"                                                  "1"
+    "Invasion Community Update Medal"                                      "1"
 
-    // Action Items: (Total: 73)
+    // Action Items: (Total: 74)
     "High Five Taunt"                                                      "1"
     "Gift - 1 Player"                                                      "1"
     "Gift - 24 Players"                                                    "1"
@@ -2645,6 +2666,7 @@
     "Taunt: Most Wanted"                                                   "1"
     "Taunt: The Boxtrot"                                                   "1"
     "Taunt: The Proletariat Showoff"                                       "1"
+    "Taunt: Burstchester"                                                  "1"
 
     // Noise Maker: (Total: 15)
     "Halloween Noise Maker - Black Cat"                                    "0"

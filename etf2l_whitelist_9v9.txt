@@ -46,6 +46,8 @@
 //  - powerhouse_minigun_brickhouse
 //  - powerhouse_pistol_sandstonespecial
 //  - powerhouse_rocketlauncher_aquamarine
+//  - The C.A.P.P.E.R
+//  - Batsaber
 //
 // Blocked weapons for Support classes:
 //  - Darwin's Danger Shield
@@ -88,6 +90,8 @@
 //  - powerhouse_flamethrower_turbinetorcher
 //  - powerhouse_smg_lowprofile
 //  - powerhouse_sniperrifle_thunderbolt
+//  - Shooting Star
+//  - The Giger Counter
 //
 // Weapon sets are:     banned
 // Weapon skins are:    allowed
@@ -430,7 +434,7 @@
     "Festive SMG 2014"                                                     "1"
     "The Nostromo Napalmer"                                                "1"
 
-    // Blocked Weapons: (Total: 85)
+    // Blocked Weapons: (Total: 89)
     "Crit-a-Cola"                                                          "0"
     "The Vita-Saw"                                                         "0"
     "Darwin's Danger Shield"                                               "0"
@@ -516,6 +520,10 @@
     "powerhouse_rocketlauncher_aquamarine"                                 "0"
     "powerhouse_smg_lowprofile"                                            "0"
     "powerhouse_sniperrifle_thunderbolt"                                   "0"
+    "Shooting Star"                                                        "0"
+    "The C.A.P.P.E.R"                                                      "0"
+    "Batsaber"                                                             "0"
+    "The Giger Counter"                                                    "0"
 
     // Blocked Items: (Total: 18)
     "High Five Taunt"                                                      "0"
@@ -537,7 +545,7 @@
     "Conga Taunt"                                                          "0"
     "Pool Party Taunt"                                                     "0"
 
-    // Allowed Hats: (Total: 544)
+    // Allowed Hats: (Total: 548)
     "Demoman's Fro"                                                        "1"
     "Football Helmet"                                                      "1"
     "Prussian Pickelhaube"                                                 "1"
@@ -1082,8 +1090,12 @@
     "Captain Cardbeard Cutthroat"                                          "1"
     "Potassium Bonnett"                                                    "1"
     "White Russian"                                                        "1"
+    "Phononaut"                                                            "1"
+    "Sucker Slug"                                                          "1"
+    "Universal Translator"                                                 "1"
+    "A Head Full of Hot Air"                                               "1"
 
-    // Misc Items: (Total: 1491)
+    // Misc Items: (Total: 1504)
     "Mining Light"                                                         "1"
     "Camera Beard"                                                         "1"
     "Web Easteregg Medal"                                                  "1"
@@ -2575,8 +2587,21 @@
     "Wild West Waistcoat"                                                  "1"
     "Flak Jack"                                                            "1"
     "El Duderino"                                                          "1"
+    "Captain Space Mann"                                                   "1"
+    "Corona Australis"                                                     "1"
+    "Final Frontiersman"                                                   "1"
+    "Starduster"                                                           "1"
+    "The Graylien"                                                         "1"
+    "Phobos Filter"                                                        "1"
+    "Life Support System"                                                  "1"
+    "Rocket Operator"                                                      "1"
+    "Cadet Visor"                                                          "1"
+    "Jupiter Jetpack"                                                      "1"
+    "The Space Diver"                                                      "1"
+    "Space Hamster Hammy"                                                  "1"
+    "Invasion Community Update Medal"                                      "1"
 
-    // Action Items: (Total: 65)
+    // Action Items: (Total: 66)
     "Gift - 1 Player"                                                      "1"
     "Gift - 24 Players"                                                    "1"
     "Duel MiniGame"                                                        "1"
@@ -2642,6 +2667,7 @@
     "Taunt: Most Wanted"                                                   "1"
     "Taunt: The Boxtrot"                                                   "1"
     "Taunt: The Proletariat Showoff"                                       "1"
+    "Taunt: Burstchester"                                                  "1"
 
     // Noise Maker: (Total: 14)
     "Halloween Noise Maker - Black Cat"                                    "0"
