@@ -400,7 +400,7 @@
     "Festive SMG 2014"                                                     "1"
     "The Nostromo Napalmer"                                                "1"
 
-    // Blocked Weapons: (Total: 123)
+    // Blocked Weapons: (Total: 126)
     "Natascha"                                                             "0"
     "The Sandvich"                                                         "0"
     "The Sandman"                                                          "0"
@@ -460,6 +460,9 @@
     "Festive Bonk 2014"                                                    "0"
     "Panic Attack Shotgun"                                                 "0"
     "Powerup Knockout"                                                     "0"
+    "Powerup King"                                                         "0"
+    "Powerup Plague"                                                       "0"
+    "Powerup Supernova"                                                    "0"
     "concealedkiller_sniperrifle_nightowl"                                 "0"
     "concealedkiller_smg_woodsywidowmaker"                                 "0"
     "concealedkiller_scattergun_nightterror"                               "0"
@@ -528,7 +531,7 @@
     // Blocked Items: (Total: 1)
     "Pyrovision Goggles"                                                   "0"
 
-    // Allowed Hats: (Total: 548)
+    // Allowed Hats: (Total: 554)
     "Demoman's Fro"                                                        "1"
     "Football Helmet"                                                      "1"
     "Prussian Pickelhaube"                                                 "1"
@@ -1077,8 +1080,14 @@
     "Sucker Slug"                                                          "1"
     "Universal Translator"                                                 "1"
     "A Head Full of Hot Air"                                               "1"
+    "Smokey Sombrero"                                                      "1"
+    "Death Racer's Helmet"                                                 "1"
+    "Duck Billed Hatypus"                                                  "1"
+    "Prehistoric Pullover"                                                 "1"
+    "The Hellmet"                                                          "1"
+    "B'aaarrgh-n-Bicorne"                                                  "1"
 
-    // Misc Items: (Total: 1512)
+    // Misc Items: (Total: 1525)
     "Mining Light"                                                         "1"
     "Camera Beard"                                                         "1"
     "Web Easteregg Medal"                                                  "1"
@@ -2591,8 +2600,21 @@
     "The Space Diver"                                                      "1"
     "Space Hamster Hammy"                                                  "1"
     "Invasion Community Update Medal"                                      "1"
+    "Roboot"                                                               "1"
+    "The Face of Mercy"                                                    "1"
+    "El Caballero"                                                         "1"
+    "El Patron"                                                            "1"
+    "Neptune's Nightmare"                                                  "1"
+    "Thrilling Tracksuit"                                                  "1"
+    "Grim Tweeter"                                                         "1"
+    "Iron Lung"                                                            "1"
+    "Catastrophic Companions"                                              "1"
+    "Dead'er Alive"                                                        "1"
+    "Crusader's Getup"                                                     "1"
+    "Arthropod's Aspect"                                                   "1"
+    "B'aaarrgh-n-Britches"                                                 "1"
 
-    // Action Items: (Total: 74)
+    // Action Items: (Total: 76)
     "High Five Taunt"                                                      "1"
     "Gift - 1 Player"                                                      "1"
     "Gift - 24 Players"                                                    "1"
@@ -2667,6 +2689,8 @@
     "Taunt: The Boxtrot"                                                   "1"
     "Taunt: The Proletariat Showoff"                                       "1"
     "Taunt: Burstchester"                                                  "1"
+    "Taunt: Zoomin' Broom"                                                 "1"
+    "Taunt: Soldier's Requiem"                                             "1"
 
     // Noise Maker: (Total: 15)
     "Halloween Noise Maker - Black Cat"                                    "0"
